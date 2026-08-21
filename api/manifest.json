@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-08-21T15:59:17Z",
+  "generated_at": "2026-08-21T17:01:33Z",
   "purpose": "Public-safe Global Music Intelligence feed for ChatGPT. The private source registry is not exposed.",
   "source_count": 262,
   "default_url": "https://raw.githubusercontent.com/leokulikov/global-music-feed/main/api/chatgpt-feed.json",

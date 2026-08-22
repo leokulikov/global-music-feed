@@ -1,25 +1,95 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-22T15:54:01Z",
+  "generated_at": "2026-08-22T16:59:09Z",
   "window_hours": 6,
   "source_count": 262,
-  "feeds_ok": 260,
-  "feeds_failed": 2,
-  "item_count": 54,
+  "feeds_ok": 261,
+  "feeds_failed": 1,
+  "item_count": 56,
   "items": [
+    {
+      "id": "8ab67ace2e06d02f1cd94ac7",
+      "title": "THE YARA ・ 屋良チルドレン - OTOTOY",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1uVG12blMwY2NjUzdaYUJqXzVnQVdya1dkNnY2eXhFTENzT1BrdkhXTzNvY3p1MUYyUWU3QVJMMHNFWkhyNDZOaFFOVXBCQQ?oc=5",
+      "summary": "THE YARA ・ 屋良チルドレン OTOTOY",
+      "published_at": "2026-08-22T16:49:53Z",
+      "fetched_at": "2026-08-22T16:59:09Z",
+      "first_seen_at": "2026-08-22T16:59:09Z",
+      "source": "OTOTOY",
+      "category": "Япония",
+      "language": "ja",
+      "region": "Japan",
+      "is_new": true
+    },
+    {
+      "id": "d02f113509c214fd596a0652",
+      "title": "THE YARA ・ 屋良チルドレン / カミアシビ - OTOTOY",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1WcWh5SENPT1k3UHVnMFBJS3MzRWxHTXFQaUgyLV93UDRnTl9QbWlkZnIzNUZ0TjNJSUxlWG1xRlhfTEg0LXJwTUtzdDFjQQ?oc=5",
+      "summary": "THE YARA ・ 屋良チルドレン / カミアシビ OTOTOY",
+      "published_at": "2026-08-22T16:49:53Z",
+      "fetched_at": "2026-08-22T16:59:09Z",
+      "first_seen_at": "2026-08-22T16:59:09Z",
+      "source": "OTOTOY",
+      "category": "Япония",
+      "language": "ja",
+      "region": "Japan",
+      "is_new": true
+    },
+    {
+      "id": "d3dde1a7d6244c413ce44491",
+      "title": "Olivia Rodrigo surprise releases ‘The Handmaid’s Tale’-inspired new song ‘Serena Joy’ on limited edition CD",
+      "url": "https://www.nme.com/news/music/olivia-rodrigo-surprise-releases-the-handmaids-tale-inspired-new-song-serena-joy-on-limited-edition-cd-3964121?utm_source=rss&utm_medium=rss&utm_campaign=olivia-rodrigo-surprise-releases-the-handmaids-tale-inspired-new-song-serena-joy-on-limited-edition-cd",
+      "summary": "Just 500 copies were sold at an independent record shop near her upcoming Daisy Chain Fields festival The post Olivia Rodrigo surprise releases ‘The Handmaid’s Tale’-inspired new song ‘Serena Joy’ on limited edition CD appeared first on NME .",
+      "published_at": "2026-08-22T16:28:58Z",
+      "fetched_at": "2026-08-22T16:59:09Z",
+      "first_seen_at": "2026-08-22T16:59:09Z",
+      "source": "NME",
+      "category": "Музыка, критика и новая музыка",
+      "language": "en",
+      "region": "Global",
+      "is_new": true
+    },
+    {
+      "id": "c15799f720291ed3e9bdf697",
+      "title": "Trama is a FREE offline AI stem separator for Windows, macOS, and Linux",
+      "url": "https://bedroomproducersblog.com/2026/08/22/trama-ai-stem-separator/",
+      "summary": "Ohlhorst Digital’s Trama is a free standalone AI stem separator for Windows, macOS, and Linux. We recently featured StemDeck, a free and open-source local stem splitter that separates a track into up to six parts. Trama has a similar offline approach but focuses on four stems and packages everything into a convenient desktop app. All [...] View post: Trama is a FREE offline AI stem separator for Windows, macOS, and Linux",
+      "published_at": "2026-08-22T16:08:07Z",
+      "fetched_at": "2026-08-22T16:59:09Z",
+      "first_seen_at": "2026-08-22T16:59:09Z",
+      "source": "Bedroom Producers Blog",
+      "category": "Продакшн, звукозапись и технологии",
+      "language": "en",
+      "region": "Global",
+      "is_new": true
+    },
+    {
+      "id": "3795a086e7c6fc4a59230bd2",
+      "title": "Ima Jin / THE FIRE BEHIND THE FRAME - OTOTOY",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvdkotbUhMU1dkM1FOV3p0bE5jM2xJVnNScjlNWmlOZGpGUWFrMVpRbXpYRHNiZlhkVGZCUUNhdTdENmN3RzJhcGhUQngwdw?oc=5",
+      "summary": "Ima Jin / THE FIRE BEHIND THE FRAME OTOTOY",
+      "published_at": "2026-08-22T15:50:54Z",
+      "fetched_at": "2026-08-22T16:59:09Z",
+      "first_seen_at": "2026-08-22T16:59:09Z",
+      "source": "OTOTOY",
+      "category": "Япония",
+      "language": "ja",
+      "region": "Japan",
+      "is_new": true
+    },
     {
       "id": "c2547775856b8294252f06fd",
       "title": "YONA / self control - OTOTOY",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5PdW1NckxhM3pYdWV2QWxkS2wtNllZYVJjOHRHVHFtcm9EbWpWdlV1WG9MNUlGWWFkeUd0S0RPNVZJSlM1NnZ2UlpWdVZiQQ?oc=5",
       "summary": "YONA / self control OTOTOY",
       "published_at": "2026-08-22T15:50:49Z",
-      "fetched_at": "2026-08-22T15:54:01Z",
+      "fetched_at": "2026-08-22T16:59:09Z",
       "first_seen_at": "2026-08-22T15:54:01Z",
       "source": "OTOTOY",
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "137f78b41110d1355378b9c7",
@@ -27,13 +97,13 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4wTGthQWhpbXRLYlZsM3FVUEt0bTlvTzBXSXhjZjhwX2RVNXlMd1JqdDVWRFpoSTE1Nk1RTlhqa3FudDNKX1FmV0dNZmIxUQ?oc=5",
       "summary": "kNock in Story Project J.M.C / EDEN OTOTOY",
       "published_at": "2026-08-22T15:50:47Z",
-      "fetched_at": "2026-08-22T15:54:01Z",
+      "fetched_at": "2026-08-22T16:59:09Z",
       "first_seen_at": "2026-08-22T15:54:01Z",
       "source": "OTOTOY",
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "1425e4e25d74dfb5e5e7055c",
@@ -41,13 +111,13 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB5Ny1mMGpwVlBWWE1FVWtKNjU3R3lxaGpLM1UwR3JDdUZiSHJfbHpKNjczdzRsZ3hnODZVVWozVFVsZUJ4OWlMdGlrZGdiZw?oc=5",
       "summary": "ハニカムズ / nuke:ge OTOTOY",
       "published_at": "2026-08-22T15:50:46Z",
-      "fetched_at": "2026-08-22T15:54:01Z",
+      "fetched_at": "2026-08-22T16:59:09Z",
       "first_seen_at": "2026-08-22T15:54:01Z",
       "source": "OTOTOY",
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "8e5a14d3b03f2f3579593713",
@@ -55,13 +125,13 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1wTjBLNlhjYVl5eDAzVkhEVk5Wd0FpU0hmWEtkSnBoMnV6d2pKeEw1end5SEhmVGRINHo2NS0tR0t5a3BUNjR2RENiYVRRUQ?oc=5",
       "summary": "fekk OTOTOY",
       "published_at": "2026-08-22T15:50:44Z",
-      "fetched_at": "2026-08-22T15:54:01Z",
+      "fetched_at": "2026-08-22T16:59:09Z",
       "first_seen_at": "2026-08-22T15:54:01Z",
       "source": "OTOTOY",
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "d87dff1978d1c24503d56ccb",
@@ -69,13 +139,13 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBNc0lDLVMyLThOTkY0Z2RTY3RYMjR1QTRpamJtZzhWbEoyVlhyRmp2QmxacnkwYW44ekF3S0dQa1o2TGlGOUJRLVZhQUk5dw?oc=5",
       "summary": "アーリーバード研究所 / ブルー OTOTOY",
       "published_at": "2026-08-22T15:50:43Z",
-      "fetched_at": "2026-08-22T15:54:01Z",
+      "fetched_at": "2026-08-22T16:59:09Z",
       "first_seen_at": "2026-08-22T15:54:01Z",
       "source": "OTOTOY",
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "558643b2c7c9ee5e49ed6b38",
@@ -83,13 +153,13 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAwcFBvVUdGcjhLamppbDBVUEtVN0w0dmRoOTI2WjdmbC1WRmdEWVRxRDBHR2poR0xBNllMNjQzTEdVTTc2Vl9INEcxbU5fQQ?oc=5",
       "summary": "うたたねマフラー / 永遠距離恋愛 OTOTOY",
       "published_at": "2026-08-22T15:50:42Z",
-      "fetched_at": "2026-08-22T15:54:01Z",
+      "fetched_at": "2026-08-22T16:59:09Z",
       "first_seen_at": "2026-08-22T15:54:01Z",
       "source": "OTOTOY",
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "73f0f2c59439ad82ff4e31c2",
@@ -97,13 +167,13 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9HdFNIRVg5WFZVNVpudHlGYy1oc0c4VkwtRmRMR0oyRGdSWUFrdEh4VkpHeldaODU2Zm9NWldrYXEweko3RVVmNXJLLUdHQQ?oc=5",
       "summary": "ハート / INOCHI (2026) OTOTOY",
       "published_at": "2026-08-22T15:50:40Z",
-      "fetched_at": "2026-08-22T15:54:01Z",
+      "fetched_at": "2026-08-22T16:59:09Z",
       "first_seen_at": "2026-08-22T15:54:01Z",
       "source": "OTOTOY",
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "56a4d034b0efe66cc54fa8a1",
@@ -111,13 +181,13 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1rVWJ2NGxBTFlTOEtJcGp2UGNBNWN2ZXpuM3hQSjEzWFdONFByanlHRFRXZlo4ZVBNTW9fRkl5VHhidlZFX0ZodW1KQjA1QQ?oc=5",
       "summary": "うさ恋ダンス！！ (feat. 初音ミク & 鏡音リン) OTOTOY",
       "published_at": "2026-08-22T15:50:39Z",
-      "fetched_at": "2026-08-22T15:54:01Z",
+      "fetched_at": "2026-08-22T16:59:09Z",
       "first_seen_at": "2026-08-22T15:54:01Z",
       "source": "OTOTOY",
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "b3a317a958cd66d0b89b6d6b",
@@ -125,13 +195,13 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5lQ3ltcm1qeVdMRHYtMmwwb3REek4zSnVQbnRUa0tqZWlDUG1ob0FWZjU3RmprVEE3NXd5NEd6TG5JeEpoMUwwYW43QkloUQ?oc=5",
       "summary": "log you / 大天才フェスティバル OTOTOY",
       "published_at": "2026-08-22T15:50:38Z",
-      "fetched_at": "2026-08-22T15:54:01Z",
+      "fetched_at": "2026-08-22T16:59:09Z",
       "first_seen_at": "2026-08-22T15:54:01Z",
       "source": "OTOTOY",
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "178c9e673c3d1d068b6ae070",
@@ -139,13 +209,13 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE84c2tJa1hnVGE0a1dNUDJtTHp1Mk02Slo5cjlHdVZIWDlqNWpRbUlHVHdDaXdybVpORjFYXzh4eGpuazBGWGRITGpheGx4UQ?oc=5",
       "summary": "dongdang / 迂回 OTOTOY",
       "published_at": "2026-08-22T15:50:36Z",
-      "fetched_at": "2026-08-22T15:54:01Z",
+      "fetched_at": "2026-08-22T16:59:09Z",
       "first_seen_at": "2026-08-22T15:54:01Z",
       "source": "OTOTOY",
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "846f218db6d7f6ed737cf125",
@@ -153,13 +223,13 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8xRmRjYkc0SzdHZllvM1h0Nkh2WTdpV1BadzFMaVRiV003MlQwU2ZoUGM1QzZjMzZMWUNFSXdlc0xQdUhseWVGQVdCVVNKUQ?oc=5",
       "summary": "幾星霜を彷徨った君と希望を翳して。 / Sailing days OTOTOY",
       "published_at": "2026-08-22T15:50:31Z",
-      "fetched_at": "2026-08-22T15:54:01Z",
+      "fetched_at": "2026-08-22T16:59:09Z",
       "first_seen_at": "2026-08-22T15:54:01Z",
       "source": "OTOTOY",
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "05c5bd64d233201267b46e48",
@@ -167,13 +237,13 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0tdV9NQUR5NFpHbXBXUXZkZDg0UVdIUjItWUxDb2xVcXkxZTBGLVlYcXVoMDZFMnRLa3AwcnMwMnF5UzVKVkJKVjI2ZnNVUQ?oc=5",
       "summary": "夢川かなう / CUTE × AGGRESSION OTOTOY",
       "published_at": "2026-08-22T15:50:30Z",
-      "fetched_at": "2026-08-22T15:54:01Z",
+      "fetched_at": "2026-08-22T16:59:09Z",
       "first_seen_at": "2026-08-22T15:54:01Z",
       "source": "OTOTOY",
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "13392d01b1098e5301a9243f",
@@ -181,13 +251,13 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE16ekxkLVpyT0xCT3VOYldaRktXQVlSaFFLbzFxcXg3RmVySTNLRXJ1bWx4V1pGdlFJTnd5RW1MaGtCdG51QXg1RmRGT1ZvUQ?oc=5",
       "summary": "0番線と夜明け前 / アクアリウムの子どもたち OTOTOY",
       "published_at": "2026-08-22T15:50:21Z",
-      "fetched_at": "2026-08-22T15:54:01Z",
+      "fetched_at": "2026-08-22T16:59:09Z",
       "first_seen_at": "2026-08-22T15:54:01Z",
       "source": "OTOTOY",
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "cad09478d202364d59876958",
@@ -195,13 +265,13 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9fYjFUWVVoVDNGR3BaUTZBcnUyNWZhelB4X0V4UkhCQXBqVnNqV2dzcWVDQk1oYXd6OHh4Y0ltcWVtb1B0YW1TalJvOVdpdw?oc=5",
       "summary": "MiMei, 重音テト / 最低証明 (feat. 重音テト) OTOTOY",
       "published_at": "2026-08-22T15:50:03Z",
-      "fetched_at": "2026-08-22T15:54:01Z",
+      "fetched_at": "2026-08-22T16:59:09Z",
       "first_seen_at": "2026-08-22T15:54:01Z",
       "source": "OTOTOY",
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "93170da297f159c7f20fd49c",
@@ -209,13 +279,13 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB0NVBlb09BZ2xIdlo4bzZpeFlUV29xUDNCZ203VEI2V0psRFlwempGVU9mZ2FMRFdjT3hoWHE1WG02dlhJeUNvWk8tSTYwUQ?oc=5",
       "summary": "Relaxing Piano Crew / 自由に過ごすやすらぎのカフェタイム OTOTOY",
       "published_at": "2026-08-22T15:49:59Z",
-      "fetched_at": "2026-08-22T15:54:01Z",
+      "fetched_at": "2026-08-22T16:59:09Z",
       "first_seen_at": "2026-08-22T15:54:01Z",
       "source": "OTOTOY",
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "993ce35a963360a5aed028ef",
@@ -223,13 +293,13 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE16UzMySHZIdFM4Xzh6b1VlcW1TcFIydUwtN3lsQ1R1Z3JTbnlRTTVUQ0kxeTVTb0xYY1JsamxTNFl5TU1oLTNnclA3YWludw?oc=5",
       "summary": "ノートンビート / むき出し OTOTOY",
       "published_at": "2026-08-22T15:49:57Z",
-      "fetched_at": "2026-08-22T15:54:01Z",
+      "fetched_at": "2026-08-22T16:59:09Z",
       "first_seen_at": "2026-08-22T15:54:01Z",
       "source": "OTOTOY",
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "e8dd2c8ac170efb228bb74da",
@@ -237,12 +307,40 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9tZ1dzZ0VEd1FBNlVXS1M0STZCS0tCQmowck9NNjdCZnh6THpZUVpYNUhiMEQzYk1xTmV6c0NLYWtwM1VwalFtTDl3UXEydw?oc=5",
       "summary": "重音テトはこんなパーティ二人で抜け出せるのか ～Everlasting Edition～ (feat. 重音テト & 初音ミク) OTOTOY",
       "published_at": "2026-08-22T15:49:48Z",
-      "fetched_at": "2026-08-22T15:54:01Z",
+      "fetched_at": "2026-08-22T16:59:09Z",
       "first_seen_at": "2026-08-22T15:54:01Z",
       "source": "OTOTOY",
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
+      "is_new": false
+    },
+    {
+      "id": "7c1ec4abcbc39aece5fad725",
+      "title": "9Lana / 螺旋 - RASEN - Acoustic Ver. - OTOTOY",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1mbjF6Y0h5b3NRbXdUV1N2ZHQ4TEwyR0RfVno5ekkzbFBfQ2dZZzNJYWd1RzUtbjZWZUs2NFRwRTgtMVV2bVRTSWdlcUtGdw?oc=5",
+      "summary": "9Lana / 螺旋 - RASEN - Acoustic Ver. OTOTOY",
+      "published_at": "2026-08-22T15:49:48Z",
+      "fetched_at": "2026-08-22T16:59:09Z",
+      "first_seen_at": "2026-08-22T16:59:09Z",
+      "source": "OTOTOY",
+      "category": "Япония",
+      "language": "ja",
+      "region": "Japan",
+      "is_new": true
+    },
+    {
+      "id": "a3bdcf758a7977d9defe7b12",
+      "title": "Audio A/B Comparator V1.0 (Windows/Linux - Free/Open Source) - Gearspace",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUk9MVE5MYXRuQ3FXZVBVeGFCcjhwdzc0UE5DaElTVzRJb0hhVjNkQkNZVTV2eVR5R0xrVXNfVkNoZ3hzZFFRYnZkR09yUVhlRHh3MzFVZVhFNVJ6WFhnajVGTEYzcWdiaFNlelFNaXZLNEc2UTBZT0RXTy1MVHY0QldSVGREcEpqeTZmOHFFY3lyMzRtQ3liWklHYw?oc=5",
+      "summary": "Audio A/B Comparator V1.0 (Windows/Linux - Free/Open Source) Gearspace",
+      "published_at": "2026-08-22T15:45:31Z",
+      "fetched_at": "2026-08-22T16:59:09Z",
+      "first_seen_at": "2026-08-22T16:59:09Z",
+      "source": "Gearspace",
+      "category": "Продакшн, звукозапись и технологии",
+      "language": "en",
+      "region": "Global",
       "is_new": true
     },
     {
@@ -251,13 +349,13 @@
       "url": "https://www.nme.com/news/music/dry-cleaning-bring-out-wilcos-jeff-tweedy-for-my-soul-half-pint-at-green-man-2026-3964113?utm_source=rss&utm_medium=rss&utm_campaign=dry-cleaning-bring-out-wilcos-jeff-tweedy-for-my-soul-half-pint-at-green-man-2026",
       "summary": "Tweedy also played on the studio version of the track from the London band's third album 'Secret Love' The post Dry Cleaning bring out Wilco’s Jeff Tweedy for ‘My Soul/Half Pint’ at Green Man 2026 appeared first on NME .",
       "published_at": "2026-08-22T15:39:29Z",
-      "fetched_at": "2026-08-22T15:54:01Z",
+      "fetched_at": "2026-08-22T16:59:09Z",
       "first_seen_at": "2026-08-22T15:54:01Z",
       "source": "NME",
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "8b7745fe65c5b7a185615038",
@@ -265,8 +363,22 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR0oxcDdKekZhbmZrVFNyMmE3X2xtTlkwUDgwSnlYVHBTUU1yRWNUNVlCelk1MTFvRzBlMGY4QzQ4czBOdDRWZkUzWmVTcnZWLWcyeHhoVVBGZ3k1YXNxUmFzTEdCY3ZYcWxMS3pwU3JuUWhQSlQ3MHNDRHFKMlhwNGpjU2pSV0Ry?oc=5",
       "summary": "Is this RCA 44BX in M mode ? Jumper question. Gearspace",
       "published_at": "2026-08-22T15:22:53Z",
-      "fetched_at": "2026-08-22T15:54:01Z",
+      "fetched_at": "2026-08-22T16:59:09Z",
       "first_seen_at": "2026-08-22T15:54:01Z",
+      "source": "Gearspace",
+      "category": "Продакшн, звукозапись и технологии",
+      "language": "en",
+      "region": "Global",
+      "is_new": false
+    },
+    {
+      "id": "a5dadd492746ab18e940cdda",
+      "title": "GBus Compressor - Gearspace",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtRGJUd3ROakU2SVZMTUI5dnI3aHBVd3RiZUFSc25yS2V2SWgwcWV4SUhPM3VtNlZKR202RGpZcElVWTlCNzVPd0ZYZHFqX3RxOXppdm9aQkVVbUpKbWtYODRha0o?oc=5",
+      "summary": "GBus Compressor Gearspace",
+      "published_at": "2026-08-22T15:22:52Z",
+      "fetched_at": "2026-08-22T16:59:09Z",
+      "first_seen_at": "2026-08-22T16:59:09Z",
       "source": "Gearspace",
       "category": "Продакшн, звукозапись и технологии",
       "language": "en",
@@ -279,13 +391,13 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQTJyZ0ltaUxDR1Z5cW5jZDRqQXFkSXQ5dnFsajFlX045QkQxbEREbWFuemxSMWRwVU5FNUtaTlpLZ3pFUmtQYjI4bmYtb0FjTVMzOVl5OUtNZXBZUU05MmJRc0l3RFFFV1MxSkVJWE1EV1hXX2JPZ2FZQ0tqTUloTXVR?oc=5",
       "summary": "Nikon D7100 and Abletons SQ Sequencer Gearspace",
       "published_at": "2026-08-22T15:22:52Z",
-      "fetched_at": "2026-08-22T15:54:01Z",
+      "fetched_at": "2026-08-22T16:59:09Z",
       "first_seen_at": "2026-08-22T15:54:01Z",
       "source": "Gearspace",
       "category": "Продакшн, звукозапись и технологии",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "cacfae391a8b1d1bc498b78e",
@@ -293,13 +405,13 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSzNwNVlma3dZQUhBYjlPTDZmdFFZMzZKV3V5M3pTNXdTcmZ3MXFzR1NJTlc4NHVXUTJJX1d3WFoxT3hLT2k4cDNmNjB6MVBvV0puX0lwdVY0bjFZZUhTa2kxMGFxLW5kMzRtd1ZOWXJ5RWhsYk1NemcxeEdHenVDTnJTOTZNbWgwdG9MQmtjVVVZTTRlOEVtWWFQbw?oc=5",
       "summary": "[Free/Open Source] Audio A/B Comparator V1.0! (Windows/Linux) Gearspace",
       "published_at": "2026-08-22T15:15:01Z",
-      "fetched_at": "2026-08-22T15:54:01Z",
+      "fetched_at": "2026-08-22T16:59:09Z",
       "first_seen_at": "2026-08-22T15:54:01Z",
       "source": "Gearspace",
       "category": "Продакшн, звукозапись и технологии",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "4c48bd2f5aba3ef786629ea0",
@@ -307,13 +419,13 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GMFJqQjJhcjB3bjJ5cFNRSjR0ekt1eW02aWRFd0ttNGVCZXN2SDFxaFV3TDhkXzlLelZ6LU5tR1JiMzNCb1VpREVjcC11OHItNWJkMVlpOXVKWDFBTE9XMl9WSE9jMml4d2RpUGhjWE5HSlVMY093WE45M2tzS28?oc=5",
       "summary": "Tape Flavor on Mix Bus - Zulu, Deco or ...? Gearspace",
       "published_at": "2026-08-22T15:06:56Z",
-      "fetched_at": "2026-08-22T15:54:01Z",
+      "fetched_at": "2026-08-22T16:59:09Z",
       "first_seen_at": "2026-08-22T15:54:01Z",
       "source": "Gearspace",
       "category": "Продакшн, звукозапись и технологии",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "411b364284b5dd29ac8a0be9",
@@ -321,7 +433,7 @@
       "url": "https://consequence.net/2026/08/garth-brooks-blame-it-all-on-my-roots-arena-tour-setlist/",
       "summary": "Brooks kicked off his arena return with two sold-out Indianapolis shows featuring deep cuts, fan favorites, and surprises from across his career. See the Setlist for Garth Brooks’ “Blame It All On My Roots” Arena Tour Kick-Off Alex Young",
       "published_at": "2026-08-22T14:50:33Z",
-      "fetched_at": "2026-08-22T15:54:01Z",
+      "fetched_at": "2026-08-22T16:59:09Z",
       "first_seen_at": "2026-08-22T14:56:41Z",
       "source": "Consequence",
       "category": "Музыка, критика и новая музыка",
@@ -335,7 +447,7 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdEdiM3JFY2tZUk5YZ3dfWG9VT2ZzUVU3XzJUNm05LVU3Yk5wNncxaXlDaC1paVBmWWJIRkduME5DWVlaOGpoWUNnS2MxUVQ3OE1XdkFoVnFhdTVHckNkdG1WRWQ3RWwzMmRyZmMtd3BOQ1cySzFsLXY2QXhudVBySngtbGpiNUU3YXdHdjc1V0lvYy1hRFN4MkExMUFsUQ?oc=5",
       "summary": "Is there a difference between TAB v376 and Telefunken v376? Gearspace",
       "published_at": "2026-08-22T14:18:39Z",
-      "fetched_at": "2026-08-22T15:54:01Z",
+      "fetched_at": "2026-08-22T16:59:09Z",
       "first_seen_at": "2026-08-22T14:56:41Z",
       "source": "Gearspace",
       "category": "Продакшн, звукозапись и технологии",
@@ -349,13 +461,13 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jQTdMby1Db3JYNmRFUFBqQlExNTQwVllzOWdTdFlQa01CVWRRZGhCbmhZeW9RbGR5eUxMejNTVFNUWGlUcXZ3V1RDOV8yYlFydEdVcERnVFlqZUQyYWNXVlUyNUk1RXZVN0ZBdVJTXzctUQ?oc=5",
       "summary": "PMC PRODIGY 1 vs ATC SCM7? Gearspace",
       "published_at": "2026-08-22T13:47:11Z",
-      "fetched_at": "2026-08-22T15:54:01Z",
+      "fetched_at": "2026-08-22T16:59:09Z",
       "first_seen_at": "2026-08-22T15:54:01Z",
       "source": "Gearspace",
       "category": "Продакшн, звукозапись и технологии",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "984e501905e955462ec378c8",
@@ -363,7 +475,7 @@
       "url": "https://stereogum.com/2509144/bigxthaplug-arrested-on-one-year-anniversary-of-last-arrest-misses-festival-set/news/",
       "summary": "On Aug. 21, 2025, BigXthaPlug was arrested for marijuana possession of less than two ounces, and unlawful possession of a firearm just hours before his album came out. On Aug. 21, 2026, BigXthaPlug was arrested again, this time for driving while intoxicated, marijuana possession of less than 2 ounces, and unlawful possession of a firearm. The post BigXthaPlug Arrested On One-Year Anniversary Of Last Arrest, Misses Festival Set appeared first on Stereogum .",
       "published_at": "2026-08-22T13:46:16Z",
-      "fetched_at": "2026-08-22T15:54:01Z",
+      "fetched_at": "2026-08-22T16:59:09Z",
       "first_seen_at": "2026-08-22T13:46:53Z",
       "source": "Stereogum",
       "category": "Музыка, критика и новая музыка",
@@ -377,7 +489,7 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5Sy1FaGtHVk56NmxfRGRsYlJYcTJtQ2RhWEdoQWl2bm5EUHgtSVk3LWp4bjVxNVJ4elIzb0RXdVJ1d2xiZ05PSmVXT3NWTWNydkxIcU11ZUhBdWlMRVpSa1d3?oc=5",
       "summary": "羊文学、日本武道館ライブ映像を夏休み期間限定公開 Billboard JAPAN",
       "published_at": "2026-08-22T13:40:00Z",
-      "fetched_at": "2026-08-22T15:54:01Z",
+      "fetched_at": "2026-08-22T16:59:09Z",
       "first_seen_at": "2026-08-22T13:46:53Z",
       "source": "Billboard Japan",
       "category": "Япония",
@@ -391,7 +503,7 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0czZES1VETElRYnRQTkVXNm5qYUpTZGFZclBZS2pQZDU0RzNVNEhYLTRmbGQxUGZ6eEEzOWNSZFV4RC1lNk5pQVd0NEJ5MjNVLXBVREhZbGhqbkM5TXp1VEJn?oc=5",
       "summary": "映秀。弾き語りライブ【歌夕寝-うたたね-】10月開催、新曲「虹色エール」ジャケット公開 Billboard JAPAN",
       "published_at": "2026-08-22T13:30:00Z",
-      "fetched_at": "2026-08-22T15:54:01Z",
+      "fetched_at": "2026-08-22T16:59:09Z",
       "first_seen_at": "2026-08-22T13:46:53Z",
       "source": "Billboard Japan",
       "category": "Япония",
@@ -405,7 +517,7 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5RcjNHWmN3R2NFc2xlTEN0S2ZFeS1UTGdzNVgyZ0dXUTAxWkFyMVF1anE2a1RiQlJRVDQ2R3dZYU5KRzdwWnRjSVJjdkVtMTR2RkJLNUtTV1NRcHpSeDhVZXNLbG4?oc=5",
       "summary": "梓川、自身が監督を務めた「ローファイブ」MV公開 Billboard JAPAN",
       "published_at": "2026-08-22T13:25:00Z",
-      "fetched_at": "2026-08-22T15:54:01Z",
+      "fetched_at": "2026-08-22T16:59:09Z",
       "first_seen_at": "2026-08-22T14:56:41Z",
       "source": "Billboard Japan",
       "category": "Япония",
@@ -425,7 +537,7 @@
       "category": "Продакшн, звукозапись и технологии",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "021f8a937136064a13f8d7cb",
@@ -439,7 +551,7 @@
       "category": "Продакшн, звукозапись и технологии",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "63642ba2ed4e4da608eb03a1",
@@ -453,7 +565,7 @@
       "category": "Продакшн, звукозапись и технологии",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "10826f172f4ffc35a83099ae",
@@ -467,7 +579,7 @@
       "category": "Продакшн, звукозапись и технологии",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "d93d0b99ea8fec467555c8ec",
@@ -475,10 +587,24 @@
       "url": "https://cdm.link/the-best-lesser-sung-sounds-of-2026-so-far/",
       "summary": "It's time for a sonic refill. David Abravanel is here with a full supply of lush arps, washes of sound, rapid-fire grooves -- everything Appleblim to Posthuman to Vladislav Delay Quintet, Suzanne Ciani and a bunch more. Your mission: buy some downloads if you can spare the change, and load up some full-album listens in a player of your choice. And maybe turn off the world for a while. -Ed. The post The best lesser-sung sounds of 2026 so far appeared first on CDM Create Digital Music .",
       "published_at": "2026-08-22T12:52:36Z",
-      "fetched_at": "2026-08-22T14:56:41Z",
+      "fetched_at": "2026-08-22T16:59:09Z",
       "first_seen_at": "2026-08-22T14:56:41Z",
       "source": "Create Digital Music / CDM",
       "category": "Продакшн, звукозапись и технологии",
+      "language": "en",
+      "region": "Global",
+      "is_new": false
+    },
+    {
+      "id": "985c82946fd8fbc7b77deace",
+      "title": "Bonnaroo Taking ‘Much-Needed Year Off’ in 2027 - Rolling Stone",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVWIzU1d5enlPaTdQNDRwTHF3MHhfakFnNUMyT0swd3M5c2VmYk04QVA1ajJpdERER0dyUm9GR25tbmtvbW9kNE5wVHRCa2I5c0JndDNUNVcybFBLbFRzTFoyLU85Tjc3MVBIV0V4elYxRkMwRDU0aE1yR3k3Nnp0VzJGQU0xWEJLUW43M1J1YzlfTlI4aXJtVG5MbFBFdw?oc=5",
+      "summary": "Bonnaroo Taking ‘Much-Needed Year Off’ in 2027 Rolling Stone",
+      "published_at": "2026-08-22T12:35:16Z",
+      "fetched_at": "2026-08-22T16:59:09Z",
+      "first_seen_at": "2026-08-22T16:59:09Z",
+      "source": "Rolling Stone",
+      "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
       "is_new": false
@@ -489,7 +615,7 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBTOUk1cUpLZjVPc3R6UW9NWlhuV3pHeVVFR0xkdFdhWnFxejhyeXlVcUZLZFYwTXEzWFZsNWpMcGFxUmw4aFhkSXZwbjJWSm5xa1hXYndwcVhDY290REhFVEl3?oc=5",
       "summary": "a子、ファンクラブ「おワン子クラブ」開設＆FCツアーへ Billboard JAPAN",
       "published_at": "2026-08-22T12:35:00Z",
-      "fetched_at": "2026-08-22T15:54:01Z",
+      "fetched_at": "2026-08-22T16:59:09Z",
       "first_seen_at": "2026-08-22T13:46:53Z",
       "source": "Billboard Japan",
       "category": "Япония",
@@ -503,7 +629,7 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSk5Ebnc2M0I2ZEpLb0JOWVBmM1UxVVRpM2c1SUM3WWt3Sl9WT3VaT3U2TEZWYWhTMXN2MGk1bEh1U3ZuUG12bkY0TG4yT2VabDJtQlAtWTdiSWJZY3gyOXYydkpBT1lrQm9mRm5Vd2Fma0Y2b1BOUUFzXzRZeXg1VGpaWHl4TDU1djJMeWJn?oc=5",
       "summary": "FLUX:: SPAT Ultimate update pricing during sales? Gearspace",
       "published_at": "2026-08-22T12:22:00Z",
-      "fetched_at": "2026-08-22T15:54:01Z",
+      "fetched_at": "2026-08-22T16:59:09Z",
       "first_seen_at": "2026-08-22T13:46:53Z",
       "source": "Gearspace",
       "category": "Продакшн, звукозапись и технологии",
@@ -517,7 +643,7 @@
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE91cjhrUlh1LVdZWDFhTzdlMnYyaEhSZS01Y0h5dEd0UzluXzduQ0NyTWV3Z2VuaURFcmdLU1JYUzNmYXVFblByTjM5a3c?oc=5",
       "summary": "Snow Manのニューアルバム「AMENITY」収録の9曲を一挙先行配信 ナタリー",
       "published_at": "2026-08-22T12:19:00Z",
-      "fetched_at": "2026-08-22T15:54:01Z",
+      "fetched_at": "2026-08-22T16:59:09Z",
       "first_seen_at": "2026-08-22T13:46:53Z",
       "source": "Natalie Music",
       "category": "Япония",
@@ -531,7 +657,7 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqVFB3WkdqOGJjS0wxLVBCWjlrMUlMd3VLSXlUbHMzcXRDU0lJMEFieWR4VG1jSnZBRkFRdU1Jc0hkdHAtM1JvU3pCX2pUeEFoVktnZ3pn?oc=5",
       "summary": "Snow Man新アルバム『AMENITY（アメニティ）』8・24から9曲の先行配信決定 オリコンニュース",
       "published_at": "2026-08-22T12:12:00Z",
-      "fetched_at": "2026-08-22T15:54:01Z",
+      "fetched_at": "2026-08-22T16:59:09Z",
       "first_seen_at": "2026-08-22T13:46:53Z",
       "source": "Oricon",
       "category": "Япония",
@@ -545,7 +671,7 @@
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5wVDB0MXk4am5Bck03THBxaVZPbnBkNEFkYUV5clNUTWlvTmJNNDFCSWtsbjl4bmNEZXZ1Zy1NM25PdnZ6ZWlKV0xKQTM?oc=5",
       "summary": "羊文学の武道館ワンマンがYouTubeに、夏休みの間だけ ナタリー",
       "published_at": "2026-08-22T12:00:00Z",
-      "fetched_at": "2026-08-22T15:54:01Z",
+      "fetched_at": "2026-08-22T16:59:09Z",
       "first_seen_at": "2026-08-22T13:46:53Z",
       "source": "Natalie Music",
       "category": "Япония",
@@ -559,7 +685,7 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1KZVNpOUtrX1hLM1BCY2twM29DeTY3RVNDbFVTSUY4cmoxeUVRaVVsU2ZmRHJsQXZhVFhUU1ZhdzE5TEl3MXFYdVdJdXB6dWtpYVhtYjdsWUFfeFFycXhpV1dR?oc=5",
       "summary": "【Top Japan Hits by Women】TAKARAのデビュー曲「Time is money」など初登場でリストイン Billboard JAPAN",
       "published_at": "2026-08-22T12:00:00Z",
-      "fetched_at": "2026-08-22T15:54:01Z",
+      "fetched_at": "2026-08-22T16:59:09Z",
       "first_seen_at": "2026-08-22T13:46:53Z",
       "source": "Billboard Japan",
       "category": "Япония",
@@ -573,7 +699,7 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mU1dzSGtMQ1A4cjNucTBDZ2NpX0hwUkp3Qm5JeXItdWRsSmd2WEcyMmEwQVUwSW9USWtjcW1Pc2s5UUJIWTNJTVNYcHR6Z2FndnNjWGh3?oc=5",
       "summary": "#최애직캠 ] MC GYUVIN X DOHOON DOHOON (엠씨 규빈 X 도훈 도훈) 굿바이 직캠 FanCam | 쇼! 음악중심 | MBC260822 YouTube",
       "published_at": "2026-08-22T11:39:43Z",
-      "fetched_at": "2026-08-22T15:54:01Z",
+      "fetched_at": "2026-08-22T16:59:09Z",
       "first_seen_at": "2026-08-22T13:46:53Z",
       "source": "MBCkpop",
       "category": "Южная Корея",
@@ -587,13 +713,13 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWcUVfRzdfTXhncDNHb0d2YWpYeFhISEliZ0xZd1J5VU01TnpZc3BJWDRDWGhMcTNYeEdYa2hERW5fYjdKUkFRaC1jN3Job1ZfLXl6VXdn?oc=5",
       "summary": "#음중풀캠 ] MC GYUVIN X DOHOON (엠씨 규빈 X 도훈) 굿바이 직캠 FullCam | 쇼! 음악중심 | MBC260822 YouTube",
       "published_at": "2026-08-22T11:39:01Z",
-      "fetched_at": "2026-08-22T15:54:01Z",
+      "fetched_at": "2026-08-22T16:59:09Z",
       "first_seen_at": "2026-08-22T15:54:01Z",
       "source": "MBCkpop",
       "category": "Южная Корея",
       "language": "ko",
       "region": "South Korea",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "b2fbf98e59116a988fe7fe97",
@@ -601,7 +727,7 @@
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9FemtqZ0prWnE2TVRuc3V0RGRkTEExM1BrMkJQNDdSbWNibTJiNGMxa1Rnd292RkNURW9Id0tPeUVud2FNYy1SZEowQlg?oc=5",
       "summary": "a子のファンクラブは「おワン子クラブ」初のFCツアー開催 ナタリー",
       "published_at": "2026-08-22T11:00:00Z",
-      "fetched_at": "2026-08-22T15:54:01Z",
+      "fetched_at": "2026-08-22T16:59:09Z",
       "first_seen_at": "2026-08-22T11:26:08Z",
       "source": "Natalie Music",
       "category": "Япония",
@@ -615,7 +741,7 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8wd091eWR4VFpfS21pSVRqcXZlczQ0SWlURXdnTzA3OWRqX0g5SzAyNkxYZktITzNqeWg0X0tSUUtPd2dIRGlPYXR4NEloNGRkZEtkZENDV3k3dW1Tajh0d0FB?oc=5",
       "summary": "RE-GE、8/28にデジタルシングル「夏の栞」リリース決定 Billboard JAPAN",
       "published_at": "2026-08-22T11:00:00Z",
-      "fetched_at": "2026-08-22T15:54:01Z",
+      "fetched_at": "2026-08-22T16:59:09Z",
       "first_seen_at": "2026-08-22T11:26:08Z",
       "source": "Billboard Japan",
       "category": "Япония",
@@ -629,7 +755,7 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jVHk5OTJHSGxpV0ZCaElNOVBlMDVneHNIUHNPZEtNNFA2UUw4UEhFTEo1b1JNUUhGOEFYeDJuakd5RU4tVzV0Z0dUVWtkUThIM0tYd2gtZVRpQzR2UnNOZw?oc=5",
       "summary": "長澤知之が語る、デビュー20周年の作品集、枯渇しない創作意欲のありか Rolling Stone Japan(ローリングストーン ジャパン）",
       "published_at": "2026-08-22T11:00:00Z",
-      "fetched_at": "2026-08-22T15:54:01Z",
+      "fetched_at": "2026-08-22T16:59:09Z",
       "first_seen_at": "2026-08-22T11:26:08Z",
       "source": "Rolling Stone Japan",
       "category": "Япония",
@@ -643,7 +769,7 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE43cFVzOUJzSlJfSjh3Q0ZkWm56OFVDcmk5Q1B4T015UUhnLXVySEFUM0xScWVoZWd0OEx3NWl0RmNJejdTNnE4R1FWUzhBMW8?oc=5",
       "summary": "『熱闘甲子園』の音楽イベント、『熱闘JAM』MCにヒロド歩美が決定【出演者・開催概要】 オリコンニュース",
       "published_at": "2026-08-22T11:00:00Z",
-      "fetched_at": "2026-08-22T15:54:01Z",
+      "fetched_at": "2026-08-22T16:59:09Z",
       "first_seen_at": "2026-08-22T11:26:08Z",
       "source": "Oricon",
       "category": "Япония",
@@ -657,110 +783,12 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFVVp1dFVYQTBNckxJZXFCM1pVRTFDSkVvUHFWSTRSbHpuZ2F2WU9Mc3FDdnBqLXlBeVdLOTE2cS1TWVEteURQYlR0emZhNWZOaVV0blhB?oc=5",
       "summary": "SARD UNDERGROUND 神野友亜、ソロ体制2年で深めた\"自由\"の歌 全国ツアー『TO MY FREEDOM』東京公演【セットリスト付きライブレポ】 オリコンニュース",
       "published_at": "2026-08-22T11:00:00Z",
-      "fetched_at": "2026-08-22T15:54:01Z",
+      "fetched_at": "2026-08-22T16:59:09Z",
       "first_seen_at": "2026-08-22T13:46:53Z",
       "source": "Oricon",
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": false
-    },
-    {
-      "id": "38b5ebee32ee68c80bb03896",
-      "title": "Is it worth buying a Townsend Sphere L22 as a beginner? - Gearspace",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLWd0Umc5MDFmLWExNkxzeUpMRno4Yk4tLWJaT1NhQnVZQUhDTXhWdmc1WmVEdnlfMjJ6Qzl4Y1c4TnI4b1paYXd3MENCM044OUYzYWdzSkZEOXoxc3N0Znlpbm1fX2xFdjNhaDFTT3BfNjcxOWpvMUl0UEUwUjZOOXZBZkxxMWJOemdfMWVNdGVYbkJOLWNmNw?oc=5",
-      "summary": "Is it worth buying a Townsend Sphere L22 as a beginner? Gearspace",
-      "published_at": "2026-08-22T10:31:28Z",
-      "fetched_at": "2026-08-22T15:54:01Z",
-      "first_seen_at": "2026-08-22T10:47:00Z",
-      "source": "Gearspace",
-      "category": "Продакшн, звукозапись и технологии",
-      "language": "en",
-      "region": "Global",
-      "is_new": false
-    },
-    {
-      "id": "d6011c022cac3787e5b539f3",
-      "title": "Festival line-ups you might have missed: Time Warp NYC, FuturFestival, Book Club Radio - Mixmag",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdTBKb0FFZ2VMV2hBNWhzRnJZd19ZN3J4aWh5dWF5UEZEWE9zckNqMnJMZFVMVFBja2lLSFNaVS1NX1JGZ3hpdFZKN1c1SVpkSjdiNlJjVENpUktzN0F3ZWJZdzhrVllwWHIwcFhVTHlDWFktcHhVNTllSTN2MTIwWENSYmxwSkJUMFFFZ0ZvLWo5Ty1wSU03bnBjbElya2hwcGxiZUpmd3kyUi1XZlJ4bNIBqAFBVV95cUxOQnlIcExIMjBhM1ltZm1GSXF2YWlFc3JvMXU4b0RMOWFRbmxTN1hpZG93ZHlhaFpsVGdWeExGdEdmbEpkNDB0bmQ4X1U3WWVYVGptVVFLMUtKcHRUVWthQzd6V0ZBMzdmLVVvLUNlQXRwTkRKUnZjWVZiUk1PTTF0S2RvcUZxSW9UV1lWY3pMSktla0Z1Tndkbk90RENEcFdzeTZhTk1JSlc?oc=5",
-      "summary": "Festival line-ups you might have missed: Time Warp NYC, FuturFestival, Book Club Radio Mixmag",
-      "published_at": "2026-08-22T10:28:14Z",
-      "fetched_at": "2026-08-22T15:54:01Z",
-      "first_seen_at": "2026-08-22T10:47:00Z",
-      "source": "Mixmag",
-      "category": "Музыка, критика и новая музыка",
-      "language": "en",
-      "region": "Global",
-      "is_new": false
-    },
-    {
-      "id": "dddaddad08ccf7dd99dd5b40",
-      "title": "福山雅治、ニューアルバム『超新星』全曲ダイジェスト映像を公開 - Billboard JAPAN",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBuamNEMG9oanhiSVFUTWxaRm1VSW1PNlU5VGhBMjRJdVlMdEMxd1ZEcURuWWE0djUwUkVkWmpfWnQ4WEdNYm1jNmROUDZhck5aZHhXb3VGcXVzNURPa2FLc2pn?oc=5",
-      "summary": "福山雅治、ニューアルバム『超新星』全曲ダイジェスト映像を公開 Billboard JAPAN",
-      "published_at": "2026-08-22T10:20:00Z",
-      "fetched_at": "2026-08-22T15:54:01Z",
-      "first_seen_at": "2026-08-22T10:47:00Z",
-      "source": "Billboard Japan",
-      "category": "Япония",
-      "language": "ja",
-      "region": "Japan",
-      "is_new": false
-    },
-    {
-      "id": "28b9c34982b8cd24fa5caeba",
-      "title": "ふみの、1stアルバムのジャケット＆デビュー曲「favorite song」ビハインド映像など公開 - Billboard JAPAN",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE95dUgxcjNNSkNjY1dSWVlQQ2ZPVG9RRE9kM3NKNks3SE5NemxjWE9SNGgxQjhtZE1pQnpnOEgxZFYxR0diRm9MVFg5eUV1SzRwcVJMXzkxRmZ4WGxKTnozbEdR?oc=5",
-      "summary": "ふみの、1stアルバムのジャケット＆デビュー曲「favorite song」ビハインド映像など公開 Billboard JAPAN",
-      "published_at": "2026-08-22T10:10:00Z",
-      "fetched_at": "2026-08-22T15:54:01Z",
-      "first_seen_at": "2026-08-22T10:47:00Z",
-      "source": "Billboard Japan",
-      "category": "Япония",
-      "language": "ja",
-      "region": "Japan",
-      "is_new": false
-    },
-    {
-      "id": "d3fb2bc7f6d20752c00bade8",
-      "title": "OpenDAW: A FREE browser-based DAW hoping to democratize music production",
-      "url": "https://bedroomproducersblog.com/2026/08/22/opendaw-review/",
-      "summary": "OpenDAW isn’t the first DAW to claim free, open-source, and browser-based status, but it might be the most ambitious. OpenDAW aims to bring professional music production tools to the masses at no cost and will not even ask for your email address. What is OpenDAW? OpenDAW is a free browser-based digital audio workstation. Developer André [...] View post: OpenDAW: A FREE browser-based DAW hoping to democratize music production",
-      "published_at": "2026-08-22T10:06:28Z",
-      "fetched_at": "2026-08-22T15:54:01Z",
-      "first_seen_at": "2026-08-22T10:47:00Z",
-      "source": "Bedroom Producers Blog",
-      "category": "Продакшн, звукозапись и технологии",
-      "language": "en",
-      "region": "Global",
-      "is_new": false
-    },
-    {
-      "id": "746780f5ef896ffc8adea85f",
-      "title": "NEE、“エキゾチックロックバンド”を体現する新曲「ハイパートウキョウ」配信リリース - Billboard JAPAN",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KQjB2WDN6Tm8tOGlNeVpqY3lpcHhZNVJZUk12c253aTdJR05meGxzR2ZveVdMRjNmRVItTUNtQWptMUw4OXVtcFk4RVVHUXhBMTBTdF9ERmg3MTdQNnd5RTB3?oc=5",
-      "summary": "NEE、“エキゾチックロックバンド”を体現する新曲「ハイパートウキョウ」配信リリース Billboard JAPAN",
-      "published_at": "2026-08-22T10:05:00Z",
-      "fetched_at": "2026-08-22T15:54:01Z",
-      "first_seen_at": "2026-08-22T10:47:00Z",
-      "source": "Billboard Japan",
-      "category": "Япония",
-      "language": "ja",
-      "region": "Japan",
-      "is_new": false
-    },
-    {
-      "id": "1839ff4e75e83c315f1444e7",
-      "title": "BeatSkillz offers EDYN preamp FREE until August 29",
-      "url": "https://bedroomproducersblog.com/2026/08/22/beatskillz-edyn-free/",
-      "summary": "BeatSkillz and Tone Empire are offering EDYN Preamp as a free download until August 29th, alongside the launch of the new BeatSkillz Echorium delay plugin. EDYN is a discrete transistor preamp model from Tone Empire’s Enhanced Classics Series. It takes inspiration from the punchy sounds of classic American consoles from the 1960s and 70s. In [...] View post: BeatSkillz offers EDYN preamp FREE until August 29",
-      "published_at": "2026-08-22T10:02:46Z",
-      "fetched_at": "2026-08-22T15:54:01Z",
-      "first_seen_at": "2026-08-22T10:47:00Z",
-      "source": "Bedroom Producers Blog",
-      "category": "Продакшн, звукозапись и технологии",
-      "language": "en",
-      "region": "Global",
       "is_new": false
     }
   ]

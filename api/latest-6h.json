@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-28T21:55:08Z",
+  "generated_at": "2026-08-28T22:19:51Z",
   "window_hours": 6,
   "source_count": 262,
   "feeds_ok": 261,
   "feeds_failed": 1,
-  "item_count": 63,
+  "item_count": 59,
   "items": [
     {
       "id": "044e468aa550b5e05855d5be",
@@ -13,13 +13,13 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWHFDcVpwdDVMYl95dEY2M3REOVJJN1VBVXhEcEg1RHItcXdPVGZ6S0RMMVVYVFdmb0lIelVnZm9aZ2RzU01DVkVOb2J5cmlybDFrZThJWUgyQXRmcnBkWTkzVEJyTC1FLUcwSWVNcF9qTTJZaElzZ1lIWWZVVUNkQkxYcTBiNzJnNmxwNTR5Yk5CN1FkMjQ3TlpqZUlWcXlJTWdaejlSLW52NUVvUmJyZA?oc=5",
       "summary": "Olivia Rodrigo, Alex Warren, JENNIE, Rod Wave & More: New Music Friday Guide Billboard",
       "published_at": "2026-08-28T21:31:25Z",
-      "fetched_at": "2026-08-28T21:55:08Z",
+      "fetched_at": "2026-08-28T22:19:51Z",
       "first_seen_at": "2026-08-28T21:55:08Z",
       "source": "Billboard",
       "category": "Музыкальный бизнес, маркетинг и данные",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "112a49cd5d04fa5fa2744fd6",
@@ -27,13 +27,13 @@
       "url": "https://consequence.net/2026/08/iron-maiden-2026-north-american-tour-how-to-get-last-minute-tickets/",
       "summary": "The outing features support from Megadeth and Anthrax. Iron Maiden’s 2026 North American Tour: How to Get Last-Minute Tickets Spencer Kaufman",
       "published_at": "2026-08-28T20:59:44Z",
-      "fetched_at": "2026-08-28T21:55:08Z",
+      "fetched_at": "2026-08-28T22:19:51Z",
       "first_seen_at": "2026-08-28T21:55:08Z",
       "source": "Consequence",
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "5e358beb122efa0469e30584",
@@ -41,13 +41,13 @@
       "url": "https://cdm.link/playing-korg-phase8/",
       "summary": "KORG's phase8, engineered by the skunkworks office in Berlin, has found some visibility. But what does it mean as an actual electroacoustic instrument? What's it like to play? My Lemonade Stand video from Superbooth is out, along with others, so I thought I'd do some reflection The post Playing KORG’s phase8, acoustic synth, with videos (mine and others) appeared first on CDM Create Digital Music .",
       "published_at": "2026-08-28T20:17:48Z",
-      "fetched_at": "2026-08-28T21:55:08Z",
+      "fetched_at": "2026-08-28T22:19:51Z",
       "first_seen_at": "2026-08-28T21:55:08Z",
       "source": "Create Digital Music / CDM",
       "category": "Продакшн, звукозапись и технологии",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "1ec80745e9b628547d1ce370",
@@ -55,13 +55,13 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSTBzRkNBbklSM3BzbklwNkgxaXc3dVVRQ2o4N2VyRGJEak15TlBIUkhsQU94a3JBRmVXdUZPblUzaGg1X3Z3VDRQUnEyOEl1V3lMTkR5S0R0THVaNXEyM1ZNbTBEc1VYTjV2WEc4cmU2c1Fnbm9KUlZBdjVXR2VpaE04ampYSDYxT0trdWlXVVFqR0xKWGVwQjVDQW5NbDVsa0VmTw?oc=5",
       "summary": "Nominations Open For Pollstar’s 2026 Impact International: UK/Euro Pollstar News",
       "published_at": "2026-08-28T20:16:01Z",
-      "fetched_at": "2026-08-28T21:55:08Z",
+      "fetched_at": "2026-08-28T22:19:51Z",
       "first_seen_at": "2026-08-28T21:55:08Z",
       "source": "Pollstar",
       "category": "Концертная индустрия, туры и технический продакшн",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "6a178df727e9e4b5085ec20a",
@@ -69,13 +69,13 @@
       "url": "https://stereogum.com/2509737/julianna-barwick-mary-lattimore-announce-new-film-score-hear-three-songs/music/",
       "summary": "Earlier this year, Julianna Barwick and Mary Lattimore joined forces to release the collaborative album Tragic Magic . Now, two ambient artists are announcing its followup: a score for the Jessie Diggins documentary Threshold . Three songs from it are out today. The post Julianna Barwick & Mary Lattimore Announce New Film Score: Hear Three Songs appeared first on Stereogum .",
       "published_at": "2026-08-28T20:07:38Z",
-      "fetched_at": "2026-08-28T21:55:08Z",
+      "fetched_at": "2026-08-28T22:19:51Z",
       "first_seen_at": "2026-08-28T21:55:08Z",
       "source": "Stereogum",
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "34342a8eba4bbe1ed745ad44",
@@ -83,13 +83,13 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUnhEVkJzVFQtVnFqdXZ2bXVWaktyRXc0YjJmOGFBNUdBbWQ5SUNWS1VsbHhOUFpzSHdOS1BNNUZlY0E4aEs4MkhfMmpSNEt5cVRUR2dTdm9WUDJucXc3U3U5N1FvaEozXzBLWVdSVmdISU53VUVaT29CNmJqX1Q4SzBsLXBKZm5fc2tsUkFiV2NOVzR0U2VHT0tSZS1uSFBmQ3BINHVmWXF0eFJzbE4wdTFrNUdMdHhTd0hiSkd3?oc=5",
       "summary": "Crossfeed 2 by Altitude Audio — Free Headphone Speaker-Emulation and Analysis Plugin Gearspace",
       "published_at": "2026-08-28T20:02:46Z",
-      "fetched_at": "2026-08-28T21:55:08Z",
+      "fetched_at": "2026-08-28T22:19:51Z",
       "first_seen_at": "2026-08-28T21:55:08Z",
       "source": "Gearspace",
       "category": "Продакшн, звукозапись и технологии",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "2162f9c2642ddfeaa6f1638f",
@@ -97,13 +97,13 @@
       "url": "https://consequence.net/2026/08/the-offspring-cover-ramones-i-wanna-be-sedated/",
       "summary": "Hear The Offspring's take on the iconic punk song. The Offspring Unleash Cover of Ramones Classic “I Wanna Be Sedated”: Stream Spencer Kaufman",
       "published_at": "2026-08-28T20:00:43Z",
-      "fetched_at": "2026-08-28T21:55:08Z",
+      "fetched_at": "2026-08-28T22:19:51Z",
       "first_seen_at": "2026-08-28T21:55:08Z",
       "source": "Consequence",
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "be3a17d62c041db81269ae8f",
@@ -111,13 +111,13 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTzFEaGlNbGdzTG8ydlVRSDlWcmNYcnVrM0JLNXdLZlRHdnNoWEFxR2k5NEpuSGktYUptdkwyX29DY1M2X045em9jbWNpNDYxMmJ5RWp1WjFqVjl6TDY3OUx0ME9XZ0JCWXgteXY1cDZnUWIydFRJaE80aGw2UUJGR1NWYURCT1VaVk84Zk1RR1JNU2pmcmpGQzRlNkRweGZPXzMwZE9OOA?oc=5",
       "summary": "VNC Panel Announcement: Holding Space For Non-Music Events That Win Pollstar News",
       "published_at": "2026-08-28T19:58:13Z",
-      "fetched_at": "2026-08-28T21:55:08Z",
+      "fetched_at": "2026-08-28T22:19:51Z",
       "first_seen_at": "2026-08-28T21:55:08Z",
       "source": "Pollstar",
       "category": "Концертная индустрия, туры и технический продакшн",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "5e343d42c80518d0aa74d6a4",
@@ -125,13 +125,13 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5oT1oxR3dPbklxNWpaUHpLamxaZXRfRXVTR2ItNXBxYnI2UmNTSmxrTDF2dExYRnM1aFV5SWZ2MGtSMjhKdHBLQkxvZnJ5a3hUZVIzR2l1YVMzbHY0bDBnZloyWEdBa0t1U1QtMGRZY2F6d0g4?oc=5",
       "summary": "Behringer RD-78 Sync Issues Gearspace",
       "published_at": "2026-08-28T19:53:19Z",
-      "fetched_at": "2026-08-28T21:55:08Z",
+      "fetched_at": "2026-08-28T22:19:51Z",
       "first_seen_at": "2026-08-28T21:55:08Z",
       "source": "Gearspace",
       "category": "Продакшн, звукозапись и технологии",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "7a4924e481da77af2aeeba3e",
@@ -139,13 +139,13 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVVJTY1lBeE5mcUJkaUdaSVFlQXQ2Zmd3Y2EyOXV0TkQxanl6QkloUWFIT1pfa0RydWJycTZTTkhMQW93clZ4cmxwY1JEU3NTamF0QWFlZDA2VVpRQk53bDdhOEFwVTloT2ZIYzFpT3FmRmpvRE5OQjcxTGZBc0hYVlBEVGNjWkxkTk94d2FxTGVsdlV0M0NfTy1YVlR0eDVuXzZVN2s0c3B0N05HVHE1MHZjRkNhSFBjOWxwTVBKcEVzb0E?oc=5",
       "summary": "Nashville’s Airport Would Be Renamed For Dolly Parton Under Tennessee Governor’s Proposal Pollstar News",
       "published_at": "2026-08-28T19:44:01Z",
-      "fetched_at": "2026-08-28T21:55:08Z",
+      "fetched_at": "2026-08-28T22:19:51Z",
       "first_seen_at": "2026-08-28T21:55:08Z",
       "source": "Pollstar",
       "category": "Концертная индустрия, туры и технический продакшн",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "ae84b9e418f507a43108fb47",
@@ -153,13 +153,13 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQejBYQzZxUHJUVU0ya09JcS1MWkhUX1JOTmxubDI2YzFJMkhpczRIdmVzNUxPQVpWSHF1ekJlbXZzUTlPZjA3aktoWmo1ZjFCZ1pLOUtnV1BpTlNZN2dNRVVObE1aNkhEdHZqeHZrQUNMREhVRmtMR3dQMmtFcHVTZFdDcnVwVjd4alQ5bzkyMi1jVEhoU3pBVktBWnpNdml1dHpzMzZpQXBTYjl1MU5GaldqbFBERnZ2YnVRbl9SQXFxME8zbVRMUw?oc=5",
       "summary": "Dolly Parton Streams Skyrocket After Her Death, Making Her The Most Streamed Artist Globally Pollstar News",
       "published_at": "2026-08-28T19:33:42Z",
-      "fetched_at": "2026-08-28T21:55:08Z",
+      "fetched_at": "2026-08-28T22:19:51Z",
       "first_seen_at": "2026-08-28T21:55:08Z",
       "source": "Pollstar",
       "category": "Концертная индустрия, туры и технический продакшн",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "83792d447ccd23b36c124079",
@@ -167,13 +167,13 @@
       "url": "https://stereogum.com/2509731/danz-cm-bontempi-pop-3-a-violent-power/music/",
       "summary": "Back in February, Danz CM released MYTHS , an ambient album with vintage synths. Today, the synth wiz is teasing a new project with two new songs called \"Bontempi Pop 3\" and \"A Violent Power.\" The post Danz CM – “Bontempi Pop 3” & “A Violent Power” appeared first on Stereogum .",
       "published_at": "2026-08-28T19:25:26Z",
-      "fetched_at": "2026-08-28T21:55:08Z",
+      "fetched_at": "2026-08-28T22:19:51Z",
       "first_seen_at": "2026-08-28T21:55:08Z",
       "source": "Stereogum",
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "28a731958dd7ae6d25fbaeb5",
@@ -181,13 +181,13 @@
       "url": "https://stereogum.com/2509729/dominic-fike-announces-new-album-how-to-quit-smoking-hear-wallpaper/music/",
       "summary": "Dominic Fike opened the Tame Impala show I attended this week, but I missed his set because I got false intel about its start time. Sorry, Dominic Fike! Here's what I can do to make it up to you: a blog post about your new album announcement. The post Dominic Fike Announces New Album <em>How To Quit Smoking</em>: Hear “Wallflower” appeared first on Stereogum .",
       "published_at": "2026-08-28T19:25:26Z",
-      "fetched_at": "2026-08-28T21:55:08Z",
+      "fetched_at": "2026-08-28T22:19:51Z",
       "first_seen_at": "2026-08-28T21:55:08Z",
       "source": "Stereogum",
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "dc13641e928f3177b9a4325f",
@@ -195,13 +195,13 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8xSmpHb3lnanJXZDdYTjdldnF6OTA0d1lnRW5pQkVfQ3NRRmN5d2FrdFRadmlZQVVuQTAzZEtXcmVGcHotajhzUU9DV2xDcnpkLVloVHhDMl9KcGxWM3ZiUHdHU0lTRTJ3dTh5RkxqVjdxam8?oc=5",
       "summary": "Mac DeMarco Releases Four New Albums Pitchfork",
       "published_at": "2026-08-28T19:24:16Z",
-      "fetched_at": "2026-08-28T21:55:08Z",
+      "fetched_at": "2026-08-28T22:19:51Z",
       "first_seen_at": "2026-08-28T21:55:08Z",
       "source": "Pitchfork",
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "e8dc7a891ce8a8288275b227",
@@ -209,13 +209,13 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNS0QyOFd1Q0Y5Q0tSR3RlZmtiSDlHTUxueF9hUGR6NzN1bGplWmRrcmtFLV9kc3ZMSWw2SEo4RFg2Mm1KMGNodDZGUFN2RUFpYUxyMXJSdFUxRXpkSVhZMzlPRjFBNEZxRlVtQlZ5TGVncThtbFVZY0ZVZVljaFpRd0dPcF9ncTBLMTlyc1B5Q0F2ZzlyQUQ4cm5n?oc=5",
       "summary": "Patchbay organization for gear with mic and line inputs Gearspace",
       "published_at": "2026-08-28T19:20:29Z",
-      "fetched_at": "2026-08-28T21:55:08Z",
+      "fetched_at": "2026-08-28T22:19:51Z",
       "first_seen_at": "2026-08-28T21:55:08Z",
       "source": "Gearspace",
       "category": "Продакшн, звукозапись и технологии",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "7c51c248c00bfcf152d96707",
@@ -223,13 +223,13 @@
       "url": "https://www.mixonline.com/technology/news-products/celestion-cdx1-1413-a-mix-product-of-the-week",
       "summary": "Compact, screw-thread, high-frequency compression driver fits into smaller enclosures and works in multi-driver horns.",
       "published_at": "2026-08-28T19:19:11Z",
-      "fetched_at": "2026-08-28T21:55:08Z",
+      "fetched_at": "2026-08-28T22:19:51Z",
       "first_seen_at": "2026-08-28T21:55:08Z",
       "source": "Mix",
       "category": "Продакшн, звукозапись и технологии",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "1c5a780334518677051fbedc",
@@ -237,13 +237,13 @@
       "url": "https://www.mixonline.com/post-and-broadcast/east-africas-azam-tv-upgrades-ob-vehicle",
       "summary": "AZAM TV in East Africa has upgraded the audio infrastructure of one of its OB vehicles.",
       "published_at": "2026-08-28T19:13:47Z",
-      "fetched_at": "2026-08-28T21:55:08Z",
+      "fetched_at": "2026-08-28T22:19:51Z",
       "first_seen_at": "2026-08-28T21:55:08Z",
       "source": "Mix",
       "category": "Продакшн, звукозапись и технологии",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "285283019edc7e70dde5b8e0",
@@ -251,13 +251,13 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Kd1E4Q284VFJfVW9oZ1pLVE1VemRhWlozb3F6VV9icjRsQXVFLXo5NXd3aURVZ3VCZmpUendtdWR4MlM4bU5xcGM3MUtaMUFMY09KNnMzUWxDSVVfNERBZ1pGU1Z0Wlk2WnltZzN2cw?oc=5",
       "summary": "Venus Ex Machina: “Jericho” Track Review Pitchfork",
       "published_at": "2026-08-28T19:01:50Z",
-      "fetched_at": "2026-08-28T21:55:08Z",
+      "fetched_at": "2026-08-28T22:19:51Z",
       "first_seen_at": "2026-08-28T21:55:08Z",
       "source": "Pitchfork",
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "d18dd06c895b4913a8c7e890",
@@ -265,13 +265,13 @@
       "url": "https://www.mixonline.com/blog/dave-brubeck-studio-piano-mic-and-more-head-to-auction",
       "summary": "Multiple items from the home studio of Jazz legend Dave Brubeck are hitting the auction block through mid-September.",
       "published_at": "2026-08-28T18:55:55Z",
-      "fetched_at": "2026-08-28T21:55:08Z",
+      "fetched_at": "2026-08-28T22:19:51Z",
       "first_seen_at": "2026-08-28T21:55:08Z",
       "source": "Mix",
       "category": "Продакшн, звукозапись и технологии",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "7b59793ca3063cf131b29827",
@@ -279,13 +279,13 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NNllmN3Z5OG14Zjc5dDA2bEQ3czlyOEhnOHhTUmdndEV6blY1dTNXbGc5cFp0eDVMbUh4eExmb3c0ZzgzMTQ4YXlzS1R3V3lPdlpnaTlyREhJMW5XcldQV3VXN29wc1RsYm9LR2FyNUdtTVhya1E?oc=5",
       "summary": "Seaquake is now free forever Gearspace",
       "published_at": "2026-08-28T18:50:18Z",
-      "fetched_at": "2026-08-28T21:55:08Z",
+      "fetched_at": "2026-08-28T22:19:51Z",
       "first_seen_at": "2026-08-28T21:55:08Z",
       "source": "Gearspace",
       "category": "Продакшн, звукозапись и технологии",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "317a460b5f6786a0b591d6a8",
@@ -293,13 +293,13 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQnJQR1YxZ3pyUm5YWDlpOF9qcWVsLS0xbUxkUlBXeVduVlZnRFl4eG1STzhPMHZKaWY1cVB4NGQyVlpTLWNMNnBUc1ZaTDdCa0pLNjA2eDhiZ3lwZEl4WHNHNmg1d3JjRldhbi1pRnYyWjJpMXAtY29fTWZ5Q0Y4MVRDdXh5cGdxWUZfQ2tveFdHSjQzeUtfQ25pMDl2a2ZzZE1kbmpod0NYM2dJazlxUmJTRWRUNU9ubDM4?oc=5",
       "summary": "Michael Bublé To Open Coliseo GNP Seguros, Guadalajara's New Music Venue, On Sept. 22 Pollstar News",
       "published_at": "2026-08-28T18:44:36Z",
-      "fetched_at": "2026-08-28T21:55:08Z",
+      "fetched_at": "2026-08-28T22:19:51Z",
       "first_seen_at": "2026-08-28T21:55:08Z",
       "source": "Pollstar",
       "category": "Концертная индустрия, туры и технический продакшн",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "75a845c829d54102fa8ea997",
@@ -307,13 +307,13 @@
       "url": "https://stereogum.com/2509620/the-5-best-songs-of-the-week-641/lists/the-5-best-songs-of-the-week/",
       "summary": "Every week the Stereogum staff chooses the five best new songs of the week. The eligibility period begins and ends Thursdays right before midnight. You can hear this week’s picks below and on Stereogum’s Favorite New Music Spotify playlist, which is updated weekly. (An expanded playlist of our new music picks is available to subscribers on Spotify and Apple Music, updated throughout the week.) The post The 5 Best Songs Of The Week appeared first on Stereogum .",
       "published_at": "2026-08-28T18:39:46Z",
-      "fetched_at": "2026-08-28T21:55:08Z",
+      "fetched_at": "2026-08-28T22:19:51Z",
       "first_seen_at": "2026-08-28T21:55:08Z",
       "source": "Stereogum",
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "60ac1390d6e54e757ab68bc6",
@@ -321,13 +321,13 @@
       "url": "https://consequence.net/2026/08/maluma-fatherhood-changed-approach-career/",
       "summary": "The Colombian singer is preparing to support Loco X Volver with a new world tour spanning 2027 and 2028. Maluma Says Becoming a Father Changed How He Approaches His Career: “I’m Making Music Because I Love Creating Art” Pedro Camacho",
       "published_at": "2026-08-28T18:35:39Z",
-      "fetched_at": "2026-08-28T21:55:08Z",
+      "fetched_at": "2026-08-28T22:19:51Z",
       "first_seen_at": "2026-08-28T21:55:08Z",
       "source": "Consequence",
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "74226066e8ece75da0eeff2d",
@@ -335,13 +335,13 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaGNuM29rOHhPYWFkclJZODc0VExoUmVRMlZwVXZzbHpBSzBQRm8tbmpMVkdsTWExOUpLOVg2cVhEVklna0Y5NHM0Q1MxZDJQa3pORnV6cENfN1JUYWx6cVpReUlQeHRyVk1WelNxeVlFY2xMSnlEc2xocElCUkotWEM0Y1dKSEVaSEw2RTZ2WVhTRTVwV1hHVnNR?oc=5",
       "summary": "Ice Spice and Lil Yachty Link Up for New Song “Out My Face (My Baby)” Pitchfork",
       "published_at": "2026-08-28T18:30:49Z",
-      "fetched_at": "2026-08-28T21:55:08Z",
+      "fetched_at": "2026-08-28T22:19:51Z",
       "first_seen_at": "2026-08-28T21:55:08Z",
       "source": "Pitchfork",
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "a3766bf82f86dbcf4c04216f",
@@ -355,6 +355,20 @@
       "category": "Музыкальный бизнес, маркетинг и данные",
       "language": "en",
       "region": "Global",
+      "is_new": false
+    },
+    {
+      "id": "20805dc1c535f62612c601be",
+      "title": "Julianna Barwick and Mary Lattimore Share Songs From New Film Score - Pitchfork",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcnVUUUdFRlBuVnVpdzVYdjkxNVY0N1JJcDhhT2dQUG4xejJRTWdNTG1Tc1ZzNU1tcjBXaVNUa3ZYZUJRbHphdmg0Nk9WcTR1Q3Z1WjhpaTNRcks2UmJmTmhLTXBnSGFaaFhEcjFmNUFUTk54RVRSQjhDN0I0MGd6dHV1SEF6NWx1SDdXcS1iWHR3c2tUcEN2aHIxR2VjUQ?oc=5",
+      "summary": "Julianna Barwick and Mary Lattimore Share Songs From New Film Score Pitchfork",
+      "published_at": "2026-08-28T18:17:03Z",
+      "fetched_at": "2026-08-28T22:19:51Z",
+      "first_seen_at": "2026-08-28T22:19:51Z",
+      "source": "Pitchfork",
+      "category": "Музыка, критика и новая музыка",
+      "language": "en",
+      "region": "Global",
       "is_new": true
     },
     {
@@ -363,13 +377,13 @@
       "url": "https://consequence.net/2026/08/scott-weiland-live-album-interstate-love-song/",
       "summary": "His performance of Stone Temple Pilots' \"Interstate Love Song\" can be viewed now. Scott Weiland Live Album To Be Released on CD and Digitally for First Time Langdon Hickman",
       "published_at": "2026-08-28T18:15:23Z",
-      "fetched_at": "2026-08-28T21:55:08Z",
+      "fetched_at": "2026-08-28T22:19:51Z",
       "first_seen_at": "2026-08-28T21:55:08Z",
       "source": "Consequence",
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "c90921afa99fac1a8812aabe",
@@ -377,13 +391,13 @@
       "url": "https://www.mixonline.com/technology/news-products/rode-rolls-out-ds3-desktop-studio-arm",
       "summary": "Røde has introduced its new clampless DS3 desktop studio mic arm, aimed at content creators and recording pros.",
       "published_at": "2026-08-28T18:14:03Z",
-      "fetched_at": "2026-08-28T21:55:08Z",
+      "fetched_at": "2026-08-28T22:19:51Z",
       "first_seen_at": "2026-08-28T21:55:08Z",
       "source": "Mix",
       "category": "Продакшн, звукозапись и технологии",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "98379513bce07f1f03462d1a",
@@ -391,13 +405,13 @@
       "url": "https://consequence.net/2026/08/heavy-song-of-the-week-mastodon-barbarians-blood/",
       "summary": "Mastodon returns to their feral roots on \"Barbarian's Blood,\" grabbing from Remission and Blood Mountain while also opening doors to a far strange future. Heavy Song of the Week: Mastodon Get Feral Again with “Barbarian’s Blood” Langdon Hickman",
       "published_at": "2026-08-28T17:59:20Z",
-      "fetched_at": "2026-08-28T21:55:08Z",
+      "fetched_at": "2026-08-28T22:19:51Z",
       "first_seen_at": "2026-08-28T21:55:08Z",
       "source": "Consequence",
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "e04fd82d0431496c26499832",
@@ -405,13 +419,13 @@
       "url": "https://stereogum.com/2509719/trentemoller-announces-new-self-titled-album-hear-terrified-feat-mews-jonas-bjerre/music/",
       "summary": "The Danish producer Trentemøller has worked in a range of rock, pop, and electronic styles over the years, from glitch, downtempo, and darkwave to dream-pop and synthwave. In recent years he's been pushing further and further into the shoegaze realm, and he goes all the way with it on the lead single from his new album. The post Trentemøller Announces New Self-Titled Album: Hear “Terrified” (Feat. Mew’s Jonas Bjerre) appeared first on Stereogum .",
       "published_at": "2026-08-28T17:54:59Z",
-      "fetched_at": "2026-08-28T21:55:08Z",
+      "fetched_at": "2026-08-28T22:19:51Z",
       "first_seen_at": "2026-08-28T21:55:08Z",
       "source": "Stereogum",
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "5f3cf56c58a8e1e7b24a62b4",
@@ -419,13 +433,13 @@
       "url": "https://consequence.net/2026/08/clutch-the-drifter-returns/",
       "summary": "The veteran rock band will kick off a US tour in October. Clutch Unleash “The Drifter Returns,” First New Song in Four Years: Stream Spencer Kaufman",
       "published_at": "2026-08-28T17:50:25Z",
-      "fetched_at": "2026-08-28T21:55:08Z",
+      "fetched_at": "2026-08-28T22:19:51Z",
       "first_seen_at": "2026-08-28T21:55:08Z",
       "source": "Consequence",
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "6197662f329a6eb34ae2bcdc",
@@ -433,13 +447,13 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYmtpejFBRTFxUG4ycjVoRTRxSVJBV212REJmajk5el9sR09qWTZUS1c1LWRSRURCd1lJU0FUbHJBeFhTdTN0MGc1MzRXN3JFb1pET2VZME5rWFJnNWhNOUlrekhNemRySEVSc3ZhcTVDdUswSjBYb3F4OEs3ZmV3bFIyZjk0bm5ja3BDVnIzcWRSSVl0ZTFZ?oc=5",
       "summary": "The Who Rehearsed For Possible Tour With Zak Starkey Following Bitter Split: 'It Sounded Great' Rolling Stone",
       "published_at": "2026-08-28T17:32:24Z",
-      "fetched_at": "2026-08-28T21:55:08Z",
+      "fetched_at": "2026-08-28T22:19:51Z",
       "first_seen_at": "2026-08-28T21:55:08Z",
       "source": "Rolling Stone",
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "900b033bff7ba7514c3337c3",
@@ -447,13 +461,13 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVTN2VWN2MXZoT1FycDJnMmJLWUlmYzlMWUdyNUNsZ09zaHQ3Q3lqQm9Pd01IWkJ0N1lxcEhvbkdBZkx2TVg5cjlpV0ZPMWRWVEtsYkI5YVkyZ0lXTjR1Q3JfUUo5VzhRNnhRZk5UNDBQdHVYSkxnQ0VoNVBySHhNQldQM04zb2JxcTFhaUxFUQ?oc=5",
       "summary": "Interview with Tokyo Dawn Labs, Ohlhorst Digital Gearspace",
       "published_at": "2026-08-28T17:31:53Z",
-      "fetched_at": "2026-08-28T21:55:08Z",
+      "fetched_at": "2026-08-28T22:19:51Z",
       "first_seen_at": "2026-08-28T21:55:08Z",
       "source": "Gearspace",
       "category": "Продакшн, звукозапись и технологии",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "2697ac5afb981e44cd0adfb3",
@@ -461,13 +475,13 @@
       "url": "https://stereogum.com/2509711/haute-freddy-touch-touch/music/",
       "summary": "Michelle Buzz and Lance Shipp are two seasoned pop-industry songwriters who teamed up to form the retro art-pop duo Haute & Freddy, and they released their debut album Big Disgrace earlier this year. It's really good! They've steadily accumulated buzz since the LP came out, and now they've followed it by dropping the bouncily operatic new synthpop jam \"Touch Touch.\" Also good! I can honestly picture a situation where this song become their \"Good Luck, Babe!,\" albeit probably on a smaller level. Here's what Buzz says about the track: The post Haute & Freddy – “Touch Touch” appeared first on Ste",
       "published_at": "2026-08-28T17:29:53Z",
-      "fetched_at": "2026-08-28T21:55:08Z",
+      "fetched_at": "2026-08-28T22:19:51Z",
       "first_seen_at": "2026-08-28T21:55:08Z",
       "source": "Stereogum",
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "f88d23dc75fddd508fe52eae",
@@ -475,13 +489,13 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTGlRVmhUOGZPNnJVTGxSQnVnemlodE1DbXlJaFdQalJCTEZzRGF0eFhQbUlUR1gtZEUwQzFBd0syS1JKcE1tRVNkUFA0N0JMZk9vNV9HQkt3X1pXb18xN0U5REJHdTlDcGNKclhqcnNleVRmeGZqeHUzY0pfZGI0LVdKRUFrTWJTRTZ1dUYzY08tMHpaTGU5alJzQQ?oc=5",
       "summary": "IMPALA SUPPORTS IFPI’s PRINCIPLES ON CHARTS AND AI-GENERATED TRACKS impalamusic.org",
       "published_at": "2026-08-28T17:28:36Z",
-      "fetched_at": "2026-08-28T21:55:08Z",
+      "fetched_at": "2026-08-28T22:19:51Z",
       "first_seen_at": "2026-08-28T21:55:08Z",
       "source": "IMPALA",
       "category": "Музыкальный бизнес, маркетинг и данные",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "ef8bbce30a54913b4087497e",
@@ -495,7 +509,7 @@
       "category": "Музыкальный бизнес, маркетинг и данные",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "83b2de4a4a1e0df5e4e77030",
@@ -503,13 +517,13 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQlRtTTF0dE9EbGdSdXNweGNlenZRZFRWNGR3RDEzbjRJaldlSEIxZEEyYks2MlFwLVJPNnpwdVdDLUs2NjliZ0k3Y0tvdWRrTVJPUVZtU2N2ay1FLW1qNTZGTGlMUlBUYjhQUlZybVk2ZmFBeWtYTGhjTFRlcGZBVVJfX3JvQ25PdzlsdS1xWmo3amp1MzM0d3p4bUw?oc=5",
       "summary": "Altin Gün Announce North American Theater Run In September Pollstar News",
       "published_at": "2026-08-28T17:24:59Z",
-      "fetched_at": "2026-08-28T21:55:08Z",
+      "fetched_at": "2026-08-28T22:19:51Z",
       "first_seen_at": "2026-08-28T21:55:08Z",
       "source": "Pollstar",
       "category": "Концертная индустрия, туры и технический продакшн",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "173776c17474bc55103840a6",
@@ -523,7 +537,7 @@
       "category": "Музыкальный бизнес, маркетинг и данные",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "28759bff9bf4ce2951e3a585",
@@ -531,13 +545,13 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVnh2eFhQeVc0dkxua08tYW5HRDROMFBNYkQyNk5TSVNLSm9FRllOaTlSeEhvdTU2QVhucjJkNzFhSVNJbl9EcEtXOEpzRGJublp6R3RRTEtaUmF3em9UNnJyX2h1NWc5M0tuejNwa1FNWGF1akRlM3NDMHR0TlhKVElPem4?oc=5",
       "summary": "Marxos - Marxophone Orchestra - For Kontakt Gearspace",
       "published_at": "2026-08-28T17:21:17Z",
-      "fetched_at": "2026-08-28T21:55:08Z",
+      "fetched_at": "2026-08-28T22:19:51Z",
       "first_seen_at": "2026-08-28T21:55:08Z",
       "source": "Gearspace",
       "category": "Продакшн, звукозапись и технологии",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "73209e429b1820aff7c2df4e",
@@ -545,13 +559,13 @@
       "url": "https://aquariumdrunkard.com/2026/08/28/black-duck-with-elena-setien/",
       "summary": "The songs are loose-jointed and exploratory, built on repetitive motifs but more than willing to jettison them. A bass-line snakes around glittering piano runs, the guitar picks out blues-shaded licks and eerie vibrations of slide, and above it all, a woman’s voice winds. “So be it, follow the river,” intones Elena Setién, the Basque singer-songwriter. The music echoes this liquid aura, full of eddies and cascades, but moving forthrightly towards its goals. This is “Land of a Thousand Eyes” an early single that demonstrates how naturally Black Duck expands to a quartet and enters more structur",
       "published_at": "2026-08-28T17:20:35Z",
-      "fetched_at": "2026-08-28T21:55:08Z",
+      "fetched_at": "2026-08-28T22:19:51Z",
       "first_seen_at": "2026-08-28T21:55:08Z",
       "source": "Aquarium Drunkard",
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "da370584f0370042214cffcf",
@@ -559,13 +573,13 @@
       "url": "https://www.jazztimes.com/features/profiles/saxophonist-composer-david-murrays-back-pages-upcoming-verses/",
       "summary": "C alling David Murray prolific is like saying soup is wet. Beyond the numbers, then, what it is about the veteran tenor saxophonist, bass clarinetist … Read More \"Saxophonist-Composer David Murray’s Back Pages, Upcoming Verses\" The post Saxophonist-Composer David Murray’s Back Pages, Upcoming Verses appeared first on JazzTimes .",
       "published_at": "2026-08-28T17:19:51Z",
-      "fetched_at": "2026-08-28T21:55:08Z",
+      "fetched_at": "2026-08-28T22:19:51Z",
       "first_seen_at": "2026-08-28T21:55:08Z",
       "source": "JazzTimes",
       "category": "Джаз",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "4d646666d3d822fb6b561fbc",
@@ -573,13 +587,13 @@
       "url": "https://consequence.net/2026/08/dinosaur-jr-2027-north-american-tour-there-near-stream/",
       "summary": "Brooklyn, Philadelphia, Nashville, Chicago, and Toronto are among the new 2027 dates. Dinosaur Jr. Extend North American Tour, Release New Album There Near: Stream Eddie Fu",
       "published_at": "2026-08-28T17:17:45Z",
-      "fetched_at": "2026-08-28T21:55:08Z",
+      "fetched_at": "2026-08-28T22:19:51Z",
       "first_seen_at": "2026-08-28T21:55:08Z",
       "source": "Consequence",
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "d662e465938f77b44cbce780",
@@ -587,13 +601,13 @@
       "url": "https://stereogum.com/2509700/angele-announces-new-album-instinct-feat-caroline-polachek-justice-more/music/",
       "summary": "Earlier this year, Angèle joined forces with Justice for \" What You Want .\" That song is going to appear on her new album Instinct , which she's announcing today. Other guests include Caroline Polachek, SebastiAn, and Soulwax. The post Angèle Announces New Album <em>Instinct</em> Feat. Caroline Polachek, Justice, & More appeared first on Stereogum .",
       "published_at": "2026-08-28T17:16:56Z",
-      "fetched_at": "2026-08-28T21:55:08Z",
+      "fetched_at": "2026-08-28T22:19:51Z",
       "first_seen_at": "2026-08-28T21:55:08Z",
       "source": "Stereogum",
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "9c845c10bd2ff93ca04363cf",
@@ -601,13 +615,13 @@
       "url": "https://www.musicbusinessworldwide.com/spotify-promotes-joe-hadley-to-vp-of-global-music-content-partnerships-j-j-italiano-named-head-of-editorial/",
       "summary": "Spotify says the new structure will preserve Editorial's \"distinct voice, expertise, and decision-making,\" while creating \"a more connected Music team.\" Source",
       "published_at": "2026-08-28T17:15:38Z",
-      "fetched_at": "2026-08-28T21:55:08Z",
+      "fetched_at": "2026-08-28T22:19:51Z",
       "first_seen_at": "2026-08-28T21:55:08Z",
       "source": "Music Business Worldwide",
       "category": "Музыкальный бизнес, маркетинг и данные",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "322477714e63dd299ffe26aa",
@@ -615,13 +629,13 @@
       "url": "https://www.mixonline.com/events/gamesoundcon-announces-dates-and-prices",
       "summary": "GameSoundCon will return to the Marriott Burbank Convention Center in Burbank, CA, on October 20-21, 2026.",
       "published_at": "2026-08-28T17:14:44Z",
-      "fetched_at": "2026-08-28T21:55:08Z",
+      "fetched_at": "2026-08-28T22:19:51Z",
       "first_seen_at": "2026-08-28T21:55:08Z",
       "source": "Mix",
       "category": "Продакшн, звукозапись и технологии",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "5d6adadc03cfec6c1e7eeaf1",
@@ -629,13 +643,13 @@
       "url": "https://consequence.net/2026/08/stanley-simmons-dancing-while-the-world-is-ending-album-stream/",
       "summary": "Evan Stanley and Nick Simmons unleash their first full-length effort. Stanley Simmons (Sons of KISS Legends) Unveil Debut Album Dancing While the World Is Ending: Stream Spencer Kaufman",
       "published_at": "2026-08-28T17:12:38Z",
-      "fetched_at": "2026-08-28T21:55:08Z",
+      "fetched_at": "2026-08-28T22:19:51Z",
       "first_seen_at": "2026-08-28T21:55:08Z",
       "source": "Consequence",
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "d99c1f01175707d1458a44d9",
@@ -643,7 +657,7 @@
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBNdGROVkZicFhxa1RSOXc0WjA2LXZQUU9hVzl6NkRud1pEUGtZZ1Y5Rlh1ZVZ5MnhYZmJ5aUs0aFFGQXVVTVUtUw?oc=5",
       "summary": "My.Uaudio - Universal Audio Universal Audio",
       "published_at": "2026-08-28T17:06:22Z",
-      "fetched_at": "2026-08-28T21:55:08Z",
+      "fetched_at": "2026-08-28T22:19:51Z",
       "first_seen_at": "2026-08-28T21:55:08Z",
       "source": "Universal Audio",
       "category": "Продакшн, звукозапись и технологии",
@@ -657,13 +671,13 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNkhwTm1zYS1aUUNpcGdlRjZSa09vVkNRZnVoMnpfZ1NxMHpHY1N3blVrTngzVVo5UW1KVTBuTVhlZXhnUTZwZ0hLY2d6OFFYdlJRYXlkd2FpMUVSQTVLM1NoWmNSY1Q4YUI3NDVWWFRBU18tcnhkTnJvNThRdW56M1ZFdnFkbnpsMVNEREVBLXhtcTI0NnZKTkJlT3Y1NnBCSlJLQkZxelFOV3NsRDlad2VRd2c?oc=5",
       "summary": "Will Dolly Parton Earn Her First Number One Album After Her Death? Billboard",
       "published_at": "2026-08-28T17:04:18Z",
-      "fetched_at": "2026-08-28T21:55:08Z",
+      "fetched_at": "2026-08-28T22:19:51Z",
       "first_seen_at": "2026-08-28T21:55:08Z",
       "source": "Billboard",
       "category": "Музыкальный бизнес, маркетинг и данные",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "20768a35529b76da7f5912fe",
@@ -671,13 +685,13 @@
       "url": "https://daily.bandcamp.com/features/for-shabaam-sahdeeq-everything-is-art",
       "summary": "The underground hip-hop veteran discusses the connection between rhyming, graffiti, painting, fashion, and his lifetime of creative expression. Read full story on the Bandcamp Daily .",
       "published_at": "2026-08-28T17:01:54Z",
-      "fetched_at": "2026-08-28T21:55:08Z",
+      "fetched_at": "2026-08-28T22:19:51Z",
       "first_seen_at": "2026-08-28T21:55:08Z",
       "source": "Bandcamp Daily",
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "ee23fe65b1ac163d9bb1c019",
@@ -685,13 +699,13 @@
       "url": "https://consequence.net/2026/08/tiny-habits-keepers-track-by-track/",
       "summary": "Tiny Habits reflect on their evolution as a band, the relationships that keep them together, and the making of their new LP. Tiny Habits Get Personal on New Album Keepers: Track by Track Exclusive Helena Parada",
       "published_at": "2026-08-28T16:57:05Z",
-      "fetched_at": "2026-08-28T21:55:08Z",
+      "fetched_at": "2026-08-28T22:19:51Z",
       "first_seen_at": "2026-08-28T21:55:08Z",
       "source": "Consequence",
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "a3154e118e0a4236ba0ec7d8",
@@ -699,13 +713,13 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOThfZmsxRERXZDVCQ2VvLVFPVW5BWHZfbkJObHlkYmMxZUZxOGg0TWhrVUYzZU9vdWdwRDJnc2lZVF9fOXNzc2EwMWZlRGFHNkU2Uk40bWYzejhqbDdjVTktM3JyMFdZMjVqWDZHU190dXExazdnbTY0SmtpdVM2cEU4ZjE5dVo0UWxCX0EzSEMtWXBKMXRhdlBPVnN6TXdBaEp0VHRrVQ?oc=5",
       "summary": "Olivia Rodrigo Shares New “Handsmaid’s Tale” Inspired Song “serena joy” Under the Radar Magazine",
       "published_at": "2026-08-28T16:54:18Z",
-      "fetched_at": "2026-08-28T21:55:08Z",
+      "fetched_at": "2026-08-28T22:19:51Z",
       "first_seen_at": "2026-08-28T21:55:08Z",
       "source": "Under the Radar",
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "f7eb494eb85c00a327a240bd",
@@ -713,13 +727,13 @@
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE50dng1eWpQWUhoa0twTzgyQWxJREFPNmVqaGFGQTUyVU9jT3NkU0ZKSzRvYVRSc054bV9oV2RIa2ZlSjhrOVR1ejh3SVZkUFJxcGR4TkpGSDNNTlEx?oc=5",
       "summary": "Paul Heaton scores first number one album as Dolly Parton's 9 to 5 finally reaches top 40 BBC",
       "published_at": "2026-08-28T16:48:36Z",
-      "fetched_at": "2026-08-28T21:55:08Z",
+      "fetched_at": "2026-08-28T22:19:51Z",
       "first_seen_at": "2026-08-28T21:55:08Z",
       "source": "BBC Music",
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "549b3b05b6cb44e31c3c8f1d",
@@ -727,13 +741,13 @@
       "url": "https://stereogum.com/2509695/underscores-unlimited-love-the-peace-frost-children-remix/music/",
       "summary": "Ascendant hyperpop star underscores has already been doing a ton of big things in 2026. Her breakout album U is one of our favorites of the year thus far , and she's about to open Charli XCX's arena tour . Today, pretty much out of nowhere, underscores dropped her new single \"Unlimited Love,\" a joyously jittery deconstructed Euro-club attack that'll probably sound epic at her live shows. She also shared a new remix of the U track \" The Peace \" from fellow brain-warping pop travelers Frost Children. Hear both tracks below. The post underscores – “Unlimited Love” & “The Peace (Frost Children Rem",
       "published_at": "2026-08-28T16:46:39Z",
-      "fetched_at": "2026-08-28T21:55:08Z",
+      "fetched_at": "2026-08-28T22:19:51Z",
       "first_seen_at": "2026-08-28T21:55:08Z",
       "source": "Stereogum",
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "d757716154e50c529b7e8bcb",
@@ -741,13 +755,13 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVVREb1ZJNkFVdmVCcDdPell3ZHNDWEJhT1d5R3l0elNCZDE1MmdqNEctQXdFR1hEeFp1Yjc4TmVHYkZodmNzd09OSXdvTFAxdUNXcVNGb29tS1pfaTVpaktjV2k3N0RRRFBoOTZjdXJWUjlKT3dPWWJzY2drajgxOG9IcE1LUFloVDRXel82YmxTbFVTZnl1U2Vpbzhvc1FpRUZhTDVMQ0thRXprd0JTNVp3?oc=5",
       "summary": "The Warning Makes History on Mainstream Rock Airplay With New No. 1 ‘Kerosene’ Billboard",
       "published_at": "2026-08-28T16:35:11Z",
-      "fetched_at": "2026-08-28T21:55:08Z",
+      "fetched_at": "2026-08-28T22:19:51Z",
       "first_seen_at": "2026-08-28T21:55:08Z",
       "source": "Billboard",
       "category": "Музыкальный бизнес, маркетинг и данные",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "bb9fdc1ca02800f307c4e499",
@@ -755,13 +769,13 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaXhsX1hSRFNrNXNUTTU4cW9PNE1HbWRnOEdhdUh6SEJiamFzSlFscXBnWC1fMzlHNVk4TGNsT1YtR2R6dlloSVE3T2Z1MUxldnRMVVQ1cWpienpUdTVmOWl2RTNYWmMwdFFUY0FJeVRZUnNIak1JQThUcFRNM3N2aXBFWUlXWGwxYkZOX3U1dGFmTWxFMEFaTDZB?oc=5",
       "summary": "Dolly Parton’s music returns to Official Charts as fans celebrate her legacy Official Charts",
       "published_at": "2026-08-28T16:33:53Z",
-      "fetched_at": "2026-08-28T21:55:08Z",
+      "fetched_at": "2026-08-28T22:19:51Z",
       "first_seen_at": "2026-08-28T21:55:08Z",
       "source": "Official Charts Company",
       "category": "Музыкальный бизнес, маркетинг и данные",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "a555e8e9aa3c608b085dbc46",
@@ -769,13 +783,13 @@
       "url": "https://stereogum.com/2509692/dahi-how-to-pray-feat-kendrick-lamar-amber-mark/music/",
       "summary": "Anytime that Kendrick Lamar shows up on anyone else's song, it's news. Earlier this year, for instance, Kendrick was on his protege Baby Keem's album Ca$ino . Today, he's on a new record from Dahi, the veteran Inglewood-born rap producer. The post Dahi – “How To Pray” (Feat. Kendrick Lamar & Amber Mark) appeared first on Stereogum .",
       "published_at": "2026-08-28T16:30:36Z",
-      "fetched_at": "2026-08-28T21:55:08Z",
+      "fetched_at": "2026-08-28T22:19:51Z",
       "first_seen_at": "2026-08-28T21:55:08Z",
       "source": "Stereogum",
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "04a33370382afb4bfb297c84",
@@ -783,13 +797,13 @@
       "url": "https://consequence.net/2026/08/billy-strings-winter-2027-us-tour/",
       "summary": "String's heartfelt new album, So Much for Goodbyes, is out now. Billy Strings Adds New 2027 US Tour Dates Paolo Ragusa",
       "published_at": "2026-08-28T16:30:31Z",
-      "fetched_at": "2026-08-28T21:55:08Z",
+      "fetched_at": "2026-08-28T22:19:51Z",
       "first_seen_at": "2026-08-28T21:55:08Z",
       "source": "Consequence",
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "2a623452d6ad85e80238d57a",
@@ -797,13 +811,13 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZFFBcVpUMFpZRnlvM3kzdWhLaVN3ZXY3djlMYW9EZC1LaW1pUzV2TXZkbUpkamoyTWF0c3RXWWp5T0ZaTWVYeWFHZ2tidEpEYmlySmpDYkZRcU9hU3NfOURYLUZlMFEwNjhNeUt5S3NaQld6VnhBMUNBanc5MUJmaXV0cXdraGZZSENRbzJ1X3o2eGVPaDZSWnA5T1p1ZE1lWFE?oc=5",
       "summary": "ENIGMA Launches ASTER Drum Lab, a Flexible 48-Pad Drum Sampler Gearspace",
       "published_at": "2026-08-28T16:24:12Z",
-      "fetched_at": "2026-08-28T21:55:08Z",
+      "fetched_at": "2026-08-28T22:19:51Z",
       "first_seen_at": "2026-08-28T21:55:08Z",
       "source": "Gearspace",
       "category": "Продакшн, звукозапись и технологии",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "fdce72620a0dd92bc375d6cd",
@@ -811,83 +825,13 @@
       "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBWYV8zaTNZX0xITW9ZMGU2UEtKRkwyUEVsd3l1eVZmbDBxaERzRzBXdURQQl82ZnhjWDNrb19nYTg?oc=5",
       "summary": "Edits, Samples and Refixes: Our Favourite Carnival Anthems · Feature ⟋ RA Resident Advisor",
       "published_at": "2026-08-28T16:22:14Z",
-      "fetched_at": "2026-08-28T21:55:08Z",
+      "fetched_at": "2026-08-28T22:19:51Z",
       "first_seen_at": "2026-08-28T21:55:08Z",
       "source": "Resident Advisor",
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
-    },
-    {
-      "id": "669135a97c0457b558f46fe9",
-      "title": "UAD Apollo Thunderbolt for Windows - Gearspace",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE03QVVraHZLS0NRRlRkRk9kYjUtNUhQOVRCQjBPbE5iYW1jcUJDaHZCS0dENnE4YzlhaEFUSlRYZG9JYUw3Sk1jYmVRanJ6RWVBVy1KNFZhNVVpTFIxTUFoNmh1cjA1cWxZQ3UwUXBLelI4S29MUEl5N1JNRWhJZw?oc=5",
-      "summary": "UAD Apollo Thunderbolt for Windows Gearspace",
-      "published_at": "2026-08-28T16:18:28Z",
-      "fetched_at": "2026-08-28T21:55:08Z",
-      "first_seen_at": "2026-08-28T21:55:08Z",
-      "source": "Gearspace",
-      "category": "Продакшн, звукозапись и технологии",
-      "language": "en",
-      "region": "Global",
-      "is_new": true
-    },
-    {
-      "id": "1247dd2b3e6183f991ff2cd1",
-      "title": "Molly Hatchet Announce First Album in 16 Years, Unleash “Dixie Highway”: Stream",
-      "url": "https://consequence.net/2026/08/molly-hatchet-lost-horizons-dixie-highway/",
-      "summary": "The band's 13th studio album Lost Horizons will be out November 27th via Steamhammer. Molly Hatchet Announce First Album in 16 Years, Unleash “Dixie Highway”: Stream Langdon Hickman",
-      "published_at": "2026-08-28T16:17:30Z",
-      "fetched_at": "2026-08-28T21:55:08Z",
-      "first_seen_at": "2026-08-28T21:55:08Z",
-      "source": "Consequence",
-      "category": "Музыка, критика и новая музыка",
-      "language": "en",
-      "region": "Global",
-      "is_new": true
-    },
-    {
-      "id": "964920383d9da163510fb6ac",
-      "title": "Genelec Supports Six Floors Of Activity At New GRIP Action Sports Hub In Finland",
-      "url": "https://www.prosoundweb.com/genelec-supports-six-floors-of-activity-at-new-grip-action-sports-hub-in-finland/?utm_source=rss&utm_medium=rss&utm_campaign=genelec-supports-six-floors-of-activity-at-new-grip-action-sports-hub-in-finland",
-      "summary": "Smart IP loudspeakers help maintain consistent coverage and intelligibility while accommodating the complex architecture and changing visitor behavior in the six-story complex in Tampere. The post Genelec Supports Six Floors Of Activity At New GRIP Action Sports Hub In Finland appeared first on ProSoundWeb .",
-      "published_at": "2026-08-28T16:14:41Z",
-      "fetched_at": "2026-08-28T21:55:08Z",
-      "first_seen_at": "2026-08-28T21:55:08Z",
-      "source": "ProSoundWeb",
-      "category": "Концертная индустрия, туры и технический продакшн",
-      "language": "en",
-      "region": "Global",
-      "is_new": true
-    },
-    {
-      "id": "6d4d6ddc8f3f8634ccf0d178",
-      "title": "Peter Gabriel – “Looking For The Happy”",
-      "url": "https://stereogum.com/2509688/peter-gabriel-looking-for-the-happy/music/",
-      "summary": "Art-rock eminemce Peter Gabriel is right smack in the middle of releasing his new album o\\i . It's been coming out in installments all year, with Gabriel releasing a new song on the night of every full moon. One month after the 10-minute epic \" One by One ,\" he's back with \"Looking For the Happy,\" which clocks in at a relatively brisk eight and a half minutes. It's a lush, expansive synth-funk number about searching for joy an an internet age. As someone who once owned a Peter Gabriel CD-Rom, I am bummed to think about this guy having to function on the social media landscape in any way. Here'",
-      "published_at": "2026-08-28T16:00:38Z",
-      "fetched_at": "2026-08-28T21:55:08Z",
-      "first_seen_at": "2026-08-28T21:55:08Z",
-      "source": "Stereogum",
-      "category": "Музыка, критика и новая музыка",
-      "language": "en",
-      "region": "Global",
-      "is_new": true
-    },
-    {
-      "id": "c7019405ad5334e60ac9ddf8",
-      "title": "Mastodon’s Marrow Deep Is the Thunderous Eruption of a New Era: Review",
-      "url": "https://consequence.net/2026/08/mastodon-marrow-deep-album-review/",
-      "summary": "Mastodon open up a new era for themselves, showcasing their widest songwriting palette since Blood Mountain. Mastodon’s Marrow Deep Is the Thunderous Eruption of a New Era: Review Langdon Hickman",
-      "published_at": "2026-08-28T15:56:30Z",
-      "fetched_at": "2026-08-28T21:55:08Z",
-      "first_seen_at": "2026-08-28T21:55:08Z",
-      "source": "Consequence",
-      "category": "Музыка, критика и новая музыка",
-      "language": "en",
-      "region": "Global",
-      "is_new": true
+      "is_new": false
     }
   ]
 }

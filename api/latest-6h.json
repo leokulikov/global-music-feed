@@ -1,12 +1,110 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-03T16:26:49Z",
+  "generated_at": "2026-09-03T17:25:17Z",
   "window_hours": 6,
   "source_count": 262,
-  "feeds_ok": 259,
-  "feeds_failed": 3,
-  "item_count": 110,
+  "feeds_ok": 261,
+  "feeds_failed": 1,
+  "item_count": 100,
   "items": [
+    {
+      "id": "058d8dc1bb5bb7b9433302be",
+      "title": "Avid Wins Engineering, Science & Technology Emmy Award For Development Of Avid DNx",
+      "url": "https://www.prosoundweb.com/avid-wins-engineering-science-technology-emmy-award-for-development-of-avid-dnx/?utm_source=rss&utm_medium=rss&utm_campaign=avid-wins-engineering-science-technology-emmy-award-for-development-of-avid-dnx",
+      "summary": "Company’s 20th Emmy recognizes Avid DNx for helping to enable television and film production teams to work faster with more freedom while preserving quality and creative intent. The post Avid Wins Engineering, Science & Technology Emmy Award For Development Of Avid DNx appeared first on ProSoundWeb .",
+      "published_at": "2026-09-03T17:15:52Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
+      "first_seen_at": "2026-09-03T17:25:17Z",
+      "source": "ProSoundWeb",
+      "category": "Концертная индустрия, туры и технический продакшн",
+      "language": "en",
+      "region": "Global",
+      "is_new": true
+    },
+    {
+      "id": "7e57b24f8a9cba0636230f9e",
+      "title": "Pacific Music Group Scores Exclusive Partnership Deal With Kaskade, Aims to ‘Expand His Presence Across Asia’",
+      "url": "https://www.digitalmusicnews.com/2026/09/03/kaskade-pacific-music-group-deal/",
+      "summary": "With an eye on expanding his presence in markets throughout Asia, Kaskade has inked an exclusive partnership deal with Ne-Yo’s Pacific Music Group (PMG). The veteran DJ and the Hong Kong-headquartered “next-generation music company” reached out to DMN with word of their tie-up, which will see PMG serve as the artist’s “strategic partner across all […]",
+      "published_at": "2026-09-03T17:00:54Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
+      "first_seen_at": "2026-09-03T17:25:17Z",
+      "source": "Digital Music News",
+      "category": "Музыкальный бизнес, маркетинг и данные",
+      "language": "en",
+      "region": "Global",
+      "is_new": true
+    },
+    {
+      "id": "18aeeb30f0cbb00776367b48",
+      "title": "HarbourView, on track to surpass $4B in assets under management, acquires David Kershenbaum’s producer royalties – including Tracy Chapman’s Fast Car",
+      "url": "https://www.musicbusinessworldwide.com/harbourview-assets-fast-car/",
+      "summary": "The transaction was announced on Thursday (September 3). Financial terms were not disclosed. Source",
+      "published_at": "2026-09-03T16:53:25Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
+      "first_seen_at": "2026-09-03T17:25:17Z",
+      "source": "Music Business Worldwide",
+      "category": "Музыкальный бизнес, маркетинг и данные",
+      "language": "en",
+      "region": "Global",
+      "is_new": true
+    },
+    {
+      "id": "91e3f87926c6b6daa47feef6",
+      "title": "Scott Ian Says Anthrax Will Return to Brazil in 2027; Suggests Cursum Perficio Could Be Band’s Final Album",
+      "url": "https://consequence.net/2026/09/scott-ian-anthrax-return-to-brazil-final-album/",
+      "summary": "The band’s first album in a decade arrives September 18th, with a two-year touring cycle set to begin in January. Scott Ian Says Anthrax Will Return to Brazil in 2027; Suggests Cursum Perficio Could Be Band’s Final Album Pedro Camacho",
+      "published_at": "2026-09-03T16:39:27Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
+      "first_seen_at": "2026-09-03T17:25:17Z",
+      "source": "Consequence",
+      "category": "Музыка, критика и новая музыка",
+      "language": "en",
+      "region": "Global",
+      "is_new": true
+    },
+    {
+      "id": "9bc7e68255339bfb2667acb8",
+      "title": "Wilson Pickett estate strikes deal with Primary Wave covering publishing catalog and name, image & likeness rights",
+      "url": "https://www.musicbusinessworldwide.com/wilson-pickett-estate-strikes-deal-with-primary-wave-covering-publishing-catalog-and-name-image-likeness-rights/",
+      "summary": "Primary Wave announced the deal on Wednesday (September 2). Financial terms were not disclosed Source",
+      "published_at": "2026-09-03T16:35:20Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
+      "first_seen_at": "2026-09-03T17:25:17Z",
+      "source": "Music Business Worldwide",
+      "category": "Музыкальный бизнес, маркетинг и данные",
+      "language": "en",
+      "region": "Global",
+      "is_new": true
+    },
+    {
+      "id": "12aa842c1eba60f2725d13fd",
+      "title": "Clairo Teases New Music",
+      "url": "https://consequence.net/2026/09/clairo-teases-new-music/",
+      "summary": "\"I have 11 songs,\" the singer-songwriter wrote on Instagram. Clairo Teases New Music Paolo Ragusa",
+      "published_at": "2026-09-03T16:29:02Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
+      "first_seen_at": "2026-09-03T17:25:17Z",
+      "source": "Consequence",
+      "category": "Музыка, критика и новая музыка",
+      "language": "en",
+      "region": "Global",
+      "is_new": true
+    },
+    {
+      "id": "0fb4bdcae0cd5a8859e01fb7",
+      "title": "Simple Minds Announce New Album Sacrosanct: Hear “Beginner Boys”",
+      "url": "https://stereogum.com/2510270/simple-minds-announce-new-album-sacrosanct-hear-beginner-boys/music/",
+      "summary": "Simple Minds started off in Glasgow way back in 1977, which means that the group's two longtime members, singer Jim Kerr and guitarist Charlie Burchill, are about to celebrate their 50th anniversary. They're on the short list of acts that I've written about in both of my columns The Number Ones and The Alternative Number Ones , and they're still going. The post Simple Minds Announce New Album <em>Sacrosanct</em>: Hear “Beginner Boys” appeared first on Stereogum .",
+      "published_at": "2026-09-03T16:24:05Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
+      "first_seen_at": "2026-09-03T17:25:17Z",
+      "source": "Stereogum",
+      "category": "Музыка, критика и новая музыка",
+      "language": "en",
+      "region": "Global",
+      "is_new": true
+    },
     {
       "id": "9ddf81c060b09ec706781454",
       "title": "BBC Radio 6 Music - New Music Fix, 30/09/2026 - BBC",
@@ -19,7 +117,7 @@
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "86004c8217b017fd1efe62f9",
@@ -33,7 +131,7 @@
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3ed17f2d6f3a2246859816ac",
@@ -47,7 +145,7 @@
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "b047c88a37b1f68dfe0f321d",
@@ -61,7 +159,7 @@
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "23a2f5b21f9605850bace955",
@@ -69,13 +167,13 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU0ZJaGw4anMxRzl5eU5CMDhybUJiQlBWT1NObTc1VDQ3bFhPbDBJTVl0cXpneEMzVEFEU3RHTXc3SkI0SGRQTUlOSkl5LU9rRFdCc0Q2Umt0ZC1adEZnNVlaUEhFZktWZE5UVWJVM3FLQWpWQUI4X1RCWU9jRHBlUUZB?oc=5",
       "summary": "SOCAN Sues Suno Over Alleged Copyright Infringement Hypebot",
       "published_at": "2026-09-03T16:08:05Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
       "first_seen_at": "2026-09-03T16:26:49Z",
       "source": "Hypebot",
       "category": "Музыкальный бизнес, маркетинг и данные",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "43cc4a23519755496c88711d",
@@ -83,13 +181,13 @@
       "url": "https://www.prosoundweb.com/audacity-enters-a-new-generation-with-version-4/?utm_source=rss&utm_medium=rss&utm_campaign=audacity-enters-a-new-generation-with-version-4",
       "summary": "Largest update in the project's history focuses on making audio editing more intuitive while preserving compatibility with existing projects and familiar workflows. The post Audacity Enters A New Generation With Version 4 appeared first on ProSoundWeb .",
       "published_at": "2026-09-03T16:05:14Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
       "first_seen_at": "2026-09-03T16:26:49Z",
       "source": "ProSoundWeb",
       "category": "Концертная индустрия, туры и технический продакшн",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "a8c863a73e7042c3548fee2e",
@@ -97,13 +195,13 @@
       "url": "https://stereogum.com/2510266/emma-ruth-rundle-gods-picture/music/",
       "summary": "Here's a lyric for you: \"God’s got a picture of the whole world burning, down to the details of his hot white ash.\" That's the opening line from Emma Ruth Rundle's new single \"God's Picture,\" and it's also the fantasy at the song's center. Rundle is a master of bleak and heavy mood music, and she'll release her new album These Killing Times in a couple of weeks. We've already heard the early tracks \" Powerless \" and \" Enough .\" \"God's Picture\" keeps the streak going. The post Emma Ruth Rundle – “God’s Picture” appeared first on Stereogum .",
       "published_at": "2026-09-03T16:00:17Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
       "first_seen_at": "2026-09-03T16:26:49Z",
       "source": "Stereogum",
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "ce8495f05e1d01f253624fbb",
@@ -111,13 +209,13 @@
       "url": "https://www.nme.com/news/music/aurora-celebrates-10-years-all-my-demons-greeting-me-as-a-friend-title-track-moth-tapes-3966837?utm_source=rss&utm_medium=rss&utm_campaign=aurora-celebrates-10-years-all-my-demons-greeting-me-as-a-friend-title-track-moth-tapes",
       "summary": "“It feels vulnerable to release something unrefined, but I know sometimes that is what people need the most” The post AURORA celebrates 10 years of debut ‘All My Demons Greeting Me As A Friend’ with release of title track and ‘Moth Tapes’ appeared first on NME .",
       "published_at": "2026-09-03T15:51:19Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
       "first_seen_at": "2026-09-03T16:26:49Z",
       "source": "NME",
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "c97d13e558a68a37d1907901",
@@ -125,13 +223,13 @@
       "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE9oREM3aDRBYjNFT3Q0bC1pVVFWWmx2Q0tQbU1qYl9jTHkwZlBkSHdybVhqdWRncXZLeHM5NQ?oc=5",
       "summary": "RA reveals lineup for 2026 Making Time ∞ stage · News ⟋ RA Resident Advisor",
       "published_at": "2026-09-03T15:49:25Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
       "first_seen_at": "2026-09-03T16:26:49Z",
       "source": "Resident Advisor",
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "7523f6c9dfc155619919030f",
@@ -145,7 +243,7 @@
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "e39d308d6047ad315bce9cc5",
@@ -159,7 +257,7 @@
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "7d5d2ae7bd2b350c856e8af6",
@@ -173,7 +271,7 @@
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "2b3000b046e2cf671c059cbf",
@@ -187,7 +285,7 @@
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "fa566dda97b57a685f1b6f83",
@@ -201,7 +299,7 @@
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "25ee849fac581976ef7f7152",
@@ -215,7 +313,7 @@
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "84c5cbd707dc9c85e934cc37",
@@ -229,7 +327,7 @@
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "fa7e52f500d17cc37b821b45",
@@ -237,13 +335,13 @@
       "url": "https://stereogum.com/2510261/shady-bug-announce-new-album-i-wanted-to-be-there-hear-my-night-routine/music/",
       "summary": "Please welcome yet another cool band to the Julia's War Recordings roster. Julia's War, the Philadelphia label founded by They Are Gutting A Body Of Water frontman Doug Dulgarian, is on a pretty absurd winning streak right now, putting out strong recent records from acts like Total Wife, Mx Lonely, God Of War, and Melaina Kol. For their next trick, they'll get together with Bee Side Cassettes to release the new LP from the St. Louis band Shady Bug. The post Shady Bug Announce New Album <em>I wanted to be there</em>: Hear “my night routine” appeared first on Stereogum .",
       "published_at": "2026-09-03T15:33:06Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
       "first_seen_at": "2026-09-03T16:26:49Z",
       "source": "Stereogum",
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "ac7cd08298e8b1741170a817",
@@ -257,7 +355,7 @@
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "db8d9c0501a3819ad95a54cf",
@@ -271,7 +369,7 @@
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "323afe04b0a40df979b6e808",
@@ -279,7 +377,7 @@
       "url": "https://bedroomproducersblog.com/2026/09/03/lewitt-space-replicator-free/",
       "summary": "Developer Lewitt has released Space Replicator Free, a virtual monitoring plugin for macOS and Windows. Lots of plugins virtually recreate the characteristics of real-life spaces for various reasons, whether it’s something like UAD’s Sound City Studios providing a touch of LA when tracking in your bedroom or a convolution reverb like NoiseRverb bringing you the [...] View post: Lewitt releases Space Replicator Free, a virtual monitoring plugin for macOS and Windows",
       "published_at": "2026-09-03T15:25:11Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
       "first_seen_at": "2026-09-03T15:29:00Z",
       "source": "Bedroom Producers Blog",
       "category": "Продакшн, звукозапись и технологии",
@@ -299,7 +397,7 @@
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "7572c2dafa03ce55304db9c7",
@@ -313,7 +411,7 @@
       "category": "Концертная индустрия, туры и технический продакшн",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "30c0b7191feaed0cf75dd06b",
@@ -321,13 +419,13 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQnFoM1VlbVlXXzdQZjVzbTc3Z3Fzck1mMkEzb3lkaGE1eDlwSWMwcEszYmU2WDRtVGJ3UmktNFQyR2VYRk5PNTl3Tm1OZ0s2UDZ4Y0ZRSks4Q2hiZFhqcll6UDI2SHR6RlVVWVRlZGNBWHlUZ3R4d3dKQ0g2dXg4cHNqbF8?oc=5",
       "summary": "We’re off to End Of The Road Festival 2026 UNCUT",
       "published_at": "2026-09-03T15:18:59Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
       "first_seen_at": "2026-09-03T16:26:49Z",
       "source": "Uncut",
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "46f46a59b821dd0483748436",
@@ -335,7 +433,7 @@
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LUW9Md3ljNnJBQ2dPX3pyNkpZb0Z5Y2d5WjhZLUJ0WGN0M09PVU9WRkJRS1NjN1dmZ2ZuZ2JWX3pXX2NKWlNEa0ExTnhFV0hybmc?oc=5",
       "summary": "結成15周年のモノンクル、集大成となるワンマンライブ『プラネタリー・エム』を12月に渋谷WWW Xにて開催 音楽業界総合情報サイト",
       "published_at": "2026-09-03T15:11:28Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
       "first_seen_at": "2026-09-03T16:26:49Z",
       "source": "Musicman",
       "category": "Япония",
@@ -344,12 +442,26 @@
       "is_new": false
     },
     {
+      "id": "064fcb1dbc4173740d666e03",
+      "title": "‘I want to go further’: Justin Broadrick on retiring Godflesh, playing with Phoebe Bridgers – and his new band",
+      "url": "https://www.theguardian.com/music/2026/sep/03/justin-broadrick-godflesh-phoebe-bridgers",
+      "summary": "A hernia may mean his screaming days are over, but the Napalm Death alum’s influence on metal echoes on in unexpected places – and with ‘heavy, ugly’ experiments in the pipeline, his passion for ‘outsider music’ remains strong On 4 October 2024, Justin Broadrick felt a pop. The singer and guitarist of pioneering industrial metal duo Godflesh had felt pain in his groin for several years. After a coughing fit following a show in Sofia, Bulgaria, he knew he had a hernia. “It was a small knob in my groin,” says Broadrick. “I got back home and told my partner, and she was like, ‘Let’s watch how it ",
+      "published_at": "2026-09-03T15:00:45Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
+      "first_seen_at": "2026-09-03T17:25:17Z",
+      "source": "The Guardian Music",
+      "category": "Музыка, критика и новая музыка",
+      "language": "en",
+      "region": "Global",
+      "is_new": true
+    },
+    {
       "id": "39deeff28cdc86236004bba3",
       "title": "Shigge、YOM新プロジェクト第2弾 ＆ 新作EPからの先行シングル“Now I Know”配信",
       "url": "https://spincoaster.com/news/shigge-now-i-know",
       "summary": "Shiggeがニューシングル“Now I Know”を本日9月4日（金）にリリースした。 90年代のUKガラージに根ざした本作は、Daijo Kaiseiの“On The Floor”に続く、〈Yes",
       "published_at": "2026-09-03T15:00:42Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
       "first_seen_at": "2026-09-03T15:29:00Z",
       "source": "Spincoaster",
       "category": "Япония",
@@ -363,7 +475,7 @@
       "url": "https://stereogum.com/2510254/living-hour-announce-new-ep-magnet-hear-the-title-track/music/",
       "summary": "Dreamy Winnipeg mainstays Living Hour are following up last year's excellent Internal Drone Infinity with a new EP. Magnet , which drops three weeks from today, comprises two new songs and two demos of Internal Drone Infinity tunes. It leads off with the title track, which dials back Living Hour's hard-hitting qualities in favor of a drifting panorama that fits in well alongside the likes of Cassandra Jenkins, Julia Holter, and Emily A. Sprague. It's a study in mood, texture, and shapeless beauty, and its final lyric will stay with me: \"I wanna sleep at the edge of the text on the screen.\" The",
       "published_at": "2026-09-03T14:55:29Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
       "first_seen_at": "2026-09-03T15:29:00Z",
       "source": "Stereogum",
       "category": "Музыка, критика и новая музыка",
@@ -383,7 +495,7 @@
       "category": "Концертная индустрия, туры и технический продакшн",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "aca92c7d6f9bf27913d56496",
@@ -391,7 +503,7 @@
       "url": "https://stereogum.com/2510250/blatant-sk8er-boi-life-is-a-highway-ai-ripoffs-cited-in-socans-lawsuit-against-suno/news/",
       "summary": "Stella Lefty isn't the only one out here ripping off hit songs . Some people are trying to build entire billion-dollar tech businesses out of the practice. Right now, many, many parties are suing Suno, the leading generative AI music platform. Major labels Universal Music Group and Sony Music Entertainment are in active litigation against Suno, though Warner Music Group, the other major, settled its own lawsuit by announcing a strategic partnership with Suno last fall. Earlier this week, a group of musicians that includes Jason Isbell and David Lowery filed another Suno lawsuit , this one over",
       "published_at": "2026-09-03T14:53:01Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
       "first_seen_at": "2026-09-03T15:29:00Z",
       "source": "Stereogum",
       "category": "Музыка, критика и новая музыка",
@@ -405,7 +517,7 @@
       "url": "https://www.nme.com/news/music/brazil-introduces-taylor-swift-law-three-years-after-fan-died-of-extreme-heat-at-gig-3966818?utm_source=rss&utm_medium=rss&utm_campaign=brazil-introduces-taylor-swift-law-three-years-after-fan-died-of-extreme-heat-at-gig",
       "summary": "The law cracks down on scalpers, and also requires venues to provide free drinking water to visitors The post Brazil introduces ‘Taylor Swift Law’ three years after fan died of extreme heat at gig appeared first on NME .",
       "published_at": "2026-09-03T14:49:01Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
       "first_seen_at": "2026-09-03T15:29:00Z",
       "source": "NME",
       "category": "Музыка, критика и новая музыка",
@@ -419,7 +531,7 @@
       "url": "https://stereogum.com/2510177/armlock-half-time/music/",
       "summary": "Australia's Armlock have been on the rise since their 2024 album Seashell Angel Lucky Charm . The duo toured with Snail Mail earlier this year, and Anxious named them as an influence for their latest song \" Don't Move .\" Now, they're back with \"Half Time.\" The post Armlock – “Half Time” appeared first on Stereogum .",
       "published_at": "2026-09-03T14:34:48Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
       "first_seen_at": "2026-09-03T15:29:00Z",
       "source": "Stereogum",
       "category": "Музыка, критика и новая музыка",
@@ -439,7 +551,7 @@
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "f9d4a107b0da93221f273a03",
@@ -447,7 +559,7 @@
       "url": "https://www.theguardian.com/music/2026/sep/03/adela-prima-review-polydor",
       "summary": "(Polydor) The 22-year-old is impressively frank about indulging industry sleaze in her pursuit of fame on a debut that puts a distinctive spin on the best of 00s hedonism There’s something very striking about hearing a pop star in 2026, their voice larded with Auto-Tune, opening a song with the line “I can’t really sing”. We live in an era where fans seem more aware than ever of the nefarious music business machinations that lurk within the star-making process, one where you’re never far away from online outrage decrying some artist or other as an industry plant. Nevertheless, admitting that t",
       "published_at": "2026-09-03T14:30:40Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
       "first_seen_at": "2026-09-03T15:29:00Z",
       "source": "The Guardian Music",
       "category": "Музыка, критика и новая музыка",
@@ -467,7 +579,7 @@
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "4c310c5c549ed9e9484c87bc",
@@ -475,13 +587,13 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbHJhQmZEY1RZZEdpRDgyaVNTTXA3ZldRQVRNREdpZWVxeDZMTzFJeWEyRWlpbVlQaGw3X2w1Z0luT1JtOWtqMWY3aG1uZE8tM1ZFT2NocmQ4YnNrd041TEF5c3h5X2EzYTdXWmZIUC1Sa0pycHl3cXpGY3RqTjV6OUhn?oc=5",
       "summary": "Sheherazaad Announces Debut Album ‘Khudgarzi’ clashmusic.com",
       "published_at": "2026-09-03T14:16:48Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
       "first_seen_at": "2026-09-03T16:26:49Z",
       "source": "Clash",
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "ad546890dcba32ac3ccfe00a",
@@ -489,7 +601,7 @@
       "url": "https://stereogum.com/2510239/stella-lefty-accused-of-copying-a-third-hit-song/news/",
       "summary": "Everyone's having a great time talking about the funniest new character on the pop landscape. The suddenly omnipresent country-adjacent folk-pop hitmaker Stella Lefty is otherwise known as Stella Lefkofsky, the daughter of Groupon's billionaire co-founder. That would already been a silly enough backstory, but it gets even goofier when you consider just how often Lefty's personality-deficient songs seem to be directly lifted from other people's extremely famous hits. The post Stella Lefty Accused Of Copying A Third Hit Song appeared first on Stereogum .",
       "published_at": "2026-09-03T14:11:29Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
       "first_seen_at": "2026-09-03T14:28:01Z",
       "source": "Stereogum",
       "category": "Музыка, критика и новая музыка",
@@ -503,7 +615,7 @@
       "url": "https://consequence.net/2026/09/oasis-noel-gallagher-teases-summer-2027-tour/",
       "summary": "\"There’s no football tournament on next year, so we’ve got to do something in the summer, right?,” Gallagher said. Noel Gallagher Seemingly Confirms Oasis Summer 2027 Tour Paolo Ragusa",
       "published_at": "2026-09-03T14:09:15Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
       "first_seen_at": "2026-09-03T15:29:00Z",
       "source": "Consequence",
       "category": "Музыка, критика и новая музыка",
@@ -517,7 +629,7 @@
       "url": "https://stereogum.com/2509613/read-an-exclusive-excerpt-from-andrew-sachers-new-book-emo-revival/columns/sounding-board/book-club/",
       "summary": "For years, Andrew Sacher served as the resident emo aficionado at BrooklynVegan , shedding light on up-and-coming bands that other sites weren't covering. He first announced his emo revival book back in 2023, and the anticipation has been ramping up in recent months as the publication date approaches. But just last month BrooklynVegan — along with Alternative Press , Revolver , and Goldmine — were hit with massive layoffs by their parent company Veeps. Sacher will continue championing emerging acts on his Substack , and his book, Emo Revival: Community, DIY, And Rebirth In Post-Hardcore And Em",
       "published_at": "2026-09-03T14:08:05Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
       "first_seen_at": "2026-09-03T14:28:01Z",
       "source": "Stereogum",
       "category": "Музыка, критика и новая музыка",
@@ -531,7 +643,7 @@
       "url": "https://www.theguardian.com/culture/2026/sep/03/reader-interview-kd-lang-vanity-fair-neko-case-laura-veirs",
       "summary": "The Canadian singer-songwriter answers your questions about her trailblazing career, her spirituality, and collaborations with the likes of Neko Case, Laura Veirs and Pee-wee Herman I left the Canadian prairies many years ago, but they remain my home. How do you feel about that part of western Canada, where the prairies meet the Rocky mountains , which shaped us both ? What does Alberta mean to you now? NicholasLittle All of my artistic preferences were formed by the minimalism of the prairies, by the affordable space and the stillness. There weren’t many things around, so a field with bales w",
       "published_at": "2026-09-03T14:00:39Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
       "first_seen_at": "2026-09-03T14:28:01Z",
       "source": "The Guardian Music",
       "category": "Музыка, критика и новая музыка",
@@ -545,7 +657,7 @@
       "url": "https://spincoaster.com/news/tohji-mall-tape-remix-zone",
       "summary": "Tohjiが『Mall Tape 3』のリミックス公募企画『#MallTapeRemixZone』を開始した。 11月17日（火）の東京ドーム公演『Tohji Last Live “TOKYO MAL",
       "published_at": "2026-09-03T14:00:26Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
       "first_seen_at": "2026-09-03T14:28:01Z",
       "source": "Spincoaster",
       "category": "Япония",
@@ -559,13 +671,41 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNb2RoZXdCODctLUlVQm96VWplUnE1a3U0LUhmY3F5UlNPRl81RTZwV0lfa1lkY3lJaktZTjBvY281UlRzZFNiQ09qZGxwYUJOdC1ta2lOZVF2QUEtMGtYZGZUTEYyVkVhUUROTjN5MWJCdndIWjMwM0lwYWFYcGQzRkNMVlE2RUstbXBUejQyVm9ESHZpN2tIc3BBa005UXRpdndLMERRempXT1JRWS12dlpsenFIZHpYY0ViaHN3?oc=5",
       "summary": "How Olivia Rodrigo’s Daisy Chain Festival Made History Rolling Stone",
       "published_at": "2026-09-03T14:00:00Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
       "first_seen_at": "2026-09-03T16:26:49Z",
       "source": "Rolling Stone",
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
+      "is_new": false
+    },
+    {
+      "id": "7ade35661ded085ea8764975",
+      "title": "The Darkness announce tiny 300-capacity London club show to launch greatest hits album Crock Of Hits - Louder",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUlk2cVVOSlhlakM5TVpOQ3pINXFNMXBfRjJmMVFqb282X1otbjNaYmp1TWJ6VUYycHluSmFLZG14MVh6XzVNeUUwT3J4OC1JMXhRczdNQ0NTZVQzNGlTeHlURVVHZEJISW9TS2ptaEdvM2RkYjJKOGNZa050X09nQXNGdGpQbF9nck11RHBQZE1VZDhVeXZCVDVtRmJ3MHgxYTJjR252bw?oc=5",
+      "summary": "The Darkness announce tiny 300-capacity London club show to launch greatest hits album Crock Of Hits Louder",
+      "published_at": "2026-09-03T14:00:00Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
+      "first_seen_at": "2026-09-03T17:25:17Z",
+      "source": "Louder",
+      "category": "Музыка, критика и новая музыка",
+      "language": "en",
+      "region": "Global",
       "is_new": true
+    },
+    {
+      "id": "c38088f46b4985688a94a9ca",
+      "title": "M!LK吉田仁人、『レコメン!』ライブフェスイベント第2弾開催「最高の時間をお届けします!」 ONE N' ONLYも出演【コメント全文】 - オリコンニュース",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzbzZmeW9peE03RjFaUFg0OTlpU05PamRVWUFNUElNd1pxTGl6WlIteVNycHh2VFgxaVNVVXlyZnhDVzZGd052dTJ5UHVsRkU?oc=5",
+      "summary": "M!LK吉田仁人、『レコメン!』ライブフェスイベント第2弾開催「最高の時間をお届けします!」 ONE N' ONLYも出演【コメント全文】 オリコンニュース",
+      "published_at": "2026-09-03T14:00:00Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
+      "first_seen_at": "2026-09-03T16:26:49Z",
+      "source": "Oricon",
+      "category": "Япония",
+      "language": "ja",
+      "region": "Japan",
+      "is_new": false
     },
     {
       "id": "28d0290b56281a275f223596",
@@ -596,26 +736,12 @@
       "is_new": false
     },
     {
-      "id": "c38088f46b4985688a94a9ca",
-      "title": "M!LK吉田仁人、『レコメン!』ライブフェスイベント第2弾開催「最高の時間をお届けします!」 ONE N' ONLYも出演【コメント全文】 - オリコンニュース",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzbzZmeW9peE03RjFaUFg0OTlpU05PamRVWUFNUElNd1pxTGl6WlIteVNycHh2VFgxaVNVVXlyZnhDVzZGd052dTJ5UHVsRkU?oc=5",
-      "summary": "M!LK吉田仁人、『レコメン!』ライブフェスイベント第2弾開催「最高の時間をお届けします!」 ONE N' ONLYも出演【コメント全文】 オリコンニュース",
-      "published_at": "2026-09-03T14:00:00Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
-      "first_seen_at": "2026-09-03T16:26:49Z",
-      "source": "Oricon",
-      "category": "Япония",
-      "language": "ja",
-      "region": "Japan",
-      "is_new": true
-    },
-    {
       "id": "b16379d8954263932f53e89c",
       "title": "The Avalanches announce massive 31-song tracklist for new album ‘No Bad Memories’, featuring Rivers Cuomo, Karen O, Haley Joel Osment, Mike Patton, Barry Can’t Swim and many more",
       "url": "https://www.nme.com/news/music/the-avalanches-tracklist-no-bad-memories-rivers-cuomo-karen-o-haley-joel-osment-mike-patton-barry-cant-swim-3966807?utm_source=rss&utm_medium=rss&utm_campaign=the-avalanches-tracklist-no-bad-memories-rivers-cuomo-karen-o-haley-joel-osment-mike-patton-barry-cant-swim",
       "summary": "Jamie xx, Yellow Magic Orchestra founder Haruomi Hosono, Suzanne Ciani and plenty more will also feature on the record The post The Avalanches announce massive 31-song tracklist for new album ‘No Bad Memories’, featuring Rivers Cuomo, Karen O, Haley Joel Osment, Mike Patton, Barry Can’t Swim and many more appeared first on NME .",
       "published_at": "2026-09-03T13:55:32Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
       "first_seen_at": "2026-09-03T14:28:01Z",
       "source": "NME",
       "category": "Музыка, критика и новая музыка",
@@ -629,13 +755,13 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5wTFhBV0xXUDlCQ2Exa0dPcGVTTDJnZzlqU01YaURKTG12YXNoUTdoaE9PQ1NVNDYzeEZWUDRZZk5iemdLWm1pWWRFUFhtX2c?oc=5",
       "summary": "桑田佳祐の最新ツアー「夏祭り」、忘れられない夜になった！ rockinon.com",
       "published_at": "2026-09-03T13:52:31Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
       "first_seen_at": "2026-09-03T16:26:49Z",
       "source": "Rockin'On",
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "28149cfebb89a8f76a97fda0",
@@ -643,7 +769,7 @@
       "url": "https://daily.bandcamp.com/best-country/the-best-country-music-on-bandcamp-august-2026",
       "summary": "Our monthly round-up of folk, bluegrass, roots rock, Americana, and all things country-ish. Read full story on the Bandcamp Daily .",
       "published_at": "2026-09-03T13:48:17Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
       "first_seen_at": "2026-09-03T15:29:00Z",
       "source": "Bandcamp Daily",
       "category": "Музыка, критика и новая музыка",
@@ -657,7 +783,7 @@
       "url": "https://daily.bandcamp.com/best-contemporary-classical/the-best-contemporary-classical-music-on-bandcamp-august-2026",
       "summary": "Our guide to the month’s crucial contemporary classical releases. Read full story on the Bandcamp Daily .",
       "published_at": "2026-09-03T13:48:11Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
       "first_seen_at": "2026-09-03T15:29:00Z",
       "source": "Bandcamp Daily",
       "category": "Музыка, критика и новая музыка",
@@ -671,7 +797,7 @@
       "url": "https://daily.bandcamp.com/album-of-the-day/cyst-ee-ee-review",
       "summary": "The duo of Iglooghost and daisy* develop experimental hip-hop and club music into a timely caricature of everyday life in the UK. Read full story on the Bandcamp Daily .",
       "published_at": "2026-09-03T13:48:06Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
       "first_seen_at": "2026-09-03T15:29:00Z",
       "source": "Bandcamp Daily",
       "category": "Музыка, критика и новая музыка",
@@ -685,7 +811,7 @@
       "url": "https://consequence.net/2026/09/babymetal-kick-off-2026-north-american-tour-halestorm/",
       "summary": "It's the Japanese pop-metal act's biggest stateside tour ever. BABYMETAL Kick Off 2026 North American Tour with Halestorm: Video + Setlists Spencer Kaufman",
       "published_at": "2026-09-03T13:46:35Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
       "first_seen_at": "2026-09-03T14:28:01Z",
       "source": "Consequence",
       "category": "Музыка, критика и новая музыка",
@@ -699,7 +825,7 @@
       "url": "https://stereogum.com/2510233/rubber-band-gun-shares-surprise-new-album-bloodwork-feat-sam-and-louise-sullivan-star-moles/music/",
       "summary": "Within the independent music world, there's been a growing enthusiasm this year for Historic New Jersey, a recording collective and/or record label in Philadelphia making retro-tinted pop-rock, scrappy yet finely crafted, familiar but seemingly beamed in from an alternate timeline. The hype started to build in February, when Emily Moales graced us with her brilliant Star Moles album Highway To Hell , and it intensified this summer, when siblings Sam and Louise Sullivan released their charming and inspired Love & Devotion . Kevin Basko, whose home studio plays host to all this creation, has bee",
       "published_at": "2026-09-03T13:37:24Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
       "first_seen_at": "2026-09-03T14:28:01Z",
       "source": "Stereogum",
       "category": "Музыка, критика и новая музыка",
@@ -713,7 +839,7 @@
       "url": "https://bedroomproducersblog.com/2026/09/03/jas-i-khorlo-beta/",
       "summary": "JAS-I Khorlo, a free physical modeling/resonator synth for macOS, Windows, and Linux, is now in open beta. When we post news about new releases, we occasionally run into a few problems. For example, sometimes installers won’t download, or emails take a while, and that’s not ideal if you’re against the clock. On rarer occasions, a [...] View post: JAS-I Khorlo is a new FREE physical modeling/resonator synth for macOS, Windows, and Linux",
       "published_at": "2026-09-03T13:35:58Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
       "first_seen_at": "2026-09-03T14:28:01Z",
       "source": "Bedroom Producers Blog",
       "category": "Продакшн, звукозапись и технологии",
@@ -727,9 +853,23 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPX0hGOVRMR05tUERBOXRXNHJwblVSd094OWlITm5TX1YzR2NGdlNkdkZMeG0zUDNGT1ByLXk0cWVyZV85c3dSX3hiX1JaX1AyYUdaZVpIMGhKRV8yTWdHOWhxelJ1MzdyVzBzaEE2T0tReEFTSDU2M0N6bE1pUXd5eFI4T3BPeG5MLTNscHBuUXhwZ1ZPMFU3cUk4aUt3T3h4VmN3ZDZhcGZ2LTF6Y3l6UFl3?oc=5",
       "summary": "Bastille’s Dan Smith And Ralph Pelleymounter Combine For New LP ‘Misfits Together’ clashmusic.com",
       "published_at": "2026-09-03T13:35:29Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
       "first_seen_at": "2026-09-03T16:26:49Z",
       "source": "Clash",
+      "category": "Музыка, критика и новая музыка",
+      "language": "en",
+      "region": "Global",
+      "is_new": false
+    },
+    {
+      "id": "b3c5ef64698dfac416e827b6",
+      "title": "Diiv’s New “Kid” Video Is Filmed by Zachary Cole Smith’s Kid - Pitchfork",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMGlucmRwWTBWU29seURVd3JOMEQ5a00yTWM0RFNReWVtNTBOblZ1UklGQkxjNWpTQzhudFp0ZlhnUEdYWXVIQkZ4MDVLVDkxUlRwdFEwZTVISThVSHZMOUx1RFIwSGJJdUJOaks5VWhUUWRvVGZQZlRhUldrZkJQdUxCQ2VWTWlsXzFHTDlR?oc=5",
+      "summary": "Diiv’s New “Kid” Video Is Filmed by Zachary Cole Smith’s Kid Pitchfork",
+      "published_at": "2026-09-03T13:34:49Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
+      "first_seen_at": "2026-09-03T17:25:17Z",
+      "source": "Pitchfork",
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
@@ -741,7 +881,7 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9PYVBDVE81UWJaSDk5dmhvdlFvNWQ4ODRJNGJFc2x4b1pwdjN4YkVSaDJvb2x5V3MySU9hU3liQVQwbGpIWGFKT19IRGtaaDA3a1lTMHNlNURIWmN5SzVnOHJn?oc=5",
       "summary": "FRUITS ZIPPERがドレス＆メイド姿で登場、全国ツアー初日に初披露「秘密のアティチュード」MV公開 Billboard JAPAN",
       "published_at": "2026-09-03T13:30:00Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
       "first_seen_at": "2026-09-03T15:29:00Z",
       "source": "Billboard Japan",
       "category": "Япония",
@@ -755,7 +895,7 @@
       "url": "https://consequence.net/2026/09/ella-langley-2026-tour-how-to-get-tickets/",
       "summary": "The country star is celebrating her breakout year with her biggest shows to-date. Learn how to get tickets. Ella Langley’s 2026 Tour: How to Get Tickets at Last-Minute Paolo Ragusa",
       "published_at": "2026-09-03T13:23:44Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
       "first_seen_at": "2026-09-03T13:27:15Z",
       "source": "Consequence",
       "category": "Музыка, критика и новая музыка",
@@ -769,7 +909,7 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ3FpM0FUb1JHWDNIbTNsSUNwU2Y5cDd6aEpYem45MkFURWVJUW82czFNbnpnSkpxd1ZoanJWWnIzUjNqb1V5WTFLOVljbzFVZnpyR09IQUhuRjJuX3VaVFpjODlOVnJ5UDBneVNvdTVKcHlKeXY3YU5XSkprbGhrZTFPTnRRUnhFTTln?oc=5",
       "summary": "More Music Venues Ban Smart Glasses To Protect Fan Privacy Hypebot",
       "published_at": "2026-09-03T13:22:54Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
       "first_seen_at": "2026-09-03T14:28:01Z",
       "source": "Hypebot",
       "category": "Музыкальный бизнес, маркетинг и данные",
@@ -797,7 +937,7 @@
       "url": "https://musictech.com/news/gear/denon-dj-dj-system-prime-4-g2-mpce-pads/",
       "summary": "InMusic Denon has said the PRIME 4 G2 is ‘built for performance-driven DJs’ The post Denon DJ’s new Prime 4 G2 is an all-in-one DJ controller with MPCe pads appeared first on MusicTech .",
       "published_at": "2026-09-03T13:19:42Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
       "first_seen_at": "2026-09-03T13:27:15Z",
       "source": "MusicTech",
       "category": "Продакшн, звукозапись и технологии",
@@ -811,7 +951,7 @@
       "url": "https://www.prosoundweb.com/hk-audio-concert-sound-2-0-presets-included-in-powersoft-armoniaplus/?utm_source=rss&utm_medium=rss&utm_campaign=hk-audio-concert-sound-2-0-presets-included-in-powersoft-armoniaplus",
       "summary": "CONCERT SOUND 2.0 presets for various HK Audio loudspeakers have been optimized for use with Powersoft amplifier platforms and support efficient system configuration. The post HK Audio CONCERT SOUND 2.0 Presets Included In Powersoft ArmoníaPlus appeared first on ProSoundWeb .",
       "published_at": "2026-09-03T13:18:50Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
       "first_seen_at": "2026-09-03T13:27:15Z",
       "source": "ProSoundWeb",
       "category": "Концертная индустрия, туры и технический продакшн",
@@ -825,7 +965,7 @@
       "url": "https://stereogum.com/2510232/kelela-covers-incubus-with-a-string-quartet/music/",
       "summary": "The club and R&B experimenter Kelela is a bit of a futurist. You could say that she's really interested in whatever tomorrow brings. But right now, we get a fascinating chance to see her reach into her past. Kelela released her excellent album new avatar over the summer. To promote it, she recently stopped by LA's Spotify Music Studios, and that's where she busted out an Incubus cover. The post Kelela Covers Incubus With A String Quartet appeared first on Stereogum .",
       "published_at": "2026-09-03T13:14:43Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
       "first_seen_at": "2026-09-03T13:27:15Z",
       "source": "Stereogum",
       "category": "Музыка, критика и новая музыка",
@@ -839,13 +979,13 @@
       "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE55NVNoZVFydXozNV83T0VUd1BRRnhnRFFNSFpkRmtIOVBkU1lWczJCTnBJcjVUX2JUTFVMMg?oc=5",
       "summary": "Cosey Fanni Tutti documentary, Art Sex Music, on the way · News ⟋ RA Resident Advisor",
       "published_at": "2026-09-03T13:13:45Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
       "first_seen_at": "2026-09-03T16:26:49Z",
       "source": "Resident Advisor",
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3898a8852ddbd3201c93b9d1",
@@ -853,7 +993,7 @@
       "url": "https://www.prosoundweb.com/new-penteo-version-8-adds-independent-decorrelation-control-for-every-upmix-dimension/?utm_source=rss&utm_medium=rss&utm_campaign=new-penteo-version-8-adds-independent-decorrelation-control-for-every-upmix-dimension",
       "summary": "Expanded Decorrelation Suite is designed to deliver enveloping, immersive upmix results by taking independent decorrelation control over every upmix dimension for channel pairs, surround bed, LFE and bass. The post New Penteo Version 8 Adds Independent Decorrelation Control For Every Upmix Dimension appeared first on ProSoundWeb .",
       "published_at": "2026-09-03T13:10:14Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
       "first_seen_at": "2026-09-03T13:27:15Z",
       "source": "ProSoundWeb",
       "category": "Концертная индустрия, туры и технический продакшн",
@@ -867,13 +1007,13 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdjdaYkdCMXNnTU1XN0FVV2J3X20yNzNULTRRLVlXSHJwRWNEXzBvU0dqeUItTGMwMFNfa3FFUTMzdE85ZG9Ha3Z0UHJndGRyVmFuRVc2RlpXVmxlZ2lsNWdCMVFtYWx0YlhtWEdGMFZHck44N29FeHgzR0hZWHNmUk9wbw?oc=5",
       "summary": "Soho Jazz Festival Returns For It’s 40th Year clashmusic.com",
       "published_at": "2026-09-03T13:07:42Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
       "first_seen_at": "2026-09-03T16:26:49Z",
       "source": "Clash",
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "ac2027b5cbf70b5afe2f67a1",
@@ -881,7 +1021,7 @@
       "url": "https://www.eventindustrynews.com/spotlights/venue-spotlights/%f0%9f%8e%84-oxford-town-hall-exclusive-christmas-parties",
       "summary": "You Book. We Plan. You Celebrate. 🎄 ✨ Celebrate the Festive Season in One of Oxford’s Most Iconic Venues Looking for a Christmas party venue that will truly impress your guests? Welcome to Oxford Town Hall, where historic grandeur meets exceptional event planning to create unforgettable festive celebrations. Located in the heart of Oxford, this […] Source",
       "published_at": "2026-09-03T13:04:58Z",
-      "fetched_at": "2026-09-03T15:29:00Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
       "first_seen_at": "2026-09-03T13:27:15Z",
       "source": "Event Industry News",
       "category": "Концертная индустрия, туры и технический продакшн",
@@ -895,13 +1035,13 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HY1doOFN4NXlNV0JwQlVobjdZRWNCLURhMGVJSVRLQzVfdktDd191VmYxWjdzWE93cHZEN1VpU2NscExqMnZaZWxoMy1oV1NDRW1CbjlFeGRkTkxoWDY2UG5Wc3hBcnoyQjVnb0dpUlU?oc=5",
       "summary": "Live Report: Flow Festival 2026 clashmusic.com",
       "published_at": "2026-09-03T13:03:42Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
       "first_seen_at": "2026-09-03T16:26:49Z",
       "source": "Clash",
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "a29d12e9c7f6ebe409be16dd",
@@ -909,7 +1049,7 @@
       "url": "https://aquariumdrunkard.com/2026/09/03/bill-orcutt-four-louies-live/",
       "summary": "Orcutt’s deconstruction of “Louie Louie” is a mash-up of Steve Reich’s 1970 minimalist milestones “Four Organs” with the rock staple. It finds a seam between experimental, avant garde repetition and the dumb but beautiful way that garage rock can hammer on a riff forever. The piece first emerged as a studio album on Fake Estates in 2024. This live recording revisits the piece in all its organ-stabbing, maraca-shaking glory. The post Bill Orcutt :: Four Louies Live first appeared on Aquarium Drunkard .",
       "published_at": "2026-09-03T13:00:00Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
       "first_seen_at": "2026-09-03T13:27:15Z",
       "source": "Aquarium Drunkard",
       "category": "Музыка, критика и новая музыка",
@@ -951,7 +1091,7 @@
       "url": "https://stereogum.com/2510227/diiv-kid/music/",
       "summary": "One of the most potentially fascinating albums on the docket right now is ZIRP! , the new one that Brooklyn fuzz-guitar vets DIIV recorded with PC Music co-founder and Charli XCX collaborator A. G. Cook. At least in their press materials, DIIV are framing the record as part of a \"New Alternative\" movement that also includes acts like Slayyyter, Eartheater, and Turnstile. Sure! Why not! Let's make it happen! We already got one taste of how this version of DIIV might sound on lead single \" The Fountain .\" Today, we get a different take on it. The post DIIV – “Kid” appeared first on Stereogum .",
       "published_at": "2026-09-03T12:55:34Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
       "first_seen_at": "2026-09-03T13:27:15Z",
       "source": "Stereogum",
       "category": "Музыка, критика и новая музыка",
@@ -965,7 +1105,7 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5pQlRxQkl4cnFWbHB6c3NDWHh5a2FLTGRQd2tUWEl6bll2bVlGTDYzbmhjcXQ2am5jX2pVSW9rVkNXblptWTVGV080VXJSNHlGMU1XVzVjY0hMbS01VHdsLVFn?oc=5",
       "summary": "JO1が『東京リベンジャーズ』OP主題歌を先行配信へ、シングル『AAO』アニメ盤ジャケットを公開 Billboard JAPAN",
       "published_at": "2026-09-03T12:50:00Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
       "first_seen_at": "2026-09-03T13:27:15Z",
       "source": "Billboard Japan",
       "category": "Япония",
@@ -979,7 +1119,7 @@
       "url": "https://www.nme.com/news/music/david-byrne-has-written-a-song-using-only-elon-musk-quotes-for-scathing-new-documentary-3966804?utm_source=rss&utm_medium=rss&utm_campaign=david-byrne-has-written-a-song-using-only-elon-musk-quotes-for-scathing-new-documentary",
       "summary": "“All his own words. No editorialising. Straight from the man’s mouth to mine” The post David Byrne has written a song using only Elon Musk quotes for “scathing” new documentary appeared first on NME .",
       "published_at": "2026-09-03T12:44:28Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
       "first_seen_at": "2026-09-03T13:27:15Z",
       "source": "NME",
       "category": "Музыка, критика и новая музыка",
@@ -993,7 +1133,7 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NOGwzZmt0OHlVX0R5LWxpSkZtMG9qTXRnUHl2eFl0OWZJVEtpREtBSjFYYi1NTnZfdFNjdWw1bG5mTEQ4VXloNzEyVHY5YnQ0aC0tT2xkMklGZEdWSm1UQ0RlRDA?oc=5",
       "summary": "ILLIT、アニメ『魔法の姉妹ルルットリリィ』第2クールOP主題歌を担当 Billboard JAPAN",
       "published_at": "2026-09-03T12:40:00Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
       "first_seen_at": "2026-09-03T13:27:15Z",
       "source": "Billboard Japan",
       "category": "Япония",
@@ -1007,7 +1147,7 @@
       "url": "https://consequence.net/2026/09/diiv-new-single-kid-upcoming-album-zirp/",
       "summary": "Due October 30th, the album is produced by A. G. Cook. DIIV Share New Single “Kid” from Upcoming Album ZIRP!: Stream Karan Singh",
       "published_at": "2026-09-03T12:37:38Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
       "first_seen_at": "2026-09-03T13:27:15Z",
       "source": "Consequence",
       "category": "Музыка, критика и новая музыка",
@@ -1021,7 +1161,7 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE14ZnpYUUtLYndaZzZTc004ZV9MT0tVSVVRN1kxX1ZPMHllbEcyM3lNc2JpUk1ZNjJHNks5MlBmWEFPOHF3TXVBbUVGbnpFNG92X3pDREVMZmZnOWgtc3dhOENR?oc=5",
       "summary": "XG、“気負わずに自分らしさを貫く強さ”を「NO GOOD」パフォーマンス映像で体現 Billboard JAPAN",
       "published_at": "2026-09-03T12:35:00Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
       "first_seen_at": "2026-09-03T13:27:15Z",
       "source": "Billboard Japan",
       "category": "Япония",
@@ -1063,7 +1203,7 @@
       "url": "https://www.prosoundweb.com/radial-engineering-asimetrik-expand-distribution-partnership-to-include-turkey/?utm_source=rss&utm_medium=rss&utm_campaign=radial-engineering-asimetrik-expand-distribution-partnership-to-include-turkey",
       "summary": "Leveraging Asimetrik’s well-established sales, technical, and customer support capabilities, the partnership will broaden access to the Radial product line in the country. The post Radial Engineering & Asimetrik Expand Distribution Partnership To Include Turkey appeared first on ProSoundWeb .",
       "published_at": "2026-09-03T12:31:02Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
       "first_seen_at": "2026-09-03T12:32:28Z",
       "source": "ProSoundWeb",
       "category": "Концертная индустрия, туры и технический продакшн",
@@ -1083,7 +1223,7 @@
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "06ef3a7e0add73689ccc646a",
@@ -1133,13 +1273,13 @@
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hRnZHeURUQVZ6NVl6MGRrUU1iUEFvRlpGaS1CZFJNTENUUlkwRTh6YVlpeElnWHhqN18zZDVUS3l4NG4tejdpZENZQlhwRXgyOEVlVWhUU3JTYjA?oc=5",
       "summary": "東海東京フィナンシャル・グループ presents 葉加瀬太郎 コンサートツアー 2026 〜30th Anniversary〜 THIS IS THIRTY j-wave.co.jp",
       "published_at": "2026-09-03T11:56:12Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
       "first_seen_at": "2026-09-03T16:26:49Z",
       "source": "J-WAVE",
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "fb1c70517a9467c6f2dffad6",
@@ -1147,7 +1287,7 @@
       "url": "https://www.nme.com/news/music/fat-dog-share-single-call-it-what-you-want-announce-debut-australian-tour-3966785?utm_source=rss&utm_medium=rss&utm_campaign=fat-dog-share-single-call-it-what-you-want-announce-debut-australian-tour",
       "summary": "The new single is the latest taster of their upcoming sophomore album ‘Cancel Me (I’m Tired)’ The post Fat Dog share punk-tinged new single ‘Call It What You Want’ as they announce debut Australian tour and more UK out-store shows appeared first on NME .",
       "published_at": "2026-09-03T11:49:58Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
       "first_seen_at": "2026-09-03T12:32:28Z",
       "source": "NME",
       "category": "Музыка, критика и новая музыка",
@@ -1175,13 +1315,13 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BYUR2OWpKZUpCQlZqQXZjWW5hVHZpN2h6YkVNRjRlRS0waDdFU3Fnalg1MGF3RDdOckMtVkFhczlIWHJvME1JRmpuNXpFUHc?oc=5",
       "summary": "JO1、11thシングルアニメ盤ジャケット公開 アニメ『東京リベンジャーズ』主題歌 オリコンニュース",
       "published_at": "2026-09-03T11:43:00Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
       "first_seen_at": "2026-09-03T16:26:49Z",
       "source": "Oricon",
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "f68b05f32687418fddd48e71",
@@ -1189,7 +1329,7 @@
       "url": "https://musictech.com/features/i-tried-reason-rack-free-daw/",
       "summary": "Reason removes the barriers to its interconnected approach to sound design with Reason Free, a zero-cost collection of 15 devices to use in any DAW The post I got hands-on with Reason Free and its remarkably addictive modular patching environment appeared first on MusicTech .",
       "published_at": "2026-09-03T11:42:30Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
       "first_seen_at": "2026-09-03T12:32:28Z",
       "source": "MusicTech",
       "category": "Продакшн, звукозапись и технологии",
@@ -1231,7 +1371,7 @@
       "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE9PTlN5bDFFekhaY1dXT1VJOGV6dWJ5VUhxS0tvb0hDOUhSYk4xNVVmTUZoMDBQY2pBSDk3cg?oc=5",
       "summary": "Ghostly International releases playlist of tracks featured on Adult Swim · News ⟋ RA Resident Advisor",
       "published_at": "2026-09-03T11:38:21Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
+      "fetched_at": "2026-09-03T17:25:17Z",
       "first_seen_at": "2026-09-03T13:27:15Z",
       "source": "Resident Advisor",
       "category": "Музыка, критика и новая музыка",
@@ -1265,286 +1405,6 @@
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": false
-    },
-    {
-      "id": "2a9faae773ae5f1d18e88ae8",
-      "title": "The Destination Venue Effect – Allianz Stadium Showcase",
-      "url": "https://www.eventindustrynews.com/news/conference-news/the-destination-venue-effect-allianz-stadium-showcase",
-      "summary": "Following the success of our 2025 showcase, Event Industry News is returning to Allianz Stadium on Thursday 15 October for another exclusive event created specifically for corporate event buyers. This free-to-attend showcase is an opportunity to experience one of the UK’s most iconic sporting venues from a completely different perspective – and discover what makes […] Source",
-      "published_at": "2026-09-03T11:25:07Z",
-      "fetched_at": "2026-09-03T15:29:00Z",
-      "first_seen_at": "2026-09-03T12:32:28Z",
-      "source": "Event Industry News",
-      "category": "Концертная индустрия, туры и технический продакшн",
-      "language": "en",
-      "region": "Global",
-      "is_new": false
-    },
-    {
-      "id": "e2222fc4c05cbef3c7d0f260",
-      "title": "Kelly Clarkson covers ‘KPop Demon Hunters’ ‘Golden’ for final episode of talk show",
-      "url": "https://www.nme.com/news/tv/kelly-clarkson-covers-kpop-demon-hunters-golden-for-final-episode-of-talk-show-3966767?utm_source=rss&utm_medium=rss&utm_campaign=kelly-clarkson-covers-kpop-demon-hunters-golden-for-final-episode-of-talk-show",
-      "summary": "The hit was the most-requested song for her 'Kellyoke' segment The post Kelly Clarkson covers ‘KPop Demon Hunters’ ‘Golden’ for final episode of talk show appeared first on NME .",
-      "published_at": "2026-09-03T11:18:36Z",
-      "fetched_at": "2026-09-03T14:28:01Z",
-      "first_seen_at": "2026-09-03T11:24:20Z",
-      "source": "NME",
-      "category": "Музыка, критика и новая музыка",
-      "language": "en",
-      "region": "Global",
-      "is_new": false
-    },
-    {
-      "id": "e6bfa52957d64c0acde88149",
-      "title": "How to Live Simply - Twist - Watch the full show - Arte.tv",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBTOUlPLWdZRHNCZmg0dlFCQm81eXFfWWpablEzNFozTURaOWgyNEpxS0kyWVF0Q2doZVRhY0QybFJEQUxRWk91QW1YZ2dXcDA2UmJ5V05QRlo2clBrTEE?oc=5",
-      "summary": "How to Live Simply - Twist - Watch the full show Arte.tv",
-      "published_at": "2026-09-03T11:12:36Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
-      "first_seen_at": "2026-09-03T13:27:15Z",
-      "source": "ARTE Concert",
-      "category": "Живые выступления и видеосессии",
-      "language": "en",
-      "region": "Global",
-      "is_new": false
-    },
-    {
-      "id": "652575205a4dda1863f414ae",
-      "title": "Watch Josh Homme, Chad Smith and Andrew Watt cover David Bowie, INXS, Tom Petty and more at Golf Jam charity event",
-      "url": "https://www.nme.com/news/music/watch-josh-homme-chad-smith-andrew-watt-cover-david-bowie-tom-petty-charity-event-3966768?utm_source=rss&utm_medium=rss&utm_campaign=watch-josh-homme-chad-smith-andrew-watt-cover-david-bowie-tom-petty-charity-event",
-      "summary": "Other names in attendance included Will Ferrell, Joel Madden, Breckin Meyer, Josh Klinghoffer and more The post Watch Josh Homme, Chad Smith and Andrew Watt cover David Bowie, INXS, Tom Petty and more at Golf Jam charity event appeared first on NME .",
-      "published_at": "2026-09-03T11:03:26Z",
-      "fetched_at": "2026-09-03T13:27:15Z",
-      "first_seen_at": "2026-09-03T11:24:20Z",
-      "source": "NME",
-      "category": "Музыка, критика и новая музыка",
-      "language": "en",
-      "region": "Global",
-      "is_new": false
-    },
-    {
-      "id": "baed42e9b4fae9c49ad80405",
-      "title": "大森靖子×Have a Nice Day!のツーマンライブ『PINK OR BLUE』開催が決定 新宿ロフトの50周年記念イベントとして - エンタメ特化型情報メディア スパイス",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RY3NGSmpjSEtBTE1jWmV0TXVOTUktSnBkLWN1ckFCSUk4emp6SzEtRThYcWZZVFdWb2RFNXpQQmNkZG43czF1eEl3MWFNajjSAVRBVV95cUxPN0JJZXRJWDVaUi0yb0hCODUtTWQ4TDhfTDB0V01BelhjRG9rV3Zuc2ZyU0VGbk80OURtajBVLUs0b0YzMFZqT0o0cU9ad3dWU2p6bVE?oc=5",
-      "summary": "大森靖子×Have a Nice Day!のツーマンライブ『PINK OR BLUE』開催が決定 新宿ロフトの50周年記念イベントとして エンタメ特化型情報メディア スパイス",
-      "published_at": "2026-09-03T11:02:17Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
-      "first_seen_at": "2026-09-03T11:24:20Z",
-      "source": "eplus SPICE",
-      "category": "Япония",
-      "language": "ja",
-      "region": "Japan",
-      "is_new": false
-    },
-    {
-      "id": "e9d315391475bd37b100ea0f",
-      "title": "Aonowa “今”のAonowaが鳴らせる音楽を大切に紡いだEP『愛作のカケラ』の配信リリースが決定 - エンタメ特化型情報メディア スパイス",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9wcmdRVmtuUk55bnBQQTJOdTVubjdUUm1rMjJZaHBiNkYzeGMxQXNhUkg5Tk0zaV9hamU0VV9QTDlOUEtNUGl2T3kxVnVQbmvSAVRBVV95cUxPMi1iaFFpTE5JUEpHUGNOdDQ0Q1hXZkpKeHlRTXVFWWRONTRsd0FJb2p2UlRQS2JKbm0yRHJzOEdZcU43NlhHQlZWakhlcUNlbjRncHU?oc=5",
-      "summary": "Aonowa “今”のAonowaが鳴らせる音楽を大切に紡いだEP『愛作のカケラ』の配信リリースが決定 エンタメ特化型情報メディア スパイス",
-      "published_at": "2026-09-03T11:02:15Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
-      "first_seen_at": "2026-09-03T11:24:20Z",
-      "source": "eplus SPICE",
-      "category": "Япония",
-      "language": "ja",
-      "region": "Japan",
-      "is_new": false
-    },
-    {
-      "id": "259adcc7ff2899b01481c5b7",
-      "title": "jizue、20周年記念の野外フェス『ones』タイムテーブル発表 - エンタメ特化型情報メディア スパイス",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpTDYwc2hLb2dHdUNuQTZaVTBlSnRQVV9kTkdVRmRxTmRIYkdNeWdvbXNJaC0zd1lZajBMZnlNWjBfQklFX2htQ2xGd21TRGPSAVRBVV95cUxORXlfMnA0SF9nTWdyV3JsM0hhNndGelhRUlFVTTRBdmVTTWw3dms2UFBFemhwNTB2WWtOWHVNV0pYZkphNDFLZ3FtZ2N4b09Zel9zSmw?oc=5",
-      "summary": "jizue、20周年記念の野外フェス『ones』タイムテーブル発表 エンタメ特化型情報メディア スパイス",
-      "published_at": "2026-09-03T11:02:13Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
-      "first_seen_at": "2026-09-03T11:24:20Z",
-      "source": "eplus SPICE",
-      "category": "Япония",
-      "language": "ja",
-      "region": "Japan",
-      "is_new": false
-    },
-    {
-      "id": "3fadab1d8c522352b952945e",
-      "title": "XGが夜のLAの住宅街でダンス、「NO GOOD」パフォーマンスビデオ公開（動画あり） - ナタリー",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5YdW01aUgwNjJfMkNiNTZZTllNZDQ5NlltZ2xoYU1EUjdzd0pXZ2xzZnF0ZWdnaldkLV96R0UxRTlSZHBnMk5nMXl5d1M?oc=5",
-      "summary": "XGが夜のLAの住宅街でダンス、「NO GOOD」パフォーマンスビデオ公開（動画あり） ナタリー",
-      "published_at": "2026-09-03T11:00:00Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
-      "first_seen_at": "2026-09-03T15:29:00Z",
-      "source": "Natalie Music",
-      "category": "Япония",
-      "language": "ja",
-      "region": "Japan",
-      "is_new": false
-    },
-    {
-      "id": "8ce9ba0295563aca1bf13b76",
-      "title": "フジ『STAR』10日出演アーティスト公開 Snow Man、モナキ、INI、King & Prince、ピコ太郎、中島健人が登場 - オリコンニュース",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9VRzhwVmgtXy1MNlNmcngyM2MtRTNJUzc4am9zMFRFTWlWeVRjR2htX2VhV0NiTTdsMXo4VGMwOUNYNnRVRGotdWZaQ3M4MUE?oc=5",
-      "summary": "フジ『STAR』10日出演アーティスト公開 Snow Man、モナキ、INI、King & Prince、ピコ太郎、中島健人が登場 オリコンニュース",
-      "published_at": "2026-09-03T11:00:00Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
-      "first_seen_at": "2026-09-03T11:24:20Z",
-      "source": "Oricon",
-      "category": "Япония",
-      "language": "ja",
-      "region": "Japan",
-      "is_new": false
-    },
-    {
-      "id": "fa3d9c4a29ed20c82f692452",
-      "title": "スーパー登山部、標高2,832mの白馬山荘で前人未到のツアーファイナル完遂、自身最大規模となる東名阪クアトロツアーの開催をサプライズ発表 - エンタメ特化型情報メディア スパイス",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DTWN5RjNBenhMYzhhZ2I5SmJiV2dybERhTllHWmx3YWtXRml1Z3lZeW9OemNwMHRZRE81cjVPNVBxMF9taWdoeEZrMkFxOTDSAVRBVV95cUxPOU40OU5hRWFRUE1iVWNoOGF4anNOeFI1Z2hac2ViWmgxa0d6NkJhU2cxZW5nTFEzOExoczA1dmxJZXJBVDdGaS02NkxkRlU3enJUd2U?oc=5",
-      "summary": "スーパー登山部、標高2,832mの白馬山荘で前人未到のツアーファイナル完遂、自身最大規模となる東名阪クアトロツアーの開催をサプライズ発表 エンタメ特化型情報メディア スパイス",
-      "published_at": "2026-09-03T11:00:00Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
-      "first_seen_at": "2026-09-03T11:24:20Z",
-      "source": "eplus SPICE",
-      "category": "Япония",
-      "language": "ja",
-      "region": "Japan",
-      "is_new": false
-    },
-    {
-      "id": "a4177a42f38763823db1e8ab",
-      "title": "Tyrkouaz、初の東名阪ワンマンツアー開催決定 - OTOTOY",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE83UlNoaXVrRTR6dXZOMW1yU3AycEEtRWFEdm9DM1NjTV9zRmpucURCcmxBemRoRU0wR1NMNF9lZ1VTMjg?oc=5",
-      "summary": "Tyrkouaz、初の東名阪ワンマンツアー開催決定 OTOTOY",
-      "published_at": "2026-09-03T11:00:00Z",
-      "fetched_at": "2026-09-03T15:29:00Z",
-      "first_seen_at": "2026-09-03T11:24:20Z",
-      "source": "OTOTOY",
-      "category": "Япония",
-      "language": "ja",
-      "region": "Japan",
-      "is_new": false
-    },
-    {
-      "id": "138f9a3eb71655fcd58b5502",
-      "title": "XG、「NO GOOD」パフォーマンスビデオ公開 “2 years later”の伏線回収となる内容に - オリコンニュース",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Bd1U4TWQwOTBIR1JTR1kweUlTYmFGTmJ2MVVxb1R0MDh5SHdTamJFR3FfNUFWOU5WQmU0ckhQSUFTeTJWb2NGZWdmSHRxaHM?oc=5",
-      "summary": "XG、「NO GOOD」パフォーマンスビデオ公開 “2 years later”の伏線回収となる内容に オリコンニュース",
-      "published_at": "2026-09-03T11:00:00Z",
-      "fetched_at": "2026-09-03T11:24:20Z",
-      "first_seen_at": "2026-09-03T11:24:20Z",
-      "source": "Oricon",
-      "category": "Япония",
-      "language": "ja",
-      "region": "Japan",
-      "is_new": false
-    },
-    {
-      "id": "27a93ea5b93fddc6017f1df6",
-      "title": "Fontaines D.C. announce massive summer 2027 UK outdoor and stadium shows with Little Simz and Viagra Boys",
-      "url": "https://www.nme.com/news/music/fontaines-dc-announce-2027-uk-outdoor-stadium-shows-little-simz-viagra-boys-3966752?utm_source=rss&utm_medium=rss&utm_campaign=fontaines-dc-announce-2027-uk-outdoor-stadium-shows-little-simz-viagra-boys",
-      "summary": "The new shows are announced following huge demand for tickets to their 2026 arena tour, and two nights at Slane Castle being announced The post Fontaines D.C. announce massive summer 2027 UK outdoor and stadium shows with Little Simz and Viagra Boys appeared first on NME .",
-      "published_at": "2026-09-03T10:59:39Z",
-      "fetched_at": "2026-09-03T12:32:28Z",
-      "first_seen_at": "2026-09-03T11:24:20Z",
-      "source": "NME",
-      "category": "Музыка, критика и новая музыка",
-      "language": "en",
-      "region": "Global",
-      "is_new": false
-    },
-    {
-      "id": "836e8785e629835c32b7553d",
-      "title": "Backed By More Than $100M Investment: DEAG Founder Peter Schwenkow's New European Live & Family Entertainment Group - Pollstar News",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSzJ3ODk1MW8tZm1hOGE4M0hjNTlsSzRqa19jRk1CWnNiem41RXVyTFdTd2xYcGNiTV90Y3R4bGNoTjNGTllGSF9lZDF5QzRvUVZtaVdvNlgtSVJnVlh0akdSdTd6enY5MThFX1RvQXhTSDQzSEEtci0tXzF1MjByeUF3cmpUQjdHZFZrR1MyaFZtbFZtbnNyZW80OUhBdDdPX2w1SVV4Mmdwc2JwOEFoc0FRZw?oc=5",
-      "summary": "Backed By More Than $100M Investment: DEAG Founder Peter Schwenkow's New European Live & Family Entertainment Group Pollstar News",
-      "published_at": "2026-09-03T10:58:58Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
-      "first_seen_at": "2026-09-03T12:32:28Z",
-      "source": "Pollstar",
-      "category": "Концертная индустрия, туры и технический продакшн",
-      "language": "en",
-      "region": "Global",
-      "is_new": false
-    },
-    {
-      "id": "3f6057d0ecaa96d68c8404c7",
-      "title": "The Avalanches、最新作の参加アーティストを公開。細野晴臣、池田亮司、JAMIE XXら参加|プレイリスト＆カルチャーメディア - DIGLE MAGAZINE",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1lYlF4WTNzRUtDT0l1cmpVc1ZlbGJERDhmRndmRXpMOU8wdWIzcW5ZbnJ2Tllwc0V0TjJwX3pPdGYzYXJvNnRxUm45Yw?oc=5",
-      "summary": "The Avalanches、最新作の参加アーティストを公開。細野晴臣、池田亮司、JAMIE XXら参加|プレイリスト＆カルチャーメディア DIGLE MAGAZINE",
-      "published_at": "2026-09-03T10:53:26Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
-      "first_seen_at": "2026-09-03T16:26:49Z",
-      "source": "DIGLE Magazine",
-      "category": "Япония",
-      "language": "ja",
-      "region": "Japan",
-      "is_new": true
-    },
-    {
-      "id": "232462eabc446ea7e10f1708",
-      "title": "YonYon自主企画＜Peace Tree Night＞が3年ぶり開催 韓国勢2組が初来日|プレイリスト＆カルチャーメディア - DIGLE MAGAZINE",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9GdXdqVmp0VGQ1Q1FyNG9vZ1V5cUZyS0RMMkxzQUR0XzdCV0psSHBhZ25MV3pIUWt3TXRmY3BQSk9pUjZ4QUprVXhKQQ?oc=5",
-      "summary": "YonYon自主企画＜Peace Tree Night＞が3年ぶり開催 韓国勢2組が初来日|プレイリスト＆カルチャーメディア DIGLE MAGAZINE",
-      "published_at": "2026-09-03T10:53:26Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
-      "first_seen_at": "2026-09-03T11:24:20Z",
-      "source": "DIGLE Magazine",
-      "category": "Япония",
-      "language": "ja",
-      "region": "Japan",
-      "is_new": false
-    },
-    {
-      "id": "b4e78e46a8bad2836301ce88",
-      "title": "細野晴臣、USツアー開幕前のプレリュード・ライヴ「Haruomi Hosono The Yours Sincerely Tour - Prelude」ライヴ・レポート到着。退院翌日に圧巻のパフォーマンス披露 - タワーレコード オンライン",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jWkhvOFNjMGZiXzExSk9CME5vRy00UFl5TUhLd3gwclZYYXg1U0VvVmdLeGRHaW5fZkdtN2Z2dlVYdmZISExNTmtvRGpGdGNXcGpmc1NEZkJwQQ?oc=5",
-      "summary": "細野晴臣、USツアー開幕前のプレリュード・ライヴ「Haruomi Hosono The Yours Sincerely Tour - Prelude」ライヴ・レポート到着。退院翌日に圧巻のパフォーマンス披露 タワーレコード オンライン",
-      "published_at": "2026-09-03T10:50:00Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
-      "first_seen_at": "2026-09-03T11:24:20Z",
-      "source": "Tower Records bounce",
-      "category": "Япония",
-      "language": "ja",
-      "region": "Japan",
-      "is_new": false
-    },
-    {
-      "id": "efb99d5a1e022b89de6a1f96",
-      "title": "[MPD직캠] 엔시티 127 직캠 8K 'Blingy' (NCT 127 FanCam) | @MCOUNTDOWN_2026.9.3 - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8ybkxQVU1BdzJNekRGMTI2c2RqYXR3Mm05YzJhRHN4d2NNZ3V1bldnaTdqN2J4QlFMdWkydS1naHd2MDdfLWdtVGFiSFFVc2t2QUFhMWpR?oc=5",
-      "summary": "[MPD직캠] 엔시티 127 직캠 8K 'Blingy' (NCT 127 FanCam) | @MCOUNTDOWN_2026.9.3 YouTube",
-      "published_at": "2026-09-03T10:36:27Z",
-      "fetched_at": "2026-09-03T11:24:20Z",
-      "first_seen_at": "2026-09-03T11:24:20Z",
-      "source": "MBCkpop",
-      "category": "Южная Корея",
-      "language": "ko",
-      "region": "South Korea",
-      "is_new": false
-    },
-    {
-      "id": "f16a22bd468fd2cbd9dac79c",
-      "title": "[MPD직캠] 엔시티 127 유타 직캠 4K 'Blingy' (NCT 127 YUTA FanCam) | @MCOUNTDOWN_2026.9.3 - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUbDc4ZE1qWlYtYlh5Zktrb3RNWl9EMWg1X3NCSWdsdWlwaVpfUTZQa3Z2VGtnbUtFOElIeXFyZ0k0NXFCTlZ5eUQyLURVZU1vbnM4bVlR?oc=5",
-      "summary": "[MPD직캠] 엔시티 127 유타 직캠 4K 'Blingy' (NCT 127 YUTA FanCam) | @MCOUNTDOWN_2026.9.3 YouTube",
-      "published_at": "2026-09-03T10:35:52Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
-      "first_seen_at": "2026-09-03T15:29:00Z",
-      "source": "MBCkpop",
-      "category": "Южная Корея",
-      "language": "ko",
-      "region": "South Korea",
-      "is_new": false
-    },
-    {
-      "id": "57794f9e3369f9b3aaa55e44",
-      "title": "A.B.C-Z、9月30日リリースの10thアルバム『The Way of L.O.V-E』収録曲公開 - タワーレコード オンライン",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2bXN1ck1vc3RwZnV4QmphcU9CTFZrNm5FZlZOZ0FvMkt4SXNROVVuRVE2WmF1cFNSZzVZaklXTW9KV1NMYWdMb2t0ZzF5WTl2Z1lYYnFTYUVRdw?oc=5",
-      "summary": "A.B.C-Z、9月30日リリースの10thアルバム『The Way of L.O.V-E』収録曲公開 タワーレコード オンライン",
-      "published_at": "2026-09-03T10:35:00Z",
-      "fetched_at": "2026-09-03T16:26:49Z",
-      "first_seen_at": "2026-09-03T11:24:20Z",
-      "source": "Tower Records bounce",
-      "category": "Япония",
-      "language": "ja",
-      "region": "Japan",
       "is_new": false
     }
   ]

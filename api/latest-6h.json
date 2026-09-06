@@ -1,24 +1,150 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-06T08:26:29Z",
+  "generated_at": "2026-09-06T09:24:49Z",
   "window_hours": 6,
   "source_count": 262,
-  "feeds_ok": 261,
-  "feeds_failed": 1,
-  "item_count": 34,
+  "feeds_ok": 259,
+  "feeds_failed": 3,
+  "item_count": 38,
   "items": [
+    {
+      "id": "490a94c3139313d3ba8974e1",
+      "title": "2027 1.11 mon., 1.12 tue., 1.13 wed. - BLUE NOTE TOKYO",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0tTU9HUFZfWFRmQXhxNnpXdVo2WGdCMVNNOERGQ0tEUGZaWG1jbnVaM1VpMVBBVVFiREhSeWZodmlfWWtWQkdKeVVEVmsxaUN1VUJzVE9POEpaNWZ0VzhN?oc=5",
+      "summary": "2027 1.11 mon., 1.12 tue., 1.13 wed. BLUE NOTE TOKYO",
+      "published_at": "2026-09-06T09:01:22Z",
+      "fetched_at": "2026-09-06T09:24:49Z",
+      "first_seen_at": "2026-09-06T09:24:49Z",
+      "source": "Blue Note Tokyo",
+      "category": "Япония",
+      "language": "ja",
+      "region": "Japan",
+      "is_new": false
+    },
+    {
+      "id": "69d2ee7a17afe0d765d30692",
+      "title": "Pulp give ‘Deep Fried in Kelvin’ live live debut and play other deep cuts and rarities for first time in 20-30+ years at last gig “for a while” at End Of The Road 2026",
+      "url": "https://www.nme.com/news/music/pulp-play-last-gig-for-a-while-at-end-of-the-road-2026-3967188?utm_source=rss&utm_medium=rss&utm_campaign=pulp-play-last-gig-for-a-while-at-end-of-the-road-2026",
+      "summary": "\"But not for ever\" The post Pulp give ‘Deep Fried in Kelvin’ live live debut and play other deep cuts and rarities for first time in 20-30+ years at last gig “for a while” at End Of The Road 2026 appeared first on NME .",
+      "published_at": "2026-09-06T09:00:15Z",
+      "fetched_at": "2026-09-06T09:24:49Z",
+      "first_seen_at": "2026-09-06T09:24:49Z",
+      "source": "NME",
+      "category": "Музыка, критика и новая музыка",
+      "language": "en",
+      "region": "Global",
+      "is_new": true
+    },
+    {
+      "id": "a29d03c53598ceed9e2ac2dd",
+      "title": "そらる＆まふまふが神戸で刻んだ“夏の思い出”、四季巡るAfter the Rain 10周年ツアー夏公演（ライブレポート） - ナタリー",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1FdVBLLXdYSkxTbERJd05WLTVNVFpaZUlWVWRqcEc5UE80QVRmb1lSa1NoTG92YW1OY2dtSTYzeGdBOUtMeGU4TTlKRnc?oc=5",
+      "summary": "そらる＆まふまふが神戸で刻んだ“夏の思い出”、四季巡るAfter the Rain 10周年ツアー夏公演（ライブレポート） ナタリー",
+      "published_at": "2026-09-06T09:00:00Z",
+      "fetched_at": "2026-09-06T09:24:49Z",
+      "first_seen_at": "2026-09-06T09:24:49Z",
+      "source": "Natalie Music",
+      "category": "Япония",
+      "language": "ja",
+      "region": "Japan",
+      "is_new": true
+    },
+    {
+      "id": "7288a90aa74595c536ad2aff",
+      "title": "『No No Girls』出身・ふみの、1stアルバム収録曲全11曲発表 リード曲「18」は作詞作曲担当 - オリコンニュース",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YR05HMU5XOC1zZFpJOHZ2Rk9OdFphcTJTdHNzRnlWYTlxM19VRGQ0cTl3aVZZZ1NIbXItWFpSSzlMMXVDaDFWakQtWEYzcGM?oc=5",
+      "summary": "『No No Girls』出身・ふみの、1stアルバム収録曲全11曲発表 リード曲「18」は作詞作曲担当 オリコンニュース",
+      "published_at": "2026-09-06T09:00:00Z",
+      "fetched_at": "2026-09-06T09:24:49Z",
+      "first_seen_at": "2026-09-06T09:24:49Z",
+      "source": "Oricon",
+      "category": "Япония",
+      "language": "ja",
+      "region": "Japan",
+      "is_new": true
+    },
+    {
+      "id": "097a4cabd8aa483cb7250030",
+      "title": "70's and 80's electronic music recommendations - Gearspace",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeDJUSEFhLXBQX2E2VGF5LW54UHBRVFRac29KZHdVc0dMSGYzSnc0anZLMWJOTXE5aXZobmM1VWJ6ZS1IVlBkZFYyWmNROFF2VThGMEpGbzRZQldha2RtT1hja1hyMU1acFQwR1JNekFGUVZNV3VrVTFOa0JiRXNmWXhXYVJlVm1oSTc0?oc=5",
+      "summary": "70's and 80's electronic music recommendations Gearspace",
+      "published_at": "2026-09-06T08:46:54Z",
+      "fetched_at": "2026-09-06T09:24:49Z",
+      "first_seen_at": "2026-09-06T09:24:49Z",
+      "source": "Gearspace",
+      "category": "Продакшн, звукозапись и технологии",
+      "language": "en",
+      "region": "Global",
+      "is_new": true
+    },
+    {
+      "id": "41d269404c6ec20622b54636",
+      "title": "Aile The Shota、MANATO、SOTAによるShowMinorSavageがSALUとともに新曲制作 - ナタリー",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5oVS1Ea2V2RFZGMklMV3VNblBzQU1RQXpMYk04WG9Da2RFLU1GN2VTaFctWHowODlwUXBQM0cyT2V5Nkp2Vi1FMEtOcVk?oc=5",
+      "summary": "Aile The Shota、MANATO、SOTAによるShowMinorSavageがSALUとともに新曲制作 ナタリー",
+      "published_at": "2026-09-06T08:43:00Z",
+      "fetched_at": "2026-09-06T09:24:49Z",
+      "first_seen_at": "2026-09-06T09:24:49Z",
+      "source": "Natalie Music",
+      "category": "Япония",
+      "language": "ja",
+      "region": "Japan",
+      "is_new": true
+    },
+    {
+      "id": "d14818dfd1d2a8517e0f2afd",
+      "title": "Someone talk me into (or out of) Beesneez - Gearspace",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPX1hjUnZuZTJNRS0zaFBfb0pYZWFaTTVaYmh1SlNPV1cyWVBOSW9vUVZ6VG53ajVCOFpOUzlxLVZOR1dNd2c2YU9hNFpFRXFUNFkyVVlWNVFMcmFRaFRzcDRHNWVCd2F3Vjd5eWJjazRFdGZ1azdQblBGUFN6d295OXNZLUQ?oc=5",
+      "summary": "Someone talk me into (or out of) Beesneez Gearspace",
+      "published_at": "2026-09-06T08:34:53Z",
+      "fetched_at": "2026-09-06T09:24:49Z",
+      "first_seen_at": "2026-09-06T09:24:49Z",
+      "source": "Gearspace",
+      "category": "Продакшн, звукозапись и технологии",
+      "language": "en",
+      "region": "Global",
+      "is_new": true
+    },
     {
       "id": "84a595acf97d953b019cf6d1",
       "title": "Watch Noel and Liam Gallagher make first public appearances together outside of Oasis reunion tour at Venice Film Festival",
       "url": "https://www.nme.com/news/music/watch-noel-and-liam-gallagher-make-first-public-appearances-together-outside-of-oasis-reunion-tour-3967179?utm_source=rss&utm_medium=rss&utm_campaign=watch-noel-and-liam-gallagher-make-first-public-appearances-together-outside-of-oasis-reunion-tour",
       "summary": "Their documentary, 'Oasis: Don’t Look Back In Anger', received an eight minute standing ovation at its premiere The post Watch Noel and Liam Gallagher make first public appearances together outside of Oasis reunion tour at Venice Film Festival appeared first on NME .",
       "published_at": "2026-09-06T08:05:05Z",
-      "fetched_at": "2026-09-06T08:26:29Z",
+      "fetched_at": "2026-09-06T09:24:49Z",
       "first_seen_at": "2026-09-06T08:26:29Z",
       "source": "NME",
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
+      "is_new": false
+    },
+    {
+      "id": "c55a4bfbd1a833952b00b9a3",
+      "title": "Marmite Synths? - Gearspace",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4tQmxvUkFPdzNxaU1ubTd5Q3RSSVpoTGtsNFdSOHRNempfOFlBMHR0THZhQkxhbUZubGZzUmwxQ1AyR2pMN19mNGx5QmZMWmtGTjNQcEtmNFc3WDJUaDFHcGJXbw?oc=5",
+      "summary": "Marmite Synths? Gearspace",
+      "published_at": "2026-09-06T07:46:20Z",
+      "fetched_at": "2026-09-06T09:24:49Z",
+      "first_seen_at": "2026-09-06T09:24:49Z",
+      "source": "Gearspace",
+      "category": "Продакшн, звукозапись и технологии",
+      "language": "en",
+      "region": "Global",
+      "is_new": true
+    },
+    {
+      "id": "ae617ae828dac83320b17c54",
+      "title": "女王様がデビュー30周年にロンドンから帰国？新作「SHIN女王様物語」でQUEENの名曲を日本語直訳（コメントあり） - ナタリー",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5JbnJvazZOcGlSUWpXMFU4dHVVbERFbzNDbVNtbTRRcGJMNE5sb0NEQUJUaU1FZEZDdVdXWXNWazBXVFFCcG1Vb1dYcTA?oc=5",
+      "summary": "女王様がデビュー30周年にロンドンから帰国？新作「SHIN女王様物語」でQUEENの名曲を日本語直訳（コメントあり） ナタリー",
+      "published_at": "2026-09-06T07:30:00Z",
+      "fetched_at": "2026-09-06T09:24:49Z",
+      "first_seen_at": "2026-09-06T09:24:49Z",
+      "source": "Natalie Music",
+      "category": "Япония",
+      "language": "ja",
+      "region": "Japan",
       "is_new": true
     },
     {
@@ -27,7 +153,7 @@
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IUml3aU5FRksxb1JlNEpnZEV5MjJIQkFLM0xZQnZaOG9jUy1xYjFxS01DX25vSGZtRlZZOHA4SmRmcmY3RFVSazM5eXNodXZPTFZSa0RHdDh6SWM?oc=5",
       "summary": "Tour Dates billboard-japan.com",
       "published_at": "2026-09-06T07:23:46Z",
-      "fetched_at": "2026-09-06T08:26:29Z",
+      "fetched_at": "2026-09-06T09:24:49Z",
       "first_seen_at": "2026-09-06T08:26:29Z",
       "source": "Billboard Japan",
       "category": "Япония",
@@ -41,7 +167,7 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83akdWSVNPVUltc2J5TUlmTkh5eDB5Y3V6NjhCYkM3WEQ3ZjAyam5WOVl1cVRPU0ZkSk5JM3lXS3ZUZ1ZHOEVScG5ONUlIVkXSAVRBVV95cUxNZmlWQjVmQ25aSjJwR3l2OGc2VFdobm8xbkJWWHVHdHlZR3JHUTNIYXQ4RS1uUFFxUUFfSmFrVkdfaF9DUkpxUU1hWGtmYlYzTDdkYXU?oc=5",
       "summary": "Galileo Galilei、全国ツアー『Rise of The Man』のキービジュアルを公開 ライブのキーワード「夜明け」をモチーフにデザイン エンタメ特化型情報メディア スパイス",
       "published_at": "2026-09-06T05:45:50Z",
-      "fetched_at": "2026-09-06T08:26:29Z",
+      "fetched_at": "2026-09-06T09:24:49Z",
       "first_seen_at": "2026-09-06T07:24:10Z",
       "source": "eplus SPICE",
       "category": "Япония",
@@ -55,7 +181,7 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1TT2lLT3N3MzRuMlJkWi1fUTVMVHh1WUltcjFsUFFuZmkwTDhCMkpDTVhRQ0haUHdjeUxaWFE5MUg2cmZyU1hwekFSeERiamM?oc=5",
       "summary": "「合成みたいな写真」東京03飯塚、大物歌手との4Sに反響続々「めちゃいい写真」「こういうプリクラあったな…」 オリコンニュース",
       "published_at": "2026-09-06T05:44:00Z",
-      "fetched_at": "2026-09-06T08:26:29Z",
+      "fetched_at": "2026-09-06T09:24:49Z",
       "first_seen_at": "2026-09-06T06:29:41Z",
       "source": "Oricon",
       "category": "Япония",
@@ -69,7 +195,7 @@
       "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE5qRXduQVBMRFBHV0M5SDJkdTNMalgtM21DdkJ5NkVfRGdyWUdWcFFQNzFEZlFsdHlfdU5ZTg?oc=5",
       "summary": "Mix Of The Day: SSIEGE · News ⟋ RA Resident Advisor",
       "published_at": "2026-09-06T05:04:53Z",
-      "fetched_at": "2026-09-06T08:26:29Z",
+      "fetched_at": "2026-09-06T09:24:49Z",
       "first_seen_at": "2026-09-06T05:23:49Z",
       "source": "Resident Advisor",
       "category": "Музыка, критика и новая музыка",
@@ -83,13 +209,27 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSUk9YRHpza2Z1V2F6WmczSXcwQzk2WHFwSmNyczRWa2RmN3dCdWNJVlE3SFgyemo0ZUNwWHZoMDlsNmlpTjNrRjZGc0VaX2w4b3hmdk82cE9lb29JZ05MNVlB?oc=5",
       "summary": "＜レポート＞CORTIS「幸せな時間だった」――初の日本単独公演で語った率直な想い billboard-japan.com",
       "published_at": "2026-09-06T05:00:00Z",
-      "fetched_at": "2026-09-06T08:26:29Z",
+      "fetched_at": "2026-09-06T09:24:49Z",
       "first_seen_at": "2026-09-06T08:26:29Z",
       "source": "Billboard Japan",
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
       "is_new": false
+    },
+    {
+      "id": "a9ed15b3d693bd9ccbdd654b",
+      "title": "TiDE、New EP『Dialogue』を10月28日にリリース|プレイリスト＆カルチャーメディア - DIGLE MAGAZINE",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9qTWtLeF9yMjVQTF9JODZDWE1MalRyc0lhb24xeVpJNU1tNUJTTjJaV1FGT2pfNlk5RmVkQlRjOWM0WEp2emhoU0J6Yw?oc=5",
+      "summary": "TiDE、New EP『Dialogue』を10月28日にリリース|プレイリスト＆カルチャーメディア DIGLE MAGAZINE",
+      "published_at": "2026-09-06T04:21:44Z",
+      "fetched_at": "2026-09-06T09:24:49Z",
+      "first_seen_at": "2026-09-06T09:24:49Z",
+      "source": "DIGLE Magazine",
+      "category": "Япония",
+      "language": "ja",
+      "region": "Japan",
+      "is_new": true
     },
     {
       "id": "65f41d926bd6ee2b92554866",
@@ -145,7 +285,7 @@
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "7ac8f500a1a46840ede70e86",
@@ -159,7 +299,7 @@
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "491cf1624f7b110e88358093",
@@ -173,7 +313,7 @@
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "fb9ce7764841666ab5ab7a20",
@@ -187,7 +327,7 @@
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "8d770bfe1499fea8b2b2e8cc",
@@ -201,7 +341,7 @@
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "5be3eff139ece117cd5e187b",
@@ -215,7 +355,7 @@
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "63bf51c1c9400672f4638db1",
@@ -229,7 +369,7 @@
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "63f89f4c95927c3f731d8cb1",
@@ -243,7 +383,7 @@
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "b253ed1624f0ad72c4495260",
@@ -391,97 +531,13 @@
       "url": "https://consequence.net/2026/09/jelly-roll-disinvited-mar-a-lago-police-fundraiser-trump/",
       "summary": "The country singer's invitation was withdrawn after he joked about Donald Trump while guest-hosting Jimmy Kimmel Live! Jelly Roll Disinvited from Mar-a-Lago Police Fundraiser Alex Young",
       "published_at": "2026-09-06T03:30:05Z",
-      "fetched_at": "2026-09-06T08:26:29Z",
+      "fetched_at": "2026-09-06T09:24:49Z",
       "first_seen_at": "2026-09-06T04:25:31Z",
       "source": "Consequence",
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
       "is_new": false
-    },
-    {
-      "id": "1c00423e08daed73c9c7e0bc",
-      "title": "TiDE バンド初のCD作品、新作EP『Dialogue』のリリースが決定 リリース記念イベントの開催も - エンタメ特化型情報メディア スパイス",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5aRjdHQ2FzOUxFUzNHUFk5VDAxUjZoSU9JZkR2dVB0NGhYeVg0NVlyX0RQQXBfN2d2YjdJdURoMGh2a3NvRHdFWHB5MEJOX1HSAVRBVV95cUxOT0JOcExNVGFULVVZZ1hFdGFZc0x5cG1yM0hrcU51bUJQd0Q5RFFfZUZiRTllcTQwZmdZTkVKaFFhOHdlNUE3UE4wSHVGQy1QUHpfZlI?oc=5",
-      "summary": "TiDE バンド初のCD作品、新作EP『Dialogue』のリリースが決定 リリース記念イベントの開催も エンタメ特化型情報メディア スパイス",
-      "published_at": "2026-09-06T03:00:35Z",
-      "fetched_at": "2026-09-06T08:26:29Z",
-      "first_seen_at": "2026-09-06T03:25:16Z",
-      "source": "eplus SPICE",
-      "category": "Япония",
-      "language": "ja",
-      "region": "Japan",
-      "is_new": false
-    },
-    {
-      "id": "1c825d566fc3bf78dff8b24d",
-      "title": "TiDE、新作EP『Dialogue』発表 「向き合い、対話すること」をテーマに掲げた新曲含む全6曲",
-      "url": "https://spincoaster.com/news/tide-new-ep-dialogue",
-      "summary": "TiDEが新作EP『Dialogue』を10月28日（水）にリリースすることが発表された。 ファンクやソウルなど、メンバーの多様な音楽的背景を融合させたジャンルレスなサウンドで早耳リスナーから注目を集",
-      "published_at": "2026-09-06T03:00:19Z",
-      "fetched_at": "2026-09-06T08:26:29Z",
-      "first_seen_at": "2026-09-06T03:25:16Z",
-      "source": "Spincoaster",
-      "category": "Япония",
-      "language": "ja",
-      "region": "Japan",
-      "is_new": false
-    },
-    {
-      "id": "d3b25a8c4706b95bb5db33b7",
-      "title": "高嶺のなでしこのアルバム収録曲発表、チコハニ「我武者羅」やHoneyWorksの最新曲をカバー（動画あり） - ナタリー",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE01ZXR1SWF0a3lkV3lGVjJUU3Z5cWgyZVhHM3gxaGRIb2NtTk9GUGR2TnQ5dkR5S0dvcTJUd2JFN1ZfSzN4THl6cFJ0Nk4?oc=5",
-      "summary": "高嶺のなでしこのアルバム収録曲発表、チコハニ「我武者羅」やHoneyWorksの最新曲をカバー（動画あり） ナタリー",
-      "published_at": "2026-09-06T03:00:00Z",
-      "fetched_at": "2026-09-06T08:26:29Z",
-      "first_seen_at": "2026-09-06T04:25:31Z",
-      "source": "Natalie Music",
-      "category": "Япония",
-      "language": "ja",
-      "region": "Japan",
-      "is_new": false
-    },
-    {
-      "id": "3d1b1657055f6be42ac5465c",
-      "title": "TiDE、New EP『Dialogue』10/28リリース決定 初のCD作品＆リリース記念イベントも開催 - OTOTOY",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9fX0FDNV9ILXNrZmVhOFU2MVVhZzZYeFVfdXBHSUJfRFdaeXU5Q1kzd0d3eG9hY2VGR3lvZU9SNnloM00?oc=5",
-      "summary": "TiDE、New EP『Dialogue』10/28リリース決定 初のCD作品＆リリース記念イベントも開催 OTOTOY",
-      "published_at": "2026-09-06T03:00:00Z",
-      "fetched_at": "2026-09-06T06:29:41Z",
-      "first_seen_at": "2026-09-06T03:25:16Z",
-      "source": "OTOTOY",
-      "category": "Япония",
-      "language": "ja",
-      "region": "Japan",
-      "is_new": false
-    },
-    {
-      "id": "cff1eb722fc779ba244f16a1",
-      "title": "礼賛、2年ぶり3枚目となるフルアルバム『ブルーロワイヤル』のリリースを発表 全国ワンマンツアー開催も決定 - エンタメ特化型情報メディア スパイス",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBNY1ZFSUhYOFdkT3Jmc2J1V2x5QkxuU3J5ckJ6RUpoMkZmV0FhQm1YUmVJZlU0Ykszb2xzWWVVWDZCOHJvZVkxaklrUEc0RlHSAVRBVV95cUxPQWFFQUVuUTVLb2pIUWpUVi15WGJjT0NiRUlrX19vMFBEQ0xvN3d0RFNKR2luWDhjcFpIUnJ2X2RnVFZGN3BDX290SWlnQmxZbG01UUM?oc=5",
-      "summary": "礼賛、2年ぶり3枚目となるフルアルバム『ブルーロワイヤル』のリリースを発表 全国ワンマンツアー開催も決定 エンタメ特化型情報メディア スパイス",
-      "published_at": "2026-09-06T02:50:27Z",
-      "fetched_at": "2026-09-06T08:26:29Z",
-      "first_seen_at": "2026-09-06T03:25:16Z",
-      "source": "eplus SPICE",
-      "category": "Япония",
-      "language": "ja",
-      "region": "Japan",
-      "is_new": false
-    },
-    {
-      "id": "0bd14105e181a10d9ee54d40",
-      "title": "Tokyo Tea Room - Feel Forever Tour at The Bowery Ballroom - Brooklyn Vegan NYC Shows",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWDgxT1R5QWtTanhZNURGa01OR0FjWU84WTdiWk9JQzB2amxveGpiVTA0ajFWWl9zQV9GTUNFeloyelE3OEtDNV9mYmVabGhtazZHb2JTQk45VWJjVkJTSGV1ODlXWGdFNFU0WVpDVmZKVExKanBxTlpqR2NhWWZwUk1IS21nQUxzeUFwUDN3Z2RuR09mQ0JMWExR?oc=5",
-      "summary": "Tokyo Tea Room - Feel Forever Tour at The Bowery Ballroom Brooklyn Vegan NYC Shows",
-      "published_at": "2026-09-06T02:27:29Z",
-      "fetched_at": "2026-09-06T08:26:29Z",
-      "first_seen_at": "2026-09-06T08:26:29Z",
-      "source": "BrooklynVegan",
-      "category": "Музыка, критика и новая музыка",
-      "language": "en",
-      "region": "Global",
-      "is_new": true
     }
   ]
 }

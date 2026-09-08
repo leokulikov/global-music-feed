@@ -1,34 +1,20 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-08T15:29:06Z",
+  "generated_at": "2026-09-08T16:29:57Z",
   "window_hours": 6,
   "source_count": 262,
-  "feeds_ok": 261,
-  "feeds_failed": 1,
-  "item_count": 183,
+  "feeds_ok": 259,
+  "feeds_failed": 3,
+  "item_count": 184,
   "items": [
     {
-      "id": "2a12fc8966e8541788070194",
-      "title": "Celemony announces Paul Kleber's Funky Upright Bass for Tonalic - Gearspace",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYUVxX3Q5Y0xrbmcwZjZFVmZOM2k5c0tMX1NiVGMxaDJWSmlpWVVrdzVxLTJfLUFySW5EdnFMaXlJU2dlb3M5bF82d05wblhrdF9FSHppMG5uSl9YS3doZ1VCcllDN1NHanBnRjZ5M1dYVnZ4RFNqcWV3TXlIYi1WYU1BbGZvNGZxQ1FlQzNZUlNSU3o5Sklla0VGSGpmeG1EQnk4?oc=5",
-      "summary": "Celemony announces Paul Kleber's Funky Upright Bass for Tonalic Gearspace",
-      "published_at": "2026-09-08T15:14:05Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
-      "first_seen_at": "2026-09-08T15:29:06Z",
-      "source": "Gearspace",
-      "category": "Продакшн, звукозапись и технологии",
-      "language": "en",
-      "region": "Global",
-      "is_new": true
-    },
-    {
-      "id": "f69edd750df011ef3928cd8a",
-      "title": "Stevie Wonder Announces Songs In The Key Of Life Tour, Readies Outtakes For New Album",
-      "url": "https://stereogum.com/2510671/stevie-wonder-announces-songs-in-the-key-of-life-tour-readies-outtakes-for-new-album/news/",
-      "summary": "If you have the chance to go see Stevie Wonder, you have to go see Stevie Wonder. One night in 2013, I had the privilege of attending the now-defunct Hangout festival on the beach in Gulf Shores, Alabama, with Wonder atop the bill. My knowledge of his catalog is not the deepest, but my greatest-hits-level fandom did not stop me from having one of the most joyous live music experiences of my life. The man simply summons magic every time he steps onstage. Soon, he'll be doing it on tour. The post Stevie Wonder Announces <em>Songs In The Key Of Life</em> Tour, Readies Outtakes For New Album appea",
-      "published_at": "2026-09-08T15:13:33Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
-      "first_seen_at": "2026-09-08T15:29:06Z",
+      "id": "6f0265f7a1097831ae9a874a",
+      "title": "Working Men’s Club – “Devout” (Prod. Atticus Ross)",
+      "url": "https://stereogum.com/2510686/working-mens-club-devout-prod-atticus-ross/music/",
+      "summary": "Manchester dance-rockers Working Men's Club released their most recent album Fear Fear in 2022, and we were into it . Since then, frontman Sydney Minsky Sargeant launched an acoustic-leaning solo career , and that was nice too. Now the band is back with a high-profile new single. The post Working Men’s Club – “Devout” (Prod. Atticus Ross) appeared first on Stereogum .",
+      "published_at": "2026-09-08T16:28:59Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
+      "first_seen_at": "2026-09-08T16:29:57Z",
       "source": "Stereogum",
       "category": "Музыка, критика и новая музыка",
       "language": "en",
@@ -36,18 +22,298 @@
       "is_new": true
     },
     {
-      "id": "013c3a29a0037791c96c7405",
-      "title": "Autechre announce support acts for upcoming tour · News ⟋ RA - Resident Advisor",
-      "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE9VWXQxTGF0a0hfMC1PUklCUUNoNjdEOVpFNXljOS1Gc05nNGFVYWpvOTRacXpUaXhNbk40dw?oc=5",
-      "summary": "Autechre announce support acts for upcoming tour · News ⟋ RA Resident Advisor",
-      "published_at": "2026-09-08T15:10:13Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
-      "first_seen_at": "2026-09-08T15:29:06Z",
+      "id": "9c1b8d9b7ec2ea0fcb52b4a5",
+      "title": "Wishy – “Mona Lisa”",
+      "url": "https://stereogum.com/2510701/wishy-mona-lisa/music/",
+      "summary": "The great Indianapolis indie poppers Wishy were a Stereogum Band To Watch back in 2023, and they've already made good on their potential a few times over. About a month from now, they'll release their new album Nature's Pill . This seems to be one of those situations where a huge chunk of the album will already be out in the world by the time the whole thing drops. Wishy already shared the early singles \" Lovesick ,\" \" All The Rage ,\" and \" Sensational ,\" and a new one drops today. The post Wishy – “Mona Lisa” appeared first on Stereogum .",
+      "published_at": "2026-09-08T16:26:40Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
+      "first_seen_at": "2026-09-08T16:29:57Z",
+      "source": "Stereogum",
+      "category": "Музыка, критика и новая музыка",
+      "language": "en",
+      "region": "Global",
+      "is_new": true
+    },
+    {
+      "id": "a8284fb6fac0afc8865ea306",
+      "title": "RobottWorks announces TrackStage 3.0 Workflow Platform - Gearspace",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc29jTlFPTkwzRzhfajUyXzJfdC12NHM5QUxzOEZsUmNpSFp1WW85Z3hhMEo0YUR2TWx3TE45bi1SMjdDYkhTeE91c3hpaEk1Skd2VWsxNnotSFZvVmotUlV4Y2s2YVlRdXoxUmxnNy1FM2JrNHlWZkIxdnJPUXZRb1lTMzZ6MFNWXy1fVzFXbTc2THUxT25vN0F1bXNJWmRCdzROOFV0WHM1Zw?oc=5",
+      "summary": "RobottWorks announces TrackStage 3.0 Workflow Platform Gearspace",
+      "published_at": "2026-09-08T16:16:18Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
+      "first_seen_at": "2026-09-08T16:29:57Z",
+      "source": "Gearspace",
+      "category": "Продакшн, звукозапись и технологии",
+      "language": "en",
+      "region": "Global",
+      "is_new": true
+    },
+    {
+      "id": "4e54603473917816830e4691",
+      "title": "Reliant Music partners with Warner Music Group’s ADA Benelux to scale its dance records globally",
+      "url": "https://www.musicbusinessworldwide.com/reliant-music-partners-with-warner-music-groups-ada-benelux-to-scale-its-dance-records-globally/",
+      "summary": "The tie-up pairs the Vancouver-headquartered company's A&R and artist development work with ADA's international distribution and label infrastructure. Source",
+      "published_at": "2026-09-08T16:16:08Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
+      "first_seen_at": "2026-09-08T16:29:57Z",
+      "source": "Music Business Worldwide",
+      "category": "Музыкальный бизнес, маркетинг и данные",
+      "language": "en",
+      "region": "Global",
+      "is_new": true
+    },
+    {
+      "id": "5717ae925ff318f7e84e575e",
+      "title": "Waves expands TRACT into complete PA measurement, system calibration and SPL monitoring suite - Gearspace",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOR2loVUtBX2EyZ1BzVGx1bnB3R1dmMmNFMDYycWlrdU1MRHVpcGxvRjlKczN6c0RweGllYVQ3WjZJTjFtTUxRbUdlWHNqYlpIa2xGV2l5MjRmOGYybm5ZQ09DLVhPRlQ5bDZTSzBHdmcyTDZZcFYxcnFjcURrMlNEZC1iT2hqdG03Mm81b3NDdVI4dGRQQlNjTGgtSzd6WXZqcjRYYWxaWjVfeEpxTDllQVBCNnM1bHUwMzY5X2U1eEFMWlRUZ3BjajE2SQ?oc=5",
+      "summary": "Waves expands TRACT into complete PA measurement, system calibration and SPL monitoring suite Gearspace",
+      "published_at": "2026-09-08T16:11:10Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
+      "first_seen_at": "2026-09-08T16:29:57Z",
+      "source": "Gearspace",
+      "category": "Продакшн, звукозапись и технологии",
+      "language": "en",
+      "region": "Global",
+      "is_new": true
+    },
+    {
+      "id": "71a5a11ab4ec1ccdb16c26f5",
+      "title": "Animal Collective Will Play Feels In Full At First Shows In Four Years",
+      "url": "https://stereogum.com/2510642/animal-collective-will-play-feels-in-full-at-first-shows-in-four-years/news/",
+      "summary": "The last time that all four Animal Collective members performed live together was almost exactly four years ago, when they were touring behind Time Skiffs . In the time since then, they've been busy, together and separately. AnCo released the album Isn't It Now? , the soundtrack to Elegance Bratton's drama The Inspection , and reissues of Sung Tongs and Feels . They contributed to John Cale's MERCY . Geologist released his first-ever solo album, Can I Get A Pack Of Camel Lights? , and LPs with D.S. and Motherfuckers JMB & Co. An album he and Kyle Simon created with light from the moon is also ",
+      "published_at": "2026-09-08T16:10:16Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
+      "first_seen_at": "2026-09-08T16:29:57Z",
+      "source": "Stereogum",
+      "category": "Музыка, критика и новая музыка",
+      "language": "en",
+      "region": "Global",
+      "is_new": true
+    },
+    {
+      "id": "032bb5c8271610e6d1a75dd5",
+      "title": "Planning For Burial & Psalm Share New Split Single",
+      "url": "https://stereogum.com/2510692/planning-for-burial-psalm-share-new-split-single/music/",
+      "summary": "The split single is not a lost art. We don't get as many great ones as we once did, but something beautiful comes along every once in a while. On the right occasion, two different but complementary acts will join forces on a split. They'll both take the assignment seriously, and they'll come out with something powerful that works as a kind of unified statement. That's what Planning For Burial and Psalm do on their new split, which is out today on Portrayal Of Guilt's label. The post Planning For Burial & Psalm Share New Split Single appeared first on Stereogum .",
+      "published_at": "2026-09-08T16:09:41Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
+      "first_seen_at": "2026-09-08T16:29:57Z",
+      "source": "Stereogum",
+      "category": "Музыка, критика и новая музыка",
+      "language": "en",
+      "region": "Global",
+      "is_new": true
+    },
+    {
+      "id": "d029465e1b9fd72507d03107",
+      "title": "PK Sound Appoints AF Live & Sonalyst As Rental Partners In The U.K.",
+      "url": "https://www.prosoundweb.com/pk-sound-appoints-af-live-sonalyst-as-rental-partners-in-the-u-k-2/?utm_source=rss&utm_medium=rss&utm_campaign=pk-sound-appoints-af-live-sonalyst-as-rental-partners-in-the-u-k-2",
+      "summary": "Both have invested in PK Sound robotic systems following a series of deployments across several events this summer. The post PK Sound Appoints AF Live & Sonalyst As Rental Partners In The U.K. appeared first on ProSoundWeb .",
+      "published_at": "2026-09-08T16:07:02Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
+      "first_seen_at": "2026-09-08T16:29:57Z",
+      "source": "ProSoundWeb",
+      "category": "Концертная индустрия, туры и технический продакшн",
+      "language": "en",
+      "region": "Global",
+      "is_new": true
+    },
+    {
+      "id": "77807495c295f934794b99c1",
+      "title": "K-Music Festival returns to London this autumn with eclectic 2026 line-up - Jazzwise",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYTl6bkhBSzVmUXNHNnJwTDNNSl9XSE9BTmh3NGRqd0F5dmtFb092bmdYMXB2eTBwSnpXeDJlN00xdk5CUUtLMzB3MVJfdzFqNnlyTUIxbzFZSk5HZmFOVWhlbXZIaU50SGpoOG5vWVJLNDJicHE1aG5qVGp3c1FNXzgxbEJyNHhYQWR2UFZnZktWUnBEU1JUTVJ2NDYyY0ZIbDBJTlVGWDYtRXNVZ2IyVw?oc=5",
+      "summary": "K-Music Festival returns to London this autumn with eclectic 2026 line-up Jazzwise",
+      "published_at": "2026-09-08T16:05:46Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
+      "first_seen_at": "2026-09-08T16:29:57Z",
+      "source": "Jazzwise",
+      "category": "Джаз",
+      "language": "en",
+      "region": "Global",
+      "is_new": true
+    },
+    {
+      "id": "34ce0d21395ae0b4acb58e08",
+      "title": "Ratboys Announce Deluxe Singin’ To An Empty Chair Feat. Covers By PUP, Wild Pink, & More",
+      "url": "https://stereogum.com/2510659/ratboys-announce-deluxe-singin-to-an-empty-chair-feat-covers-by-kevin-morby-pup-wild-pink-more/music/",
+      "summary": "Ratboys' Singin' To An Empty Chair is one of the very best albums of 2026 , and now they're making it bigger and better. Next week, the band will release a deluxe edition of the album featuring covers of Empty Chair tracks by PUP, Ducks Ltd., Wild Pink, Free Range, and Bad Bad Hats, plus Ratboys' own cover of the Marked Men's \"Fix My Brain\" from a SiriusXM session. The band's Julia Steiner explains the choice of cover: The post Ratboys Announce Deluxe <em>Singin’ To An Empty Chair</em> Feat. Covers By PUP, Wild Pink, & More appeared first on Stereogum .",
+      "published_at": "2026-09-08T16:03:47Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
+      "first_seen_at": "2026-09-08T16:29:57Z",
+      "source": "Stereogum",
+      "category": "Музыка, критика и новая музыка",
+      "language": "en",
+      "region": "Global",
+      "is_new": true
+    },
+    {
+      "id": "b26286f0535840e66c752975",
+      "title": "Spiritbox Unleash New Song “Mourning”: Stream",
+      "url": "https://consequence.net/2026/09/spiritbox-mourning/",
+      "summary": "Spiritbox's new single signals a new era for the band, embracing brighter aesthetics and a more rock-centered sound Spiritbox Unleash New Song “Mourning”: Stream Langdon Hickman",
+      "published_at": "2026-09-08T15:54:54Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
+      "first_seen_at": "2026-09-08T16:29:57Z",
+      "source": "Consequence",
+      "category": "Музыка, критика и новая музыка",
+      "language": "en",
+      "region": "Global",
+      "is_new": true
+    },
+    {
+      "id": "6434ae47264cc5016bbb7656",
+      "title": "Allen Stone Funks It Up at Sold-Out Live at Lagunitas Concert: Photos + Recap",
+      "url": "https://consequence.net/2026/09/allen-stone-live-at-lagunitas-concert-photos/",
+      "summary": "Having played shows with such legends as Stevie Wonder and Erykah Badu, Stone brought his can't-look-away stage presence to the Petaluma stage. Allen Stone Funks It Up at Sold-Out Live at Lagunitas Concert: Photos + Recap Jonah Krueger",
+      "published_at": "2026-09-08T15:52:53Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
+      "first_seen_at": "2026-09-08T16:29:57Z",
+      "source": "Consequence",
+      "category": "Музыка, критика и новая музыка",
+      "language": "en",
+      "region": "Global",
+      "is_new": true
+    },
+    {
+      "id": "91d5af0564b426a4f56c0b04",
+      "title": "Sports Team – “Billy”",
+      "url": "https://stereogum.com/2510684/sports-team-billy/music/",
+      "summary": "Here's a great way to start a song: \"Fuck you, Billy! Where is this going? You know, you're dad's in the bar, and he keeps calling for shots! Well, the lights in the bathroom, yeah, they're whiter than heaven! And your sister's boyfriends keeps looking at his — haw, ya know!\" That's how Sports Team start their new single \"Billy.\" They grab your attention right up top, and then they reward it. The post Sports Team – “Billy” appeared first on Stereogum .",
+      "published_at": "2026-09-08T15:49:13Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
+      "first_seen_at": "2026-09-08T16:29:57Z",
+      "source": "Stereogum",
+      "category": "Музыка, критика и новая музыка",
+      "language": "en",
+      "region": "Global",
+      "is_new": true
+    },
+    {
+      "id": "fccc27d3aa1050abf9ebc356",
+      "title": "FKA twigs announced as Saffron's first official patron · News ⟋ RA - Resident Advisor",
+      "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE5WRnFaazNsVzdlOUFuM3ZUWU0zODdNYzB4SlpKQlBLUWotUHBrTlJSM0pBbXVxaGNXWlZrXw?oc=5",
+      "summary": "FKA twigs announced as Saffron's first official patron · News ⟋ RA Resident Advisor",
+      "published_at": "2026-09-08T15:40:52Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
+      "first_seen_at": "2026-09-08T16:29:57Z",
       "source": "Resident Advisor",
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
       "is_new": true
+    },
+    {
+      "id": "4397a777ad5154052bebc3f6",
+      "title": "You next over-ear headphones? Sony launches a trio of models aimed at premium, mid-range and entry-level budgets",
+      "url": "https://musictech.com/news/gear/sony-wireless-headphones-wh-1000xm4c/",
+      "summary": "With three price points of £219, £100 and £50, these headphones offer both premium and affordable entry-points to Sony's sound quality. The post You next over-ear headphones? Sony launches a trio of models aimed at premium, mid-range and entry-level budgets appeared first on MusicTech .",
+      "published_at": "2026-09-08T15:36:21Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
+      "first_seen_at": "2026-09-08T16:29:57Z",
+      "source": "MusicTech",
+      "category": "Продакшн, звукозапись и технологии",
+      "language": "en",
+      "region": "Global",
+      "is_new": true
+    },
+    {
+      "id": "d833bf21e259f2d23fd37fb0",
+      "title": "14 Hospitalized During Chainsmokers Concert In San Jose - Pollstar News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ2ZXTDBrOW5nUVozUUNmZnlhc2tkMnp4R3BQN0NLSmcySHhRZEVWUUdIc1VoUDZ0SUdudEVZTm8wcnZpYWZzeEZqSkhKWkJhc29KU3lmNGs2Y3h2bThEeE5kQVZtcTNyMU1yY0dPOEFNNzVzdWxzaVhld2g3U0FSUlNZY1BYbnJFd2tuMjhQcWFPWFd1cmxKMQ?oc=5",
+      "summary": "14 Hospitalized During Chainsmokers Concert In San Jose Pollstar News",
+      "published_at": "2026-09-08T15:32:20Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
+      "first_seen_at": "2026-09-08T16:29:57Z",
+      "source": "Pollstar",
+      "category": "Концертная индустрия, туры и технический продакшн",
+      "language": "en",
+      "region": "Global",
+      "is_new": true
+    },
+    {
+      "id": "2ce9aa974d1d32aaf7764c25",
+      "title": "A-Designs Pacifica users: are you happy with the unit? - Gearspace",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNS1VOTG5BOUpKYmZXY181NTA1TXJoQi1yMXVCUXRmVXVXN1pYeVNtT2U2NW8wQUIwd21OQ2NBYWRwYXJIZE5ZZFNkS0VQTWc1bjdtY0hDdGZxeEg2ZTNwcXZSUmRsM0c4MjJhLVlsbVVBS2JXMmFJcFBIdFRCdW5pYXZISkUzdUZCc2U3TkpBdVpYXzBoRmc?oc=5",
+      "summary": "A-Designs Pacifica users: are you happy with the unit? Gearspace",
+      "published_at": "2026-09-08T15:32:09Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
+      "first_seen_at": "2026-09-08T16:29:57Z",
+      "source": "Gearspace",
+      "category": "Продакшн, звукозапись и технологии",
+      "language": "en",
+      "region": "Global",
+      "is_new": true
+    },
+    {
+      "id": "b0facaa0235d8d05ee6187fe",
+      "title": "A Glorious Resurgence: The Neighbourhood Return With Massive Global Arena Tour - Pollstar News",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOS0x1MDdQTzZIOGhwZmRGeVlYUHBLbmtkMXZDZEluYmZrb1R0ajl1MFpodmZWSW5USHZ0NHhZdWtMMmhLanAwVFN1SW1VRGVDWUd1VlZ6MXpMN3JlUU5yZzZYSV9pWmtKaHVMSzZtQVJGOTdTUElWdEFNd1pJa1hDZGFtUDc4UHFNd05VTjZ0MGlNWjFGNHRqUVJJT0J2cmljaVROZy1GNWpuZGlZSUhZRkR6UXliM3lUbmlzeVc3OUhzem1vWTlRNmVwaExIaGEyZm8xSEczdnhkU2MzWDF6b3RCYlhSZWg0MWt0eDBrOUpUS0tZ?oc=5",
+      "summary": "A Glorious Resurgence: The Neighbourhood Return With Massive Global Arena Tour Pollstar News",
+      "published_at": "2026-09-08T15:25:00Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
+      "first_seen_at": "2026-09-08T16:29:57Z",
+      "source": "Pollstar",
+      "category": "Концертная индустрия, туры и технический продакшн",
+      "language": "en",
+      "region": "Global",
+      "is_new": true
+    },
+    {
+      "id": "08f88cf4e8950319da8febb1",
+      "title": "M(h)aol – “Scam Manifesto”",
+      "url": "https://stereogum.com/2510677/mhaol-scam-manifesto/music/",
+      "summary": "Irish post-punkers M(h)aol signed to Merge and released their album Something Soft last year. Since then, they've lost a member and become a trio, and now they've shared the jittery, deadpan new one-off single \"Scam Manifesto.\" (Anyone who saw I Shot Andy Warhol will be able to appreciate the wordplay of that title.) It's about the way you can feel about yourself after too much time on the internet: \"I said that I’m worth more, but I’m a liar/ I see my limbs and all I want to do is set my house on fire.\" Former member Sarah Deegan, now of Pixie Cut Rhythm Orchestra, joins in on backup vocals. ",
+      "published_at": "2026-09-08T15:23:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
+      "first_seen_at": "2026-09-08T16:29:57Z",
+      "source": "Stereogum",
+      "category": "Музыка, критика и новая музыка",
+      "language": "en",
+      "region": "Global",
+      "is_new": true
+    },
+    {
+      "id": "2a12fc8966e8541788070194",
+      "title": "Celemony announces Paul Kleber's Funky Upright Bass for Tonalic - Gearspace",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYUVxX3Q5Y0xrbmcwZjZFVmZOM2k5c0tMX1NiVGMxaDJWSmlpWVVrdzVxLTJfLUFySW5EdnFMaXlJU2dlb3M5bF82d05wblhrdF9FSHppMG5uSl9YS3doZ1VCcllDN1NHanBnRjZ5M1dYVnZ4RFNqcWV3TXlIYi1WYU1BbGZvNGZxQ1FlQzNZUlNSU3o5Sklla0VGSGpmeG1EQnk4?oc=5",
+      "summary": "Celemony announces Paul Kleber's Funky Upright Bass for Tonalic Gearspace",
+      "published_at": "2026-09-08T15:14:05Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
+      "first_seen_at": "2026-09-08T15:29:06Z",
+      "source": "Gearspace",
+      "category": "Продакшн, звукозапись и технологии",
+      "language": "en",
+      "region": "Global",
+      "is_new": false
+    },
+    {
+      "id": "f69edd750df011ef3928cd8a",
+      "title": "Stevie Wonder Announces Songs In The Key Of Life Tour, Readies Outtakes For New Album",
+      "url": "https://stereogum.com/2510671/stevie-wonder-announces-songs-in-the-key-of-life-tour-readies-outtakes-for-new-album/news/",
+      "summary": "If you have the chance to go see Stevie Wonder, you have to go see Stevie Wonder. One night in 2013, I had the privilege of attending the now-defunct Hangout festival on the beach in Gulf Shores, Alabama, with Wonder atop the bill. My knowledge of his catalog is not the deepest, but my greatest-hits-level fandom did not stop me from having one of the most joyous live music experiences of my life. The man simply summons magic every time he steps onstage. Soon, he'll be doing it on tour. The post Stevie Wonder Announces <em>Songs In The Key Of Life</em> Tour, Readies Outtakes For New Album appea",
+      "published_at": "2026-09-08T15:13:33Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
+      "first_seen_at": "2026-09-08T15:29:06Z",
+      "source": "Stereogum",
+      "category": "Музыка, критика и новая музыка",
+      "language": "en",
+      "region": "Global",
+      "is_new": false
+    },
+    {
+      "id": "013c3a29a0037791c96c7405",
+      "title": "Autechre announce support acts for upcoming tour · News ⟋ RA - Resident Advisor",
+      "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE9VWXQxTGF0a0hfMC1PUklCUUNoNjdEOVpFNXljOS1Gc05nNGFVYWpvOTRacXpUaXhNbk40dw?oc=5",
+      "summary": "Autechre announce support acts for upcoming tour · News ⟋ RA Resident Advisor",
+      "published_at": "2026-09-08T15:10:13Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
+      "first_seen_at": "2026-09-08T15:29:06Z",
+      "source": "Resident Advisor",
+      "category": "Музыка, критика и новая музыка",
+      "language": "en",
+      "region": "Global",
+      "is_new": false
     },
     {
       "id": "994e7c350089c8f7a8f2d2be",
@@ -61,7 +327,21 @@
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "id": "206aaf3df27428576563be9f",
+      "title": "フレンドコード(ZAZEN Remix) - ototoy.jp",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9xNjBwTlZNenFHVFZ1Ny1raXFVUnBxOWxwTzhHRkkxdjZBbXNnTE5pdlRRcWQ0VmVBS2w1LUVCSWsxekhFSmIwS3dtdTdidw?oc=5",
+      "summary": "フレンドコード(ZAZEN Remix) ototoy.jp",
+      "published_at": "2026-09-08T15:06:38Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
+      "first_seen_at": "2026-09-08T16:29:57Z",
+      "source": "OTOTOY",
+      "category": "Япония",
+      "language": "ja",
+      "region": "Japan",
+      "is_new": false
     },
     {
       "id": "46aca2df5ac844264a0dc3ed",
@@ -75,7 +355,7 @@
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "1cc3275eecdb8f8cc2b205e7",
@@ -89,21 +369,7 @@
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
-    },
-    {
-      "id": "fd78fcb95b1e7c0f8aa90ba9",
-      "title": "フレンドコード(ZAZEN Remix) - OTOTOY",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9xNjBwTlZNenFHVFZ1Ny1raXFVUnBxOWxwTzhHRkkxdjZBbXNnTE5pdlRRcWQ0VmVBS2w1LUVCSWsxekhFSmIwS3dtdTdidw?oc=5",
-      "summary": "フレンドコード(ZAZEN Remix) OTOTOY",
-      "published_at": "2026-09-08T15:06:38Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
-      "first_seen_at": "2026-09-08T15:29:06Z",
-      "source": "OTOTOY",
-      "category": "Япония",
-      "language": "ja",
-      "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "5ab6ad3707347042d0cf9834",
@@ -117,7 +383,7 @@
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "2e857acbe2776d1759eed509",
@@ -131,7 +397,7 @@
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "f4d6e54fd2b397794001a821",
@@ -145,7 +411,7 @@
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "0bfd971410c2d351a7af9a13",
@@ -159,7 +425,7 @@
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "f130badf031b56bc174e7716",
@@ -173,7 +439,7 @@
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "1d06ff05c3f20b6d56392cd8",
@@ -187,7 +453,7 @@
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "b4f0d80f6b2dfa962ca2fd3f",
@@ -201,7 +467,7 @@
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "6b319945bdac46e3b0c3ee0e",
@@ -215,7 +481,7 @@
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "be7649880b728f1000599624",
@@ -229,7 +495,7 @@
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "6402f80a525d5e16660bd5c0",
@@ -243,7 +509,7 @@
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3c2ccbe51b776512cb4a927f",
@@ -257,7 +523,7 @@
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "800ee6575e85cdb517c1a29c",
@@ -271,7 +537,7 @@
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "9bea2e87f6fb2028f02a56f1",
@@ -285,7 +551,7 @@
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3b81a7b3cfa557f73c5cfb87",
@@ -299,7 +565,7 @@
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "68ce62ee9eb6d2756dab6dc0",
@@ -313,7 +579,7 @@
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3b423b55e6ef395db743df30",
@@ -327,7 +593,7 @@
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "a46a3a46066b398ed987e409",
@@ -341,7 +607,21 @@
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "id": "1a318f812543618bd0a891bb",
+      "title": "あいみょん / AIMYON B-SIDE COLLECTION ALBUM - ototoy.jp",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE95VjZtQTg3N3NfYXNKVGFNQjYxMnBRZ3Uwc3BhaEUwLU5GRnBpSHMxMVprSVJfaWdIeHpreXpYamYtR2JmbTV4dVd3UXA1Zw?oc=5",
+      "summary": "あいみょん / AIMYON B-SIDE COLLECTION ALBUM ototoy.jp",
+      "published_at": "2026-09-08T15:06:07Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
+      "first_seen_at": "2026-09-08T16:29:57Z",
+      "source": "OTOTOY",
+      "category": "Япония",
+      "language": "ja",
+      "region": "Japan",
+      "is_new": false
     },
     {
       "id": "80c56b5a4befabe99a866347",
@@ -355,21 +635,7 @@
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
-    },
-    {
-      "id": "90359fb0a5a1ede408c86847",
-      "title": "あいみょん / AIMYON B-SIDE COLLECTION ALBUM - OTOTOY",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE95VjZtQTg3N3NfYXNKVGFNQjYxMnBRZ3Uwc3BhaEUwLU5GRnBpSHMxMVprSVJfaWdIeHpreXpYamYtR2JmbTV4dVd3UXA1Zw?oc=5",
-      "summary": "あいみょん / AIMYON B-SIDE COLLECTION ALBUM OTOTOY",
-      "published_at": "2026-09-08T15:06:07Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
-      "first_seen_at": "2026-09-08T15:29:06Z",
-      "source": "OTOTOY",
-      "category": "Япония",
-      "language": "ja",
-      "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "48fe0cedb9ec3451fc5adf0b",
@@ -383,7 +649,7 @@
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3bca957e24af390b5b95e5e2",
@@ -397,7 +663,7 @@
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "b88579beb03e6d00d537af6a",
@@ -411,7 +677,7 @@
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "8d0328548d25a5cadd7b0cfe",
@@ -425,7 +691,7 @@
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "711093a3179db306aca3c473",
@@ -439,7 +705,7 @@
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "982235b1c587ac4130158868",
@@ -453,7 +719,7 @@
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "57deccc44cc96151a852add8",
@@ -467,7 +733,7 @@
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "f83a2c5c1951dd816bbbb0da",
@@ -481,7 +747,7 @@
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "665d598e5294d0403f21d10e",
@@ -495,7 +761,7 @@
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "ed9dc0f1125597cf32118218",
@@ -509,7 +775,7 @@
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "bdc5f006ca80f013852c4d50",
@@ -523,21 +789,21 @@
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
-      "id": "ad1793cc51819c85f5ac4303",
-      "title": "SAFUJI / サフジにラブ・ソングを… - OTOTOY",
+      "id": "3a3b14a379ba95ccfb953bcb",
+      "title": "SAFUJI / サフジにラブ・ソングを… - ototoy.jp",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBYcEptSFpweVlNVTNCSHVEazdrbEVncnl2Y3FxZV85TVVTOTZfWXE2YXJVY3JWdFY2OVBORVNzY21LdmRNbzFjbG83X3N2Zw?oc=5",
-      "summary": "SAFUJI / サフジにラブ・ソングを… OTOTOY",
+      "summary": "SAFUJI / サフジにラブ・ソングを… ototoy.jp",
       "published_at": "2026-09-08T15:05:49Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
-      "first_seen_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
+      "first_seen_at": "2026-09-08T16:29:57Z",
       "source": "OTOTOY",
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "cce72929a12aba63f018271f",
@@ -551,7 +817,7 @@
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "7a385071fa0fbe42639faa28",
@@ -565,7 +831,7 @@
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "9a78a37fe952590da652c8f5",
@@ -579,7 +845,7 @@
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3478a1753b2d20c020e01eca",
@@ -593,7 +859,7 @@
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3b263a0a1adb46f2f6fe35f8",
@@ -607,7 +873,7 @@
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "a5cc74abf605712f936aa40a",
@@ -621,7 +887,7 @@
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "4900dfdbce237515616e119f",
@@ -635,7 +901,7 @@
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "6378bc9d1b316312dca62609",
@@ -649,7 +915,7 @@
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "01b3cf9372eed86b14d930e0",
@@ -663,7 +929,7 @@
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "bd9826eab046d2684761cb14",
@@ -677,7 +943,7 @@
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3a9abbe7d175414d729090fc",
@@ -691,7 +957,7 @@
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "e80700af408129f4069e22e2",
@@ -705,7 +971,7 @@
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "58d7dbf224bbcaf2e0c8f490",
@@ -719,7 +985,7 @@
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "0b9c62e5f4d9106339cc31a8",
@@ -733,7 +999,7 @@
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "1bf8c65890a245c86f176931",
@@ -747,7 +1013,7 @@
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "b0d835c841e26b0e1d02c1b2",
@@ -761,7 +1027,7 @@
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "28301e07a1cc8ea7784f407a",
@@ -775,21 +1041,21 @@
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
-      "id": "09c4ab81e14c931afeb4e61a",
-      "title": "あいみょん / AIMYON BEST ALBUM - 唇を追え！ - OTOTOY",
+      "id": "534d541f610fee75d709b74b",
+      "title": "あいみょん / AIMYON BEST ALBUM - 唇を追え！ - ototoy.jp",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBLcGtOMjRyMWR2b0Q1eUs0LXpTeHRvei1PbzVUNTZBWS1rZVJsOXZWOXhmd0pPWVhpZHNvcHBsSF9RaGxOS080MkJvOHpUZw?oc=5",
-      "summary": "あいみょん / AIMYON BEST ALBUM - 唇を追え！ OTOTOY",
+      "summary": "あいみょん / AIMYON BEST ALBUM - 唇を追え！ ototoy.jp",
       "published_at": "2026-09-08T15:05:12Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
-      "first_seen_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
+      "first_seen_at": "2026-09-08T16:29:57Z",
       "source": "OTOTOY",
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "9cd9a05b43410eb56689c14e",
@@ -803,7 +1069,7 @@
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "7b0d77896166e22f5e2ca47f",
@@ -817,7 +1083,7 @@
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "7c4e98d4fe3f464e330e2c38",
@@ -831,7 +1097,7 @@
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "83cd24ac8e01bbefdad1635b",
@@ -845,7 +1111,7 @@
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "481655f7f1f74d4a27246a4f",
@@ -859,7 +1125,7 @@
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "ae78b2c591aa85508b951395",
@@ -873,7 +1139,7 @@
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "4dc3a895f3ac81c48088465e",
@@ -881,13 +1147,13 @@
       "url": "https://spincoaster.com/news/pas-tasta-lag",
       "summary": "PAS TASTAがニューシングル“LAG”を本日9月9日（水）にリリースした。 本楽曲はすでにライブで披露されており、エモーショナルな歌唱とハードかつ畳みかけるような展開が印象的な1曲。フィーチャリ",
       "published_at": "2026-09-08T15:00:57Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T15:29:06Z",
       "source": "Spincoaster",
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "5fa6cc5714373febd98cbbe7",
@@ -895,13 +1161,13 @@
       "url": "https://spincoaster.com/news/dj-kanji-dekoboko-friends-rmx",
       "summary": "DJ KANJIがニューシングル“デコボコフレンズ (feat. ENEL, MIKADO & SKy NET) [Remix]”を本日9月9日（水）にリリースした。 本作は、今年4月にリリ",
       "published_at": "2026-09-08T15:00:46Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T15:29:06Z",
       "source": "Spincoaster",
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "8d72dc129aaeb06927bda283",
@@ -909,13 +1175,13 @@
       "url": "https://www.nme.com/news/gaming-news/clair-obscur-expedition-33-painted-symphony-2027-tour-dates-tickets-3967561?utm_source=rss&utm_medium=rss&utm_campaign=clair-obscur-expedition-33-painted-symphony-2027-tour-dates-tickets",
       "summary": "‘A Painted Symphony’ will be the first dedicated video game concert at the London’s O2 Arena The post ‘Clair Obscur: Expedition 33’ confirms 2027 orchestral world tour appeared first on NME .",
       "published_at": "2026-09-08T15:00:36Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T15:29:06Z",
       "source": "NME",
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "4c4541bf490d06ecd8ff587d",
@@ -923,13 +1189,13 @@
       "url": "https://spincoaster.com/news/t-stone-very-happy-ft-minmi",
       "summary": "T-STONEがニューシングル“超楽しい Feat. MINMI”を本日9月9日（水）にリリースした。 本作は、徳島出身のT-STONEが地元に根付く伝統文化・阿波踊りを未来へ繋げたいという想いを込め",
       "published_at": "2026-09-08T15:00:10Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T15:29:06Z",
       "source": "Spincoaster",
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "df205d05e2df04b4e7c4f4ff",
@@ -937,13 +1203,13 @@
       "url": "https://spincoaster.com/news/kenshiro-sekiya-change-my-life-2",
       "summary": "北海道網走市出身のアーティスト・関谷拳四郎がニューシングル“MUGEN”を本日9月9日（水）にリリースした。 本作は、11月にリリース予定だという1stアルバムからの第2弾先行シングル。悩みと前進を繰",
       "published_at": "2026-09-08T15:00:07Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T15:29:06Z",
       "source": "Spincoaster",
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "690f1017e000cdea68a1d2fb",
@@ -951,9 +1217,51 @@
       "url": "https://spincoaster.com/news/maroni-2nd-ep-swallow-knows",
       "summary": "ロシア・ウラジオストク出身、現在は東京を拠点に活動するラッパー／アーティスト・MARONIが2nd EP『SWALLOW KNOWS…』を本日9月9日（水）にリリースした。 ヒップホップ／",
       "published_at": "2026-09-08T15:00:06Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T15:29:06Z",
       "source": "Spincoaster",
+      "category": "Япония",
+      "language": "ja",
+      "region": "Japan",
+      "is_new": false
+    },
+    {
+      "id": "f70a2c57358c836e55b21a47",
+      "title": "PAS TASTAがニューシングル「LAG」本日配信 - ナタリー",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1NVC1mREpxRTZZREl6Umh3VDJWNnZRX0RzcTMxVVVBRGo0TG40RlhYblNnLVRSZVBoTUROWERQN012RTBhNW44M2tvSXQ?oc=5",
+      "summary": "PAS TASTAがニューシングル「LAG」本日配信 ナタリー",
+      "published_at": "2026-09-08T15:00:00Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
+      "first_seen_at": "2026-09-08T16:29:57Z",
+      "source": "Natalie Music",
+      "category": "Япония",
+      "language": "ja",
+      "region": "Japan",
+      "is_new": true
+    },
+    {
+      "id": "c161b1c8b851b8c5ef3a3b1a",
+      "title": "ラップスタア応募動画で注目浴びるMARONI、5曲入りEP「SWALLOW KNOWS…」リリース - ナタリー",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBrQVdPVUZvZGFVTXlVN2d3SzVQNGR1OFdSeWxMV3B4WS1mZkxfNElham5YTVJRNFJwU3FhaGNpcVoxUG5JckFUZTdpXzU?oc=5",
+      "summary": "ラップスタア応募動画で注目浴びるMARONI、5曲入りEP「SWALLOW KNOWS…」リリース ナタリー",
+      "published_at": "2026-09-08T15:00:00Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
+      "first_seen_at": "2026-09-08T16:29:57Z",
+      "source": "Natalie Music",
+      "category": "Япония",
+      "language": "ja",
+      "region": "Japan",
+      "is_new": true
+    },
+    {
+      "id": "bb37eb1531db99d9dd1d4aa6",
+      "title": "夜猫族のリーダーnoma、現在地を示したニューアルバム「Pin」配信リリース - ナタリー",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9EMnlkNjNKdjlDTlZEZEY3U0dpYUV2ME9TaUZOWnJCQl9CNG90VThoZmlNTV83c240Z1d2WW90TUtDQUZhYk9aZ2VPblA?oc=5",
+      "summary": "夜猫族のリーダーnoma、現在地を示したニューアルバム「Pin」配信リリース ナタリー",
+      "published_at": "2026-09-08T15:00:00Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
+      "first_seen_at": "2026-09-08T16:29:57Z",
+      "source": "Natalie Music",
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
@@ -965,13 +1273,13 @@
       "url": "https://stereogum.com/2510670/purple-pilgrims-announce-new-album-given-to-the-night-hear-innocence-lost/music/",
       "summary": "The New Zealand-based sisters Clementine and Valentine Nixon are the two members of the dreamy duo Purple Pilgrims. They grew up between New Zealand and Hong Kong, and they've been making music together under the Purple Pilgrims name for the past 15 years. In that time, they've collaborated with people like the Chills and Roy Montgomery, and they've toured with Aldous Harding and Weyes Blood, among many others. Now, they're getting ready to follow their 2023 album The Coin That Broke the Fountain Floor with a new one called Given To The Night . The post Purple Pilgrims Announce New Album <em>G",
       "published_at": "2026-09-08T14:59:56Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T15:29:06Z",
       "source": "Stereogum",
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "4263da2cac6525c6344a3fc9",
@@ -979,13 +1287,13 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONjRGa3hxSlhCdzN4TTJTT1k5U3JMMWxyX3JBdExQOWNaMFBIS3dndHUtM05uR2pvSG9oUUVJTGNJNXd6bEE1aEtFcFZ3OC1RQmhYNGR0ekhYZXlNSnd4d3ZHcUJEM0Nlc2g4dTdPeGdJWm1iX00xZVBpVVZHb3pnRXRYV29odlBkMlM4WEhLdkxEb29fVVVN?oc=5",
       "summary": "Brad Mehldau announces new solo album Fantasy & Reveries Jazzwise",
       "published_at": "2026-09-08T14:50:36Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T15:29:06Z",
       "source": "Jazzwise",
       "category": "Джаз",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "16de9c77e45c83fa1bca5438",
@@ -993,10 +1301,24 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSWFVaGtSWXh1VnZjMjBPaVlvZTUzUDBpQXJyYkgtcTN6QlJsMXcwR2U5cktXbENSeXQwaWZvNGx1UWdIV3ZacXJUQi1oNUh3TlpPSXB4RG5wWXFnYnBON0tfYTFINXlsTmxrWTlmMEo5WndNeE5jOXl2Wmt0Tko3QmlHMXJ5NkxsVTF0VkJGcktKWFRwM0pMV0ROcWNFcG9Cak5lLWFNSlEwdjM2WkxMNHhwVW1pQ0xEdmxYVG0yVU1DZlJ6WWFZSktn?oc=5",
       "summary": "H.E.R., Jesse Carmichael, Linda Perry, Sony Audio & More Join Manny Marroquin at Larrabee Studios Gearspace",
       "published_at": "2026-09-08T14:42:22Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T15:29:06Z",
       "source": "Gearspace",
       "category": "Продакшн, звукозапись и технологии",
+      "language": "en",
+      "region": "Global",
+      "is_new": false
+    },
+    {
+      "id": "412878220b0a4e303cd29f12",
+      "title": "Stevie Wonder to Play All of ‘Songs In the Key of Life’ on 50th Anniversary Tour - Rolling Stone",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPV1ZCRTNINDFTM29NQTMyaHFabFFBU2V3UDBXOUgxUEVrdFhGbk43S1NqSUE2c3k1dkVzRG1QUXpZTzVWc0Q3OTlqeTRZb0pxcEJ3UXJ2OFR4d0JoYVcyaG9WQi0yMHJkNUpmM0dFeWc0T0UzZ01FVFh2RzJTa1dPenZ0Y2ViTFJjUE1NZHpDbER5VFVZSUwxU251aWNrS05qNGlXWGFVckcwZkk?oc=5",
+      "summary": "Stevie Wonder to Play All of ‘Songs In the Key of Life’ on 50th Anniversary Tour Rolling Stone",
+      "published_at": "2026-09-08T14:35:18Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
+      "first_seen_at": "2026-09-08T16:29:57Z",
+      "source": "Rolling Stone",
+      "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
       "is_new": true
@@ -1007,13 +1329,13 @@
       "url": "https://stereogum.com/2510661/your-old-droog-announces-new-album-bread-butter-hear-i-dont-care-feat-flying-lotus-georgia-anne-muldrow/music/",
       "summary": "When Your Old Droog's family moved from Ukraine to Brooklyn, they were broke and homesick, and they would spread caviar thinly across plain, regular bread. That's the inspiration for Droog's upcoming album Bread & Butter , the latest solo LP in an extremely prolific run. Droog's latest has contributions from people like Evidence. Oddisee, and Conductor Williams, and his latest single is a collaboration with Flying Lotus and Georgia Anne Muldrow. The post Your Old Droog Announces New Album <em>Bread & Butter</em>: Hear “I Don’t Care” (Feat. Flying Lotus & Georgia Anne Muldrow) appeared first on",
       "published_at": "2026-09-08T14:31:30Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T15:29:06Z",
       "source": "Stereogum",
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "95fbd60676b28de93a89823e",
@@ -1021,7 +1343,7 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBTOUlPLWdZRHNCZmg0dlFCQm81eXFfWWpablEzNFozTURaOWgyNEpxS0kyWVF0Q2doZVRhY0QybFJEQUxRWk91QW1YZ2dXcDA2UmJ5V05QRlo2clBrTEE?oc=5",
       "summary": "How to Live Simply - Twist - Watch the full show Arte.tv",
       "published_at": "2026-09-08T14:28:29Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T15:29:06Z",
       "source": "ARTE Concert",
       "category": "Живые выступления и видеосессии",
@@ -1035,13 +1357,13 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdmdNR0hERFJjU19hbkZHWUlrcnJKRWJ3TXN4Z3oxbDlOZUtrYUkzY1BNMVl2OGNBUHlLcjhYUlhpMTR1RlQ0S2lyTlcxSi1Gc1dZSlVvVllWQUJFSVphV1lhdzNwdEVYQ2F1TldYdG9jU2hnN2c5OS1iYnludnFGOGdR?oc=5",
       "summary": "Behringer \"accidentally\" leaked a CL-1B Gearspace",
       "published_at": "2026-09-08T14:25:50Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T15:29:06Z",
       "source": "Gearspace",
       "category": "Продакшн, звукозапись и технологии",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "72553b648c5bb2201bd13c2b",
@@ -1049,7 +1371,7 @@
       "url": "https://www.nme.com/news/gaming-news/the-legend-of-zelda-40th-anniversary-orchestral-tour-dates-tickets-3967636?utm_source=rss&utm_medium=rss&utm_campaign=the-legend-of-zelda-40th-anniversary-orchestral-tour-dates-tickets",
       "summary": "The global tour kicks off this January The post ‘The Legend Of Zelda’ is getting a 40th anniversary orchestral tour appeared first on NME .",
       "published_at": "2026-09-08T14:25:20Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T14:29:03Z",
       "source": "NME",
       "category": "Музыка, критика и новая музыка",
@@ -1069,21 +1391,21 @@
       "category": "Музыкальный бизнес, маркетинг и данные",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
-      "id": "15ce2ae02a8937ae78ca2013",
-      "title": "Check out Keo’s melancholic new single, Bird On The Wire - Kerrang!",
+      "id": "efa7d9c8edc349e333a51216",
+      "title": "Check out Keo’s melancholic new single, Bird On The Wire - kerrang.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWURHdHdfZzFwaXVQaWlkVU94ZWFtLTRRdHp2enM4eHVvMng5U1ppOEp4aUZlVzRpODNMM1JLaHVDY045NVo3Y1pENnluYmtxQ3ZLWXdzT0dfSVc5OGJUWHhCRVhrNXlFV04tVEVFOVNIUXlVcldTSG15MmtJRWZtZlhORjk?oc=5",
-      "summary": "Check out Keo’s melancholic new single, Bird On The Wire Kerrang!",
+      "summary": "Check out Keo’s melancholic new single, Bird On The Wire kerrang.com",
       "published_at": "2026-09-08T14:20:00Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
-      "first_seen_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
+      "first_seen_at": "2026-09-08T16:29:57Z",
       "source": "Kerrang!",
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "212d3cfaed7355aadae6ac2d",
@@ -1091,7 +1413,7 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZWhhYzNWTjVxUS04NkppS0xhUXdVdExSZjNuQlZXdDhHQnd0aEg2Zy0xVnJQdmJZRGdpdGdjUUpfRjZYbkhjOF8zc2x5WVpKSUdCUWdEaTZCMHQyZ0hHTFVhcmRGelZ0UW9Gb1pvVDlmOFhUYTlUQlFndTZqVXM0Q0N0RVh6aGtXajhB?oc=5",
       "summary": "Gooey Audio releases White Rhino - Beat Masher Gearspace",
       "published_at": "2026-09-08T14:19:49Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T14:29:03Z",
       "source": "Gearspace",
       "category": "Продакшн, звукозапись и технологии",
@@ -1105,7 +1427,7 @@
       "url": "https://bedroomproducersblog.com/2026/09/08/bs-203-macroacidizer-giveaway/",
       "summary": "Developer Born Second has released BS-203 MacroAcidizer, a component-level analog-modeled acid synthesizer plugin for macOS and Windows. The plugin combines three switchable acid machines with a scale-aware pattern generator, and we are giving away one free copy to a lucky BPB reader. You will find the entry question at the end of this article. BS-203 [...] View post: GIVEAWAYL: Win BS-203 MacroAcidizer, a 3-in-1 acid synth with generative sequencer",
       "published_at": "2026-09-08T14:17:12Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T14:29:03Z",
       "source": "Bedroom Producers Blog",
       "category": "Продакшн, звукозапись и технологии",
@@ -1119,7 +1441,7 @@
       "url": "https://stereogum.com/2510281/album-of-the-week-this-is-lorelei-the-singer-in-my-band/reviews/album-of-the-week/",
       "summary": "The post Album Of The Week: This Is Lorelei <em>The Singer In My Band</em> appeared first on Stereogum .",
       "published_at": "2026-09-08T14:05:45Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T14:29:03Z",
       "source": "Stereogum",
       "category": "Музыка, критика и новая музыка",
@@ -1133,7 +1455,7 @@
       "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE1oVHZCeERPUTBBdVVpNjRmN3laWC11Ry1rSXlfNTlELU90VHFwX2hISXFEUHZUSzRQQm5JMw?oc=5",
       "summary": "DC party SEQUENCE unveils tenth anniversary reunion party · News ⟋ RA Resident Advisor",
       "published_at": "2026-09-08T14:03:53Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T14:29:03Z",
       "source": "Resident Advisor",
       "category": "Музыка, критика и новая музыка",
@@ -1147,7 +1469,7 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBrc1QwdzByZ1N2UHFCM3Z0cmlVUUtMNXE3VGVIeXFucTluSVR5c25UUms5WnVEczA2MjUtY3FUTV9lY3g0TDM2dG1yT2ZVUkhwX1FEcHdmNGJ4aWpySF9Kc1RWY2ZwU1N0VXhjVWIteEQ1THY0dHBz?oc=5",
       "summary": "Xils Lab announces MemoryTone Gearspace",
       "published_at": "2026-09-08T14:02:36Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T14:29:03Z",
       "source": "Gearspace",
       "category": "Продакшн, звукозапись и технологии",
@@ -1161,13 +1483,13 @@
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9tdm5PanF4U2lmQko1ZUdscUhZQVppaVp6U0J3N2trSnJlVnJ2a3FmMjhaWmdnWFNQMHN5UHU3RndBYzRnRGQ3V28zWXY?oc=5",
       "summary": "ハク。メジャー1stアルバムリリース記念、YouTubeとインスタで生配信 ナタリー",
       "published_at": "2026-09-08T14:01:00Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T15:29:06Z",
       "source": "Natalie Music",
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "223f3572da84a8e700f6e907",
@@ -1175,7 +1497,7 @@
       "url": "https://www.nme.com/news/music/sports-team-share-raucous-new-single-billy-3967622?utm_source=rss&utm_medium=rss&utm_campaign=sports-team-share-raucous-new-single-billy",
       "summary": "“It felt like a return to how we made the first album. Fast, and loose and loud” The post Sports Team share “a love letter to getting desperately, insanely drunk at a carpeted pub on a Tuesday night” with raucous new single ‘Billy’ appeared first on NME .",
       "published_at": "2026-09-08T13:56:53Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T14:29:03Z",
       "source": "NME",
       "category": "Музыка, критика и новая музыка",
@@ -1189,7 +1511,7 @@
       "url": "https://stereogum.com/2510653/the-drin-cannery-action/music/",
       "summary": "Are you getting excited about the new Drin album yet? Next week, the Drin, the subgenre-hopping, grimily grandiose Cincinnati underground rock unit, will release their new double album I Lost My Way For Centuries . The band has already shared the promising singles \" Haven't Lived It Yet \" and \" Prophets Of Doom ,\" and today they add a third. With its steadily pounding beat, well-placed tambourine, and flurries of horns and strings, \"Cannery Action\" makes me feel like I'm attending a psychedelic post-punk show at the end of the world. It's scary and alluring in equal measure, and you can experi",
       "published_at": "2026-09-08T13:54:47Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T14:29:03Z",
       "source": "Stereogum",
       "category": "Музыка, критика и новая музыка",
@@ -1203,7 +1525,7 @@
       "url": "https://bedroomproducersblog.com/2026/09/08/plea-tech-super-wide/",
       "summary": "Plea Tech Audio has released Super Wide, a free stereo widening plugin for Windows. Plea Tech is a one-person independent plugin company based in Denmark, and Super Wide is their first plugin I’ve tested. First impressions are positive. Super Wide is built to add stereo width while keeping the center stable, and Plea Tech says [...] View post: Plea Tech releases Super Wide, a FREE stereo widening plugin for Windows",
       "published_at": "2026-09-08T13:52:06Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T14:29:03Z",
       "source": "Bedroom Producers Blog",
       "category": "Продакшн, звукозапись и технологии",
@@ -1217,7 +1539,7 @@
       "url": "https://bedroomproducersblog.com/2026/09/08/soundboost-mastering/",
       "summary": "SoundBoost has released Engine v4 for its browser-based mastering service, which lets you guide the result with ordinary language instead of building a complete mastering chain from scratch. The basic workflow is pretty simple. You need to upload your mix, describe the result you want, and let SoundBoost prepare a master that you can compare [...] View post: SoundBoost updates its browser-based mastering service with Engine v4",
       "published_at": "2026-09-08T13:51:52Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T14:29:03Z",
       "source": "Bedroom Producers Blog",
       "category": "Продакшн, звукозапись и технологии",
@@ -1231,7 +1553,7 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdWhRNGtUSWsxRmNybWM5b3dCYXFQcGhOdGRvUjdxY3Y2TzYweHA4bzlKUnI3TkVJbjllcHpEMGQxbEYyZXJmZmhmbnBKa2t0aUNZa3JveFlsMEs0TVk4dDlqMEhMejROdzZteXJrOHlVc1YzVkR6OWNJRzI2TUFsWlp5NUc?oc=5",
       "summary": "Toontrack releases new EZbass expansion Gearspace",
       "published_at": "2026-09-08T13:50:39Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T14:29:03Z",
       "source": "Gearspace",
       "category": "Продакшн, звукозапись и технологии",
@@ -1245,13 +1567,13 @@
       "url": "https://daily.bandcamp.com/features/no-neck-blues-band-feature",
       "summary": "Like a troupe of no-wave hippies, the New York group sowed chaos while inspiring much creativity. Read full story on the Bandcamp Daily .",
       "published_at": "2026-09-08T13:46:12Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T15:29:06Z",
       "source": "Bandcamp Daily",
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "981de4dfb82cc346f6373d21",
@@ -1259,13 +1581,13 @@
       "url": "https://daily.bandcamp.com/album-of-the-day/doseone-wino-willy-zetroc-sighting-review",
       "summary": "A horror film made without a single frame of celluloid. Read full story on the Bandcamp Daily .",
       "published_at": "2026-09-08T13:46:08Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T15:29:06Z",
       "source": "Bandcamp Daily",
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "87fa5645bbeddf2037a02df7",
@@ -1273,7 +1595,7 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE15dHV1VHQ5N21SdmVwa1hVTEp0Nm51ckdsMTBRTk9Dc0doZUM0YjdRMWI4clI0RmR6Qk80RjdGMDhORGZoZUlnbE1nblBpYm5GZElSSDJIa3I0c2stOThIc0E1OUVicnZNNWpXbzFfZzd4WjJra1E?oc=5",
       "summary": "5 Upcoming Live Tours We’re Excited About Hypebot",
       "published_at": "2026-09-08T13:40:44Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T14:29:03Z",
       "source": "Hypebot",
       "category": "Музыкальный бизнес, маркетинг и данные",
@@ -1287,7 +1609,7 @@
       "url": "https://stereogum.com/2510645/glaive-joins-tiffany-day-to-debut-new-song-in-san-francisco/news/",
       "summary": "Next month, glaive and Tiffany Day will join forces a big North American tour. Even though he's only 21 now, glaive has been in the hyperpop game for years, starting when he was a North Carolina teenager posting music online during the pandemic and leading to him becoming one of the first underground hyperpop artists to sign a major-label deal. Wichita native Tiffany Day's self-released breakout Halo is one of our favorite albums of the year so far . Ahead of their tour, the two artists teamed up onstage in San Francisco last night, debuting a brand-new unreleased song together. The post glaiv",
       "published_at": "2026-09-08T13:37:43Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T14:29:03Z",
       "source": "Stereogum",
       "category": "Музыка, критика и новая музыка",
@@ -1301,7 +1623,7 @@
       "url": "https://consequence.net/2026/09/carrie-underwood-nu-metal-limp-bizkit-linkin-park-papa-roach/",
       "summary": "The country-pop star showed off her love of heavy music at a recent concert in Iowa. Carrie Underwood Goes Full Nu-Metal with Limp Bizkit, Linkin Park, and Papa Roach Covers: Watch Spencer Kaufman",
       "published_at": "2026-09-08T13:36:59Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T14:29:03Z",
       "source": "Consequence",
       "category": "Музыка, критика и новая музыка",
@@ -1315,7 +1637,7 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HLVE0c3M1MUpWYjJqU2R3TnpWY3owZlVmTk14dEdNSHdieUt6aWNvOTFDR3pDdlNIeGJPdnZqaXhQZWg5X3BHQ1RfN0lVbG83WmtkYlozbVJzMXdfamlWMEN3?oc=5",
       "summary": "TWS、揺れ動く感情を表現した「OVERDRIVE」披露 ＜THE FIRST TAKE＞ Billboard JAPAN",
       "published_at": "2026-09-08T13:35:00Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T14:29:03Z",
       "source": "Billboard Japan",
       "category": "Япония",
@@ -1329,13 +1651,13 @@
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1Hc0pIUnNuOFlIQ1FGRXdDM0lpdGVhZTk0UGZkbkVTVGh0WVVXSmdoNVdJNWc4RjdEdW5xRVRQUEgwWkNHVlhIX080eHo?oc=5",
       "summary": "須田景凪ニューアルバム「LOVE HATE」クロスフェード映像公開、全収録曲を少しずつ聴ける（動画あり） ナタリー",
       "published_at": "2026-09-08T13:32:00Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T15:29:06Z",
       "source": "Natalie Music",
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "f8ae1522bd1d442f463d0dfd",
@@ -1343,7 +1665,7 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQ3ktMlp5dnV5YTZScUg3VDJnTHY5ZEdBYW9HY3pvNnpNLVQzeVFaemdIWm8zVVZSOUNlYkNCWTd1VTM5ZzVudWFMNDI0NTJjTGJQdGVUaUIxeENqcFdkdkFhYWM4QkpWNGNVa1pXUkFhb0Z3VXFvaThHSWNYbm9RQW1hZ0xQbUVtVEdCYThQMU9yWElGMHEyYk9Ma0lkdXd2R3k2M3dDd2VRV0RHWlJxdDY0S0I0U0c5NnBrcWZxVWxWNWc?oc=5",
       "summary": "Stevie Wonder Announces \"Songs In The Key Of Life Performances\" Tour for 50th Anniversary Pollstar News",
       "published_at": "2026-09-08T13:28:16Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T14:29:03Z",
       "source": "Pollstar",
       "category": "Концертная индустрия, туры и технический продакшн",
@@ -1357,7 +1679,7 @@
       "url": "https://www.jazztimes.com/blog/carmen-lundy-2026-nea-jazz-master/",
       "summary": "E ditor’s Note: The NEA Jazz Master 2026 Tribute Concert will be held on Tuesday, September 15, 2026, at 8:00 p.m. PT at Walt Disney … Read More \"Carmen Lundy: 2026 NEA Jazz Master\" The post Carmen Lundy: 2026 NEA Jazz Master appeared first on JazzTimes .",
       "published_at": "2026-09-08T13:24:30Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T14:29:03Z",
       "source": "JazzTimes",
       "category": "Джаз",
@@ -1371,13 +1693,13 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZEptRFd5SS16NVFvdVFkQ3hTeGJkNFllM1l3MGtxMmpaeTFfZU1YdmlubktUVHNwOWk4bm42ZHVtVGp2NTdqeGVQdFVwM0I3LW9hLWJLVTlfaWJRdGo2Zk5oWXo0dW10NXRSaTBscFhadHRkRHZ2Vi1ZdEk4VW1HV1UzTERCZ0pfQThzdEE4WkhITUpSU2NUcmJPZkpfNW9NV3c0R1Fua3RvZw?oc=5",
       "summary": "The Tallest Man on Earth Rediscovers His Heritage on a Cathartic New Album Rolling Stone",
       "published_at": "2026-09-08T13:18:13Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T15:29:06Z",
       "source": "Rolling Stone",
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "f57491e209ad9d3cbe6e5455",
@@ -1385,7 +1707,7 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE56eF9zUDlNRTMwMWdjZWFsWi1WcThJeEFXVDlMcVREeGhCWU9iejRJQVpOOG1hSERjYW0xN0M2ZW5rR0hzYzQxclBxOUFVeEhTSUZhMHBjT2VxbTFQNG9MdzBn?oc=5",
       "summary": "須田景凪、ニューアルバム『LOVE HATE』全曲試聴クロスフェードを公開 Billboard JAPAN",
       "published_at": "2026-09-08T13:10:00Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T14:29:03Z",
       "source": "Billboard Japan",
       "category": "Япония",
@@ -1394,12 +1716,26 @@
       "is_new": false
     },
     {
+      "id": "659325ea0aada60e6cc05fea",
+      "title": "Stevie Wonder Hitting the Road for 18-Date ‘Songs in the Key of Life’ 50th Anniversary Tour: See Dates - Billboard",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdlNqQ0dyQjdqeTBocjFkZ0hRalNNbkFGQUZVem1ya19LRXRCbW1LcmpyVVN1Sk9GRVNYc0NCMkJFN1kzV0tabXV6ZTZpQWM0Z0U4MXNobE1CMkVlcEFfWlFuMEk5Z01nQ2x6clNnNVdrS2JNR25Bb1dFbm04c0h0Y3h4V0ZiRmZmcmxvUmYtT3k4QzBRRTdCcGRTLWRmT0xUMlpERGlGSkFPbElsNTF3R0FsSmt4bTBH?oc=5",
+      "summary": "Stevie Wonder Hitting the Road for 18-Date ‘Songs in the Key of Life’ 50th Anniversary Tour: See Dates Billboard",
+      "published_at": "2026-09-08T13:03:50Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
+      "first_seen_at": "2026-09-08T16:29:57Z",
+      "source": "Billboard",
+      "category": "Музыкальный бизнес, маркетинг и данные",
+      "language": "en",
+      "region": "Global",
+      "is_new": true
+    },
+    {
       "id": "59e623583cca17d786d1bd65",
       "title": "Elton John Kept a 30-Year Tradition Alive at Rock in Rio Set With a Song That’s “Only Popular in Brazil”",
       "url": "https://consequence.net/2026/09/elton-john-rock-in-rio-brazil-skyline-pigeon/",
       "summary": "The singer has now performed “Skyline Pigeon” at 19 consecutive shows in Brazil. Elton John Kept a 30-Year Tradition Alive at Rock in Rio Set With a Song That’s “Only Popular in Brazil” Pedro Camacho",
       "published_at": "2026-09-08T13:00:29Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T14:29:03Z",
       "source": "Consequence",
       "category": "Музыка, критика и новая музыка",
@@ -1413,7 +1749,7 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0yOTVXMnFkMmdJZEhEQ3JnYzBVTTRoWGN2VWRsVl9lQnVfMERoa3hMWU5nUXB1S1lkc0ZXOWxDdmlqQTMyQXMta0FnaTV2Ujd5Q3ZjSTl0RkdFRkZDSlV0LWZxY0EzWlBjaWs2UmJBSFBQR2M?oc=5",
       "summary": "Post from it's Live YouTube",
       "published_at": "2026-09-08T13:00:02Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T14:29:03Z",
       "source": "it's Live",
       "category": "Южная Корея",
@@ -1427,7 +1763,7 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTkdWcXlWM3hwQzZ2SEF0Qkd4TUN1QmZXWDNSczFtMlNxWXFMenlnVHpyaFBZRlNPUExmRllXS2NmVl9kTWFZUmlvNDA4azBqcTY3MV8zTUwwTzNiZVFZdmxwQThqRzVzakxMSzZERl9kbEdYRzlBT25ja0kzaTVGdzJxNXUyTGc4MERURjRVQjdXR0t2dnNwNlRzdFJkMHEwREdFMjdTTQ?oc=5",
       "summary": "Warm Audio announces The Sound Techiniques Jude Microphone Preamp Gearspace",
       "published_at": "2026-09-08T13:00:00Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T14:29:03Z",
       "source": "Gearspace",
       "category": "Продакшн, звукозапись и технологии",
@@ -1469,7 +1805,7 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5uWlVmZnkyTWZNU0pkX0diMkFWV3lSVzdQeVJtN0hyQ0tOb0RnUlVSUklFVU1iUzhuYjl5OHdjQUZWUWRDSW5CMkIzdTliSEtrcDB1Ym9KYU9jMDV1MEZBQ2V3?oc=5",
       "summary": "LEE JISOO（HANAのJISOO）、韓国で撮影された「MISMATCH」MVで“ちぐはぐさ”を表現 Billboard JAPAN",
       "published_at": "2026-09-08T12:55:00Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T14:29:03Z",
       "source": "Billboard Japan",
       "category": "Япония",
@@ -1483,7 +1819,7 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA4UE9KYXZmODBpVzI0d0VqdDdIT2NZQ3pmMkNtMm9acWNNcTZfeE8wNlFiQXJyNkJrUXdFSWlSYkFqWkl3NjhUZHVvR0lwM1NIZmtHUWRmc2FSbllvSndlWjBR?oc=5",
       "summary": "Aぇ! group、末澤誠也のエモーショナルな歌声が響き渡る「Emotion」MVティザー公開 Billboard JAPAN",
       "published_at": "2026-09-08T12:50:00Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T14:29:03Z",
       "source": "Billboard Japan",
       "category": "Япония",
@@ -1503,7 +1839,7 @@
       "category": "Концертная индустрия, туры и технический продакшн",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "dfd6333c65b1ab78e8b0c261",
@@ -1511,13 +1847,13 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPS2ItZWZDcVoyS2U1REhnRGRDNlZBSEg0UUVuT2hMVkhNN1l2YVJXUEtFX1hnOGRqZW5KMWZoSzcyRnpQQkZfRGhDdnRnTXlQYk1MNldoTTVDajlfOExpZHdMLVRQY3ZLbHVKSXNUVXZiUGUzMTNTamZNS3JwQVZxOV9OZ0o0TkJkcWtmTFFqNnVXZFViZ3pGOFAxRUhpR2V0cUE?oc=5",
       "summary": "John Legend Announces Pharrell-Produced Album ‘Muse,’ Led by New Song ‘Daylight’ Billboard",
       "published_at": "2026-09-08T12:45:49Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T15:29:06Z",
       "source": "Billboard",
       "category": "Музыкальный бизнес, маркетинг и данные",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "a862ae947fe5c828fca267b1",
@@ -1525,7 +1861,7 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1dWV5cjhITm0yUVRXRTRYLVphSFRsa2ZkMjd3Mmk5Tjlhc3dweUJ3aktabm9CNGpWbW44dEVicnpVU3lUSzl4WDVCblAxOWZEY3c0Nm9xZi1fNFAyUkZ1a0J3?oc=5",
       "summary": "BOYNEXTDOOR、リパッケージアルバム『HOME: DELUXE』プロモーションスケジューラーを公開 Billboard JAPAN",
       "published_at": "2026-09-08T12:45:00Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T14:29:03Z",
       "source": "Billboard Japan",
       "category": "Япония",
@@ -1539,7 +1875,7 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTmtvd0V2aFZfbW1sUGV5MEdHYmxubEJ5MExkSXJ2bnltekZfUEFQQUVDbW1RNXBnUEFleEZSQWUwUnFFTUJNRlk1RmxueC1QeVpQaWlYaDZlb01ONmtjMHVpcjlkTjR4S2lHSFRpUkZVM0hjZjhjNDBIM2t4aXBOLXk1eDB3S2hJN19CQ21Na2pGcU9hZU5mQ1pCZk90UE9KaUE?oc=5",
       "summary": "Repair tip for an Ensoniq MR76 - Midi Volume Varying on its Own Gearspace",
       "published_at": "2026-09-08T12:41:50Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T14:29:03Z",
       "source": "Gearspace",
       "category": "Продакшн, звукозапись и технологии",
@@ -1548,13 +1884,13 @@
       "is_new": false
     },
     {
-      "id": "6e72ed32e6d285e0bc2fd1e5",
-      "title": "Stevie Wonder Announces Songs in the Key Of Life Anniversary Tour - pitchfork.com",
+      "id": "076de95ee51215a6bbb96eb5",
+      "title": "Stevie Wonder Announces Songs in the Key Of Life Anniversary Tour - Pitchfork",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Ya0R5eWxKMmJLWTVqVlhDSVl3cUdHVER4Z0JGYlBGdHQ5QzYwQ2JzSUhGbTZSaUJlbnk1QkZ4bWFvVUFmTkNfaTZsYUUzN3Z4bE8ydUtUc09aaGN2SzRFb1NnV2FvcVRIT0FzYWhyOEdxZUVYVjNEVFc4U3E?oc=5",
-      "summary": "Stevie Wonder Announces Songs in the Key Of Life Anniversary Tour pitchfork.com",
+      "summary": "Stevie Wonder Announces Songs in the Key Of Life Anniversary Tour Pitchfork",
       "published_at": "2026-09-08T12:40:44Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
-      "first_seen_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
+      "first_seen_at": "2026-09-08T14:29:03Z",
       "source": "Pitchfork",
       "category": "Музыка, критика и новая музыка",
       "language": "en",
@@ -1567,7 +1903,7 @@
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1uQTFGOXNpNlUzc1A0WXFmUktXSnV5VWZKUnVGak43Yk5KNDRIVkFsakR5UlNMQjJLbS1lUWhQM2owckMzTnJCMlZsTXQ?oc=5",
       "summary": "Aぇ! groupのバンド曲「Emotion」MVティザー映像公開（動画あり） ナタリー",
       "published_at": "2026-09-08T12:30:00Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T14:29:03Z",
       "source": "Natalie Music",
       "category": "Япония",
@@ -1581,7 +1917,7 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52OXVkdl8zal9GR0MwXzYzZXZhbndqU3Q2ZE5qN1dtbmtHWUpvNUR5WVdJZ1FGd1NqM3VZaGFZLVBNVWNlajF3d3ZXckdYaTRmcVNDVHh3?oc=5",
       "summary": "Aぇ! group、ついに“バンド曲”を表題に 5thシングル映像公開 オリコンニュース",
       "published_at": "2026-09-08T12:30:00Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T14:29:03Z",
       "source": "Oricon",
       "category": "Япония",
@@ -1609,7 +1945,7 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSy1pSHFmM2k4SmhJMTlxamFJSlFXTUNDMXM3U05QLVNSY2hLVHctakwxQkpiSXZlSklVTnRaaUo4TkpiSUJrOXg4Zk5tNVcwbk9fd2hYdnFoRmtRVFBSXzZTRE8wclJ2ejhKVkZxUEFJWjBFQl83Q2hRQWtUWE9pZDJHZTY3aE1VYlNDOUhQRUE3TC0tcmp0dTNVUWJYVW50Mm1qSldGdjJPdmY3LUlxU1o5U1hiQ1M5d1E?oc=5",
       "summary": "Steven Wilson launches Requiem For A Village website and shares video trailer Louder",
       "published_at": "2026-09-08T12:23:23Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T14:29:03Z",
       "source": "Louder",
       "category": "Музыка, критика и новая музыка",
@@ -1623,7 +1959,7 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUem9lVTRpOWtYZmx2UzF1QjQtU3NmVUJIRzJWSHQwU1JBck00bFpZOHFuVV9XVWV5cnQ5V0E3dGhJNGw4MTBtaHVUUUZ1eGhmejRrTjVjcmFQRFBCRTFQS1NIdTE5WUdl?oc=5",
       "summary": "Music Industry News ♫ Hypebot",
       "published_at": "2026-09-08T12:22:03Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T15:29:06Z",
       "source": "Hypebot",
       "category": "Музыкальный бизнес, маркетинг и данные",
@@ -1637,13 +1973,13 @@
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHZ2gtY3l4NU9oc2VwTUxXWXlQdERXRFZwMV9DTnE5QVVRajZUZjlnRmlBRU9KclNXQXFYa09EaXgwejQ2cEpjSk9ldnhCVElQX21hMGFiS1pfQ29K?oc=5",
       "summary": "Macklemore defends 'Free Palestine' call after Ed Sheeran tour backlash BBC",
       "published_at": "2026-09-08T12:19:24Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T15:29:06Z",
       "source": "BBC Music",
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "f3777a7e3643bbfbbe7ab76b",
@@ -1651,7 +1987,7 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5qdnMzS3o0LVBoU3ZCTjEtLVNyRVRkenFJMWRGb2RnNUJsaXRCVFc4M0x2UE9ia3h1T3E3Y1I0WGxFVkNuQU44NmkweVBmWUdPamRKc0JjVnhxWnh0NmpIbGJ3?oc=5",
       "summary": "あいみょん全国アリーナツアータイトルは【cosmic %】、ベストアルバムでCD封入先行 Billboard JAPAN",
       "published_at": "2026-09-08T12:15:00Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T12:32:58Z",
       "source": "Billboard Japan",
       "category": "Япония",
@@ -1660,13 +1996,13 @@
       "is_new": false
     },
     {
-      "id": "0779d547eda8034ba9d1f105",
-      "title": "At The Gates unveil animated movie for new album, The Ghost Of A Future Dead - Kerrang!",
+      "id": "96d1a041b14c771093f8c695",
+      "title": "At The Gates unveil animated movie for new album, The Ghost Of A Future Dead - kerrang.com",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRlZ0LXFNdmR6ZkJTVjJnYWxiRG5CWHgzUk9McjBxVFFaMHptTDk2SHNnVS1PQkJfWXdvUUZLTkZXQXhsdlRELWdPY29vVHh5enhoamlrTkZkOUtEZV9ibnQ5YnoxOWpGTkJGMHA2TUZlMlBlcU12MXVjV1hhdVZmeGZrSmlQVVhYOG05NHhoVmItcFctd2d3VnRaSl9tZWU4d0hzTUJzTzBfQjU3cFVrTnFxc3diazIxRUNVYU05VQ?oc=5",
-      "summary": "At The Gates unveil animated movie for new album, The Ghost Of A Future Dead Kerrang!",
+      "summary": "At The Gates unveil animated movie for new album, The Ghost Of A Future Dead kerrang.com",
       "published_at": "2026-09-08T12:06:00Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
-      "first_seen_at": "2026-09-08T12:32:58Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
+      "first_seen_at": "2026-09-08T16:29:57Z",
       "source": "Kerrang!",
       "category": "Музыка, критика и новая музыка",
       "language": "en",
@@ -1679,7 +2015,7 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1qa0l1NmczZnh5ODFJMmhXb3BaX2VyS2l3MFJQM054elBpV2tJY1BvdnhZMmN4bjNsamRMMjllTm5lUTNlM3hIX05CaHNZMnpjeW5tdGtEMFJnRGRBcjNicU9B?oc=5",
       "summary": "コブクロ、結成日にドラマチックな「霞日和」MV公開 Billboard JAPAN",
       "published_at": "2026-09-08T12:05:00Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T12:32:58Z",
       "source": "Billboard Japan",
       "category": "Япония",
@@ -1693,7 +2029,7 @@
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1CMTdBT0xPTUItTnlqU0ZkM1BtVTM0V1I0N0Nzams5S3p2WS1VU3lFSmNtN2RJTFR2WVAzckVXWXduRW9mbTJmbW45b3I?oc=5",
       "summary": "HANAのLEE JISOOソロデビュー曲「MISMATCH」MV公開、映像に彼女が歩んできた道のりを重ねて（動画あり / コメントあり） ナタリー",
       "published_at": "2026-09-08T12:03:00Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T14:29:03Z",
       "source": "Natalie Music",
       "category": "Япония",
@@ -1707,7 +2043,7 @@
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOLVA4ZHh5X2hoQzRmZGVORHhjeVF6TU9yXzhVRXVuT1lMQVBhcXpSZ3N3MFJISThZeHpnZk9qZVM0Z05pRFhtbk5DOWQ3R0MzUndOcXVLRE1jdjdLdG1TeFQ0Rlk1RFBEQ0xGX2w0WTBzMlY0QVFJMDIzUGNJN2FGSzlkazF4eF90a21vNXJnUlJ4bGE0TGdaZnM0cVNONXFHaks4MmhEbFV6LVVmMm9pOXNoLVZGUm92WlFlalRheDZGX2xCYWJTYk9pN3BEaGFnU0hzdjctaw?oc=5",
       "summary": "Women In Music 2026: Introducing this year's Roll Of Honour in association with Live Nation Women MusicWeek.com",
       "published_at": "2026-09-08T12:01:00Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T12:32:58Z",
       "source": "Music Week",
       "category": "Музыкальный бизнес, маркетинг и данные",
@@ -1721,7 +2057,7 @@
       "url": "https://spincoaster.com/news/aklo-bachlogic-zoom",
       "summary": "ラッパーのAKLOがニューシングル“ZOOM”を9月9日（水）にリリースすることが発表された。 本作は、サウンドプロデュースに再びBACHLOGICを迎え、さらなるスピード感と妥協なきマインドセットを",
       "published_at": "2026-09-08T12:00:38Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T12:32:58Z",
       "source": "Spincoaster",
       "category": "Япония",
@@ -1730,12 +2066,26 @@
       "is_new": false
     },
     {
+      "id": "353734b2472de8d9651aa52a",
+      "title": "Jake Xerxes Fussell :: The Old Beloved Path",
+      "url": "https://aquariumdrunkard.com/2026/09/08/jake-xerxes-fussell-the-old-beloved-path/",
+      "summary": "Jake Xerxes Fussell returns with another set of meticulously curated old-time songs played and sung with warmth and grace. The North Carolinian songwriter has a musicologist’s grasp of pre-war folk and blues; he is intimately familiar with multiple versions and interpretations of the songs he performs, reaching across decades, even centuries of history, to find the core of the music. And yet he uses this knowledge not to replicate the past but to reinterpret it, so that the songs live and breathe in his capable hands. The post Jake Xerxes Fussell :: The Old Beloved Path first appeared on Aquar",
+      "published_at": "2026-09-08T12:00:00Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
+      "first_seen_at": "2026-09-08T12:32:58Z",
+      "source": "Aquarium Drunkard",
+      "category": "Музыка, критика и новая музыка",
+      "language": "en",
+      "region": "Global",
+      "is_new": false
+    },
+    {
       "id": "c12bce808cd210b5ad2b525e",
       "title": "JO1、メンバーがニューシングル『AAO』収録曲の制作に参加 - Billboard JAPAN",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4ycVdiS3VBYl80QVRkRWhpRTk1VmJpb1hHaXlRcEF3WXpGU28zcllXWm5PUGlnalk5VHZDNzdDUkpDMG52b2h4bzMxd2Q3NjUwRWJNWk9NY1U0akV2eTNteFV3?oc=5",
       "summary": "JO1、メンバーがニューシングル『AAO』収録曲の制作に参加 Billboard JAPAN",
       "published_at": "2026-09-08T12:00:00Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T12:32:58Z",
       "source": "Billboard Japan",
       "category": "Япония",
@@ -1749,7 +2099,7 @@
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBJVG1TVU9jUXA5UnI1VEFqdXpuTVFkbVFKN2xOQy1LSXNsS0tERzN3dnloY3RxR0pGOTZncWtrNmRnNVYxVGgwRHhQSEU?oc=5",
       "summary": "クリープハイプが“太客”限定ツアー開催、全国7都市巡る ナタリー",
       "published_at": "2026-09-08T12:00:00Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T14:29:03Z",
       "source": "Natalie Music",
       "category": "Япония",
@@ -1758,12 +2108,26 @@
       "is_new": false
     },
     {
+      "id": "d51a8e8e844e061e360d76de",
+      "title": "明日誕生日みいらみさと、代官山でイラスト展開催 ソロアルバムいよいよ発売（コメントあり） - ナタリー",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBEcVNqYVBrZ1VLaDRnT1NrMWR2UzI1RjZ0djdEZ1hxWGg4dE5sOUZaQ1dFM19wLUJyRHZYUzJCNzNwMUFaVVd0Qm5ERHc?oc=5",
+      "summary": "明日誕生日みいらみさと、代官山でイラスト展開催 ソロアルバムいよいよ発売（コメントあり） ナタリー",
+      "published_at": "2026-09-08T12:00:00Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
+      "first_seen_at": "2026-09-08T16:29:57Z",
+      "source": "Natalie Music",
+      "category": "Япония",
+      "language": "ja",
+      "region": "Japan",
+      "is_new": true
+    },
+    {
       "id": "6c25c4414d067d6fbc56fe8d",
       "title": "AKLO、BACHLOGICとタッグ組んだ新曲「ZOOM」配信 - ナタリー",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5uMUswVGVOaldEMy05QXBaVF9yVEJmakpxdlM1S3lDemV6eGo3N2NCNlhQVWZYRTlwakRUZ005VXEzOWVHeUppdkNMUTM?oc=5",
       "summary": "AKLO、BACHLOGICとタッグ組んだ新曲「ZOOM」配信 ナタリー",
       "published_at": "2026-09-08T12:00:00Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T14:29:03Z",
       "source": "Natalie Music",
       "category": "Япония",
@@ -1777,7 +2141,7 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wd1ZobVFQUGNsSHBYRXo3QVU5Q1VvZnpyMDlKM2VlajY4VGY2YnpYZlJWNU9iUDlISmhwZHFzVm9wTFRfWVdxRkFyc0hlM3oxeFRCR3FSOW5aZXNCaEJKZA?oc=5",
       "summary": "LEE JISOO、全編韓国撮影の「MISMATCH」MV公開、「ちぐはぐさ」を表現 Rolling Stone Japan(ローリングストーン ジャパン）",
       "published_at": "2026-09-08T12:00:00Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T12:32:58Z",
       "source": "Rolling Stone Japan",
       "category": "Япония",
@@ -1791,7 +2155,7 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0wUExraERlY1JVRTZ1MlJXZTQ4MUtLQnFQVTczZVRUR0NWQ3JVblBrMDdVUzB3d2IzdndNdWJtVFpLY2JRRzYtZGZyZl9iaG8?oc=5",
       "summary": "LEE JISOOデビューシングル「MISMATCH」MV公開 HANAでは見せないさまざまな表情も オリコンニュース",
       "published_at": "2026-09-08T12:00:00Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T14:29:03Z",
       "source": "Oricon",
       "category": "Япония",
@@ -1805,26 +2169,12 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90Nl9US3ZpRE5fYXB2ZmJXU3JaOHl4NWRwWnpOay1TbXo1SUJkMEJyT3U3ekV3Wl9lV0xJeXBkYmlxVFI4cndvNl92UURhdlnSAVRBVV95cUxNdHF0R3FUTEhlS1MxUmhyYVpkUGcteE5fUEJZa0p4X1BraFlsNjN4elZoRHNlSURZYWlNdmxIYlpjanBUZEt5UFV1NEF4NzRoQXZDb08?oc=5",
       "summary": "AKLO、BACHLOGICと再びタッグを組んだ新曲「ZOOM」をリリース エンタメ特化型情報メディア スパイス",
       "published_at": "2026-09-08T12:00:00Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T14:29:03Z",
       "source": "eplus SPICE",
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": false
-    },
-    {
-      "id": "353734b2472de8d9651aa52a",
-      "title": "Jake Xerxes Fussell :: The Old Beloved Path",
-      "url": "https://aquariumdrunkard.com/2026/09/08/jake-xerxes-fussell-the-old-beloved-path/",
-      "summary": "Jake Xerxes Fussell returns with another set of meticulously curated old-time songs played and sung with warmth and grace. The North Carolinian songwriter has a musicologist’s grasp of pre-war folk and blues; he is intimately familiar with multiple versions and interpretations of the songs he performs, reaching across decades, even centuries of history, to find the core of the music. And yet he uses this knowledge not to replicate the past but to reinterpret it, so that the songs live and breathe in his capable hands. The post Jake Xerxes Fussell :: The Old Beloved Path first appeared on Aquar",
-      "published_at": "2026-09-08T12:00:00Z",
-      "fetched_at": "2026-09-08T14:29:03Z",
-      "first_seen_at": "2026-09-08T12:32:58Z",
-      "source": "Aquarium Drunkard",
-      "category": "Музыка, критика и новая музыка",
-      "language": "en",
-      "region": "Global",
       "is_new": false
     },
     {
@@ -1847,7 +2197,7 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5VaGhWOXpvQU1EdEQ0alZzakN4ZGIwNkVwejlRdjNqQ2Y4QXpsckNXWXYyeXI5MjNMQmZMWWYtN25jNi1iZkNpaHRvczl3VmxBd1h6YjVjQld3OWtIdFVuVWZB?oc=5",
       "summary": "&TEAM、より成熟した姿を「Mark on Me」MVで披露 Billboard JAPAN",
       "published_at": "2026-09-08T11:50:00Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T12:32:58Z",
       "source": "Billboard Japan",
       "category": "Япония",
@@ -1861,7 +2211,7 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQUNJTERpR3BxYVVwU0ZGWW1hNndMRE4zTHhlNWxLbmxGdFhtbVBTVnUzeU12eTF5ZkRweGJ0dEhqU1h0Nmx0ODFfY2l1TXlzOW9vVHBOTU1vdVluclkwYWRPUHAzZFo3aGl6YkgycUhMZHVmbEpOU0JXbnZVbVBoYlFFaHdza1BpcTBaSWowam9DYmt0RXlickRTNUVyVW83WXppY09BQQ?oc=5",
       "summary": "Ariana Grande Surprise Releases 12-Track ‘Petal (The Complete Live Album)’ Billboard",
       "published_at": "2026-09-08T11:48:50Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T14:29:03Z",
       "source": "Billboard",
       "category": "Музыкальный бизнес, маркетинг и данные",
@@ -1875,7 +2225,7 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11b2N0bVJWSFZVZjFFSmwzalVKbXVhbjdLQjN3WU9aMDcxX2hLcW1MWGxzMWNLSkYtS1N1SGl6TnN5bDd2NHQxRUlvbG55TXl2Q1plWmIwVnpnMGhCX0VVWg?oc=5",
       "summary": "ONE OK ROCK、約80万人を動員した『DETOX』ツアー終幕 YAOとして新曲も披露 Rolling Stone Japan(ローリングストーン ジャパン）",
       "published_at": "2026-09-08T11:48:00Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T12:32:58Z",
       "source": "Rolling Stone Japan",
       "category": "Япония",
@@ -1889,7 +2239,7 @@
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1KZVJiT3N1ZWFZaEtMbEprcFotbE5Lb1RYOGpCajJGSVFsOV91VnZiS1V4ejVpcXBpM0ZMNmY2SXpJMWM1LXFnZVdNcTc?oc=5",
       "summary": "ひなた坂46新曲「風にキンモクセイ」先行配信＆MV公開決定、四期生・清水理央がセンター ナタリー",
       "published_at": "2026-09-08T11:45:00Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T12:32:58Z",
       "source": "Natalie Music",
       "category": "Япония",
@@ -1903,7 +2253,7 @@
       "url": "https://spincoaster.com/news/asian-voices-anemoia",
       "summary": "近年、世界的に評価を高め続けているアジア圏の音楽シーン、その中でも今まさに押さえておきたい楽曲を厳選したコンピレーションアルバム『Asian Voices: ANEMOIA』が〈Kissing Fis",
       "published_at": "2026-09-08T11:43:29Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T12:32:58Z",
       "source": "Spincoaster",
       "category": "Япония",
@@ -1917,7 +2267,7 @@
       "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE1kMzU4R2VKX05xNWNXRm4wWEVoUm5pRGhZRXFsa05BeVBXV01wcTJNaURGbnpGVUV6Qm9fXw?oc=5",
       "summary": "Sound Metaphors Festival returns to Berghain next month · News ⟋ RA Resident Advisor",
       "published_at": "2026-09-08T11:39:27Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T12:32:58Z",
       "source": "Resident Advisor",
       "category": "Музыка, критика и новая музыка",
@@ -1926,13 +2276,13 @@
       "is_new": false
     },
     {
-      "id": "eb9dca880a4cec47b33ac94a",
-      "title": "Chat Pile announce UK and European Who Loves The Sun tour - Kerrang!",
+      "id": "784edbf8fb715b4848339061",
+      "title": "Chat Pile announce UK and European Who Loves The Sun tour - kerrang.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR0t4LU5tRk9uMjczcDZGS1Z1Zlp1ODVtRFNUR2xlTFhJSk53Sl9tVGJhZldOSVBIVWt4SmJXLU5hdWN3dXdUblVpSHdsaVUwTjNHWE1YLXBHZS1IcDljQlZSY01nUEZCTU5JXy0tTEphSmd3b1hReFFySDNycllNMmpFM2tMWm12?oc=5",
-      "summary": "Chat Pile announce UK and European Who Loves The Sun tour Kerrang!",
+      "summary": "Chat Pile announce UK and European Who Loves The Sun tour kerrang.com",
       "published_at": "2026-09-08T11:38:00Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
-      "first_seen_at": "2026-09-08T12:32:58Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
+      "first_seen_at": "2026-09-08T16:29:57Z",
       "source": "Kerrang!",
       "category": "Музыка, критика и новая музыка",
       "language": "en",
@@ -1945,7 +2295,7 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbGZuWG5tX2ZydHlhRXhvM1N4eUYxekNYNDRfdXloSHZpZ21wTmIxa25zdEVpY3d5M3o0bVZiR19mUFp4Yk5jNS0wanRna3lxdHQ2c0lkOC1JZm05cVRtbmtxdTRxQUtnNDh4eHd6RVRyUWstRTZNUlc1WFZydDVrd1pqZjVuN0h5?oc=5",
       "summary": "Small CID-Inspired Mixing Room REW Results Gearspace",
       "published_at": "2026-09-08T11:30:44Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T12:32:58Z",
       "source": "Gearspace",
       "category": "Продакшн, звукозапись и технологии",
@@ -1959,7 +2309,7 @@
       "url": "https://www.prosoundweb.com/riedel-introduces-new-onair-headset-platform/?utm_source=rss&utm_medium=rss&utm_campaign=riedel-introduces-new-onair-headset-platform",
       "summary": "Includes the OnAir 200, 400, and 500 Series covering applications from lightweight single-ear communication to dual-ear headsets for high-noise environments. The post Riedel Introduces New OnAir Headset Platform appeared first on ProSoundWeb .",
       "published_at": "2026-09-08T11:20:55Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T11:26:10Z",
       "source": "ProSoundWeb",
       "category": "Концертная индустрия, туры и технический продакшн",
@@ -1987,13 +2337,13 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdm9oTWcydkhuY1JNZlF1SHZFMFo3dW82eFJKSDhGZDNNa0xqdVhkREZmT0l6Ti16OFZYdVU3N0RNbUplbDRNaTlYMVpoVWNHN081SlJ4cnk4d1RreWRfdjFiYzVsTmtVRGlXYW1jOUdneHdVMWo1TC1KZW1LWFdjSW9MUXpLbzhMWVJET09pcw?oc=5",
       "summary": "Fender Join With Music Venue Trust For New Initiative clashmusic.com",
       "published_at": "2026-09-08T11:16:20Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T15:29:06Z",
       "source": "Clash",
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "1b934123a7208ca2f4f140a7",
@@ -2001,7 +2351,7 @@
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4yR0Z6UTYzUWI4QnhEX0tCVjJVajhacEM4VVFhUmZDLXJzZGN2bHdJVi1EMnZzYnlERzFPcDlwaTBoSGNZanZzSjZycmk?oc=5",
       "summary": "細野晴臣のポップアップ開催、ニューアルバム「Yours Sincerely」発売記念して ナタリー",
       "published_at": "2026-09-08T11:01:00Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T12:32:58Z",
       "source": "Natalie Music",
       "category": "Япония",
@@ -2015,7 +2365,7 @@
       "url": "https://spincoaster.com/news/kaneee-genius-ii",
       "summary": "ラッパーのKaneeeが、6曲入りの作品『GENIUS II』を9月9日（水）にリリースすることが発表された。 本作は2ndアルバム『GENIUS』のデラックスエディションではない。『GENIUS』収",
       "published_at": "2026-09-08T11:00:44Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T11:26:10Z",
       "source": "Spincoaster",
       "category": "Япония",
@@ -2029,13 +2379,13 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1uMExMX09QZFk1UlhGUnRtUXpvVDlVRUJuZ3piaG94d3pvNW92bkRJSW1Ec3VFLVR6Q1lvTmcxRkJvQnhWT1pGclhZd2dlWXhkd1NGLTFB?oc=5",
       "summary": "MINHO(민호) - Make It Hot | 1theKILLPO | 원더킬포 | 퍼포먼스 | Performance | 4K YouTube",
       "published_at": "2026-09-08T11:00:10Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T15:29:06Z",
       "source": "1theK",
       "category": "Южная Корея",
       "language": "ko",
       "region": "South Korea",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "be8a321e5fd5652962921ad5",
@@ -2043,7 +2393,7 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2X016djlMM0dNNExrVDF4TWdjT19Eb0hjZ3RWS212bGNuX1BmWXdxRG1TRnU5VGZtT3d6ZUpxWmFFYWt0RERPU1Z0bkFwUXJ3WU0wVHJ4MmJBZw?oc=5",
       "summary": "HANA、ホール・ツアー・ファイナル日本武道館公演が全国の映画館でライヴ・ビューイング決定 タワーレコード オンライン",
       "published_at": "2026-09-08T11:00:03Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T11:26:10Z",
       "source": "Tower Records bounce",
       "category": "Япония",
@@ -2057,7 +2407,7 @@
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9FX1djZVBNQ1ZpZjlsRTZPMHhhc21ySXRTMWN0bXJCaS1zUHlBQjMwM0hKQnpuem9TV2ZOOTQ0RnRnU2Eta0lZOGZ3OWs?oc=5",
       "summary": "絵恋ちゃん4年ぶりアルバムで全曲作詞、おおくぼけいプロデュース カトウタロウも参加（コメントあり） ナタリー",
       "published_at": "2026-09-08T11:00:00Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T12:32:58Z",
       "source": "Natalie Music",
       "category": "Япония",
@@ -2071,7 +2421,7 @@
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9EMDlRTk83YVpiQlZ0elVsdDJoa1hpMDMycWllT2l6dWdiZ0RFbVh4RVZMaEduTDFKVGg5T3JjQWl4bllpMzdvZWc1NUs?oc=5",
       "summary": "Kaneee新作「GENIUS II」を今夜リリース、Pxrge TrxxxperやMasato Hayashiら参加 ナタリー",
       "published_at": "2026-09-08T11:00:00Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T14:29:03Z",
       "source": "Natalie Music",
       "category": "Япония",
@@ -2085,7 +2435,7 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwY1MxVkJObGJnb2J3cHFrMEszNEdSbmdfQ2xCNUxkdXlxVm9zSkNTTGJsbUpNVmVMNTZXVlRscVhxVWJEMlUyRUhpNExKNGl3MkhKdkxYRlFIQQ?oc=5",
       "summary": "RADIOHEAD（レディオヘッド）、19年ぶり単独来日公演決定。来年6月GMOアリーナさいたまにて開催 タワーレコード オンライン",
       "published_at": "2026-09-08T11:00:00Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T11:26:10Z",
       "source": "Tower Records bounce",
       "category": "Япония",
@@ -2094,18 +2444,18 @@
       "is_new": false
     },
     {
-      "id": "b88edf42504ee79a73486c7b",
+      "id": "63a8c3b795927e670e4a13d0",
       "title": "細野晴臣のスタンプラリー開催決定 新アルバム発売記念、タワレコ＆HMVでポップアップなど展開 - オリコンニュース",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1YVmYwSGZxQlZyZWlYaUZ1X1NsSmpWNVkxVFFYbFFPYi1uZ0ZaZFppZkdYZnBjZzRiNkNGNDRQU012Q2hyRnRqN0FmMFowc2M?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VZmZocHNqaU9hRk5FeGE1alB0U3ZlVWwxY0FDWWh3ZGVWNF9VcnMtOV9ZYThmZEN6UE5sYUtTenNZa3UtVlhqVTZRZl9YUEVtN2FwSHJn?oc=5",
       "summary": "細野晴臣のスタンプラリー開催決定 新アルバム発売記念、タワレコ＆HMVでポップアップなど展開 オリコンニュース",
       "published_at": "2026-09-08T11:00:00Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
-      "first_seen_at": "2026-09-08T11:26:10Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
+      "first_seen_at": "2026-09-08T16:29:57Z",
       "source": "Oricon",
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "330fb189e6a84fceb895ed46",
@@ -2113,7 +2463,7 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyTHh4eFVZYXppTHk1YWxrZ3hVTFBTWXZJM2J3cEhVd0hJRkhfV0hlZ1J5Rk9Zd0RuclRiQ1pENEJ5ZGlVbEEwbHItbnJOTWfSAVRBVV95cUxNNGxtaWVlY2lTbV9pRkVUUTdPXzI5UmJsX0NpQmlieGoyV29fOFdGdjJndnM2UUQ0eWF2UnZwMUhzejlWZ1RVQlBZQ2ZrQWhlVmxHb0I?oc=5",
       "summary": "東京・下北沢9会場でサーキットイベント『over fest 2026』開催が決定 AIR SWELL、ADAM at、BRADIOら第1弾出演アーティスト10組を発表 エンタメ特化型情報メディア スパイス",
       "published_at": "2026-09-08T11:00:00Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T12:32:58Z",
       "source": "eplus SPICE",
       "category": "Япония",
@@ -2127,7 +2477,7 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOblV2NU8zczFLU0JoM2hKQ2dMVmJBWExNVklqaVJVTUxiNERJNkQ2d2lueFBNZ2R5aF9hZzgzRmRqTml2RG5kSndXZGEzeU41M3pfRU1CLTE1Ym8wbk9reU5qR29kenkydDF1STFSM0FwLXRpVVBFZTM3TURpNFA5U01YcnVrN3VHd2FtNTJ2elJ6Zw?oc=5",
       "summary": "Working Men’s Club Make Domino Records Debut With ‘Devout’ clashmusic.com",
       "published_at": "2026-09-08T10:58:01Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T12:32:58Z",
       "source": "Clash",
       "category": "Музыка, критика и новая музыка",
@@ -2141,7 +2491,7 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORDZobmx1T0xhUGluQTJFZy1QYm9iUEtub2I0LTBhNnhvOS1QVkw3TExNeGMwb2U2cnhidnMzY29QN0pxdERtYWdCU1JrWGF5SkNObVQ1RmlTMDdhQVNPaFF3NExPVWhNR0lIZEdNZXlXSm40MzFlS1QyX2U2VUtMM2tWT2dpdno4Qm53Q21EMTZvcW5JVDRtZA?oc=5",
       "summary": "Modern alternatives - Visonik David, Braun Output Compact Gearspace",
       "published_at": "2026-09-08T10:50:33Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T11:26:10Z",
       "source": "Gearspace",
       "category": "Продакшн, звукозапись и технологии",
@@ -2155,7 +2505,7 @@
       "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFB5UGxENkZqUEhEbi1BaTZ2QlllcVJCR0VYLWtPamxfR0JXS1o2TU8wUjlzYXlTbWdoMzZrSg?oc=5",
       "summary": "Dark Entries to release two archival albums from 'Lou Reed of gay porn' J.D. Slater · News ⟋ RA Resident Advisor",
       "published_at": "2026-09-08T10:47:10Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T12:32:58Z",
       "source": "Resident Advisor",
       "category": "Музыка, критика и новая музыка",
@@ -2169,7 +2519,7 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOd2E4cktYVi1xNmlXd1YtY1E0MmxMTWc4VXVCOUo0cHo5WmhWLVJhc3pBU081YW1oeFJLOURlcFBiLVJma21WLXNzRlhuUUdMM0UtbFU3RXhKM2hlZXotZmREdXd2VmU0Umt4MENSZ2lSQ0ZOOFhGT2hNWEM1SnRTWUZXOFg2WGtuX0p3?oc=5",
       "summary": "Hive partners with DWR Distribution in South Africa LSi Online",
       "published_at": "2026-09-08T10:45:48Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T11:26:10Z",
       "source": "LSi - Lighting & Sound International",
       "category": "Концертная индустрия, туры и технический продакшн",
@@ -2192,13 +2542,13 @@
       "is_new": false
     },
     {
-      "id": "8aa0c7dce85bb8e0a519f4e9",
-      "title": "Delilah Bon announces live album, Live At Leeds, recorded at Brudenell Social Club benefit show - Kerrang!",
+      "id": "037c32fa273d95696e32b692",
+      "title": "Delilah Bon announces live album, Live At Leeds, recorded at Brudenell Social Club benefit show - kerrang.com",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX2NUN1ZnQm1pems0eVJkZE93eldTM1J0OFpWQTVVa2ZreU9YZ3hOMFlIY1ZRTlhzMGVleXhtS2FvelVLbHdaUE5iRk1OeDdwUmJ2Z00yNzNCWUs1dmh3cmNmNUpDTmoyRWVPYURLT2ZJVDBrdDR4cHdSVnBLQm96dFpTZHduYVUxM2ZZWUxJbFN5U05RcHNVa0g1YlhhRkFhdVh5eTU4TXVDZ2NMR2tsYU5WNUEwMldp?oc=5",
-      "summary": "Delilah Bon announces live album, Live At Leeds, recorded at Brudenell Social Club benefit show Kerrang!",
+      "summary": "Delilah Bon announces live album, Live At Leeds, recorded at Brudenell Social Club benefit show kerrang.com",
       "published_at": "2026-09-08T10:35:00Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
-      "first_seen_at": "2026-09-08T11:26:10Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
+      "first_seen_at": "2026-09-08T16:29:57Z",
       "source": "Kerrang!",
       "category": "Музыка, критика и новая музыка",
       "language": "en",
@@ -2211,7 +2561,7 @@
       "url": "https://consequence.net/2026/09/stevie-wonder-songs-in-the-key-of-life-50th-anniversary-tour/",
       "summary": "The 18-date outing will see Wonder performing the legendary album in full. Stevie Wonder Announces Songs in the Key of Life 50th Anniversary Tour Alex Young",
       "published_at": "2026-09-08T10:34:36Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
+      "fetched_at": "2026-09-08T16:29:57Z",
       "first_seen_at": "2026-09-08T11:26:10Z",
       "source": "Consequence",
       "category": "Музыка, критика и новая музыка",
@@ -2231,342 +2581,6 @@
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": false
-    },
-    {
-      "id": "8b5e11cc9bd1339ce23192ee",
-      "title": "‘Orbitals’ retro synth-pop soundtrack is available on streaming and vinyl",
-      "url": "https://www.nme.com/news/gaming-news/orbitals-retro-soundtrack-streaming-vinyl-80s-3967541?utm_source=rss&utm_medium=rss&utm_campaign=orbitals-retro-soundtrack-streaming-vinyl-80s",
-      "summary": "“What if the ‘80s never ended?” The post ‘Orbitals’ retro synth-pop soundtrack is available on streaming and vinyl appeared first on NME .",
-      "published_at": "2026-09-08T10:28:31Z",
-      "fetched_at": "2026-09-08T12:32:58Z",
-      "first_seen_at": "2026-09-08T11:26:10Z",
-      "source": "NME",
-      "category": "Музыка, критика и новая музыка",
-      "language": "en",
-      "region": "Global",
-      "is_new": false
-    },
-    {
-      "id": "b878eb823128f29270bf2b54",
-      "title": ".ENDRECHERI. / 堂本剛が初のビルボードライブツアー開催 - ナタリー",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Kb2MxMkNIckthVDhTNElzTHdzd1VVeUNEQ1RWQUE5bktmZzNCZnVLaUhwM29iTVgxTmZVSEVNckhvcnowLXNxcVVzWnI?oc=5",
-      "summary": ".ENDRECHERI. / 堂本剛が初のビルボードライブツアー開催 ナタリー",
-      "published_at": "2026-09-08T10:28:00Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
-      "first_seen_at": "2026-09-08T12:32:58Z",
-      "source": "Natalie Music",
-      "category": "Япония",
-      "language": "ja",
-      "region": "Japan",
-      "is_new": false
-    },
-    {
-      "id": "b9fe735d570bef682464ee71",
-      "title": "TOKYO - billboard-live.com",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xb2llY3prRGd3a2MyWDk0M3ZNTDItZlUySDAzSk45b0dvdXBYQ1cyX1Y1QmNLYTBUbjRTbXg5aURZVzVNSnI2TTIyQXIwS2R5NkhIaG8yLTM4U1JJeHV1a3d6dUJ3NUMtUmVv?oc=5",
-      "summary": "TOKYO billboard-live.com",
-      "published_at": "2026-09-08T10:26:29Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
-      "first_seen_at": "2026-09-08T10:27:28Z",
-      "source": "Billboard Live Japan",
-      "category": "Япония",
-      "language": "ja",
-      "region": "Japan",
-      "is_new": false
-    },
-    {
-      "id": "6a1fd52b36ae7137ea43bb47",
-      "title": "YOKOHAMA - billboard-live.com",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBQTEFXMmlrV2R4NkxXVElaMDBBMF9yMUQwWWpzZ0F1OVkxaGptMFJxaUdtc2dVZWxGaU53aDJ1MjlubEh0ZWJZb0JIdVhFYnJ5MWViRUhQeWVHMXpaZ0Z2dlI2aHltdWZ3YU5oaElqZw?oc=5",
-      "summary": "YOKOHAMA billboard-live.com",
-      "published_at": "2026-09-08T10:24:29Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
-      "first_seen_at": "2026-09-08T12:32:58Z",
-      "source": "Billboard Live Japan",
-      "category": "Япония",
-      "language": "ja",
-      "region": "Japan",
-      "is_new": false
-    },
-    {
-      "id": "48fd3abc5af85e84d5a4331f",
-      "title": "OSAKA - billboard-live.com",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44VmxNV3VtS0NuRlU5Wms4STR0X3JPc3kwRGRhc3dIa3d0UGVLalNmQ2g3WlgxbVFZNEd0V2Z3Y2htNWthVHdhUkRxMnU3WmxxUElvTHhtX1lkb3habjdzVmZnZXZXQ2o5eWZB?oc=5",
-      "summary": "OSAKA billboard-live.com",
-      "published_at": "2026-09-08T10:22:28Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
-      "first_seen_at": "2026-09-08T12:32:58Z",
-      "source": "Billboard Live Japan",
-      "category": "Япония",
-      "language": "ja",
-      "region": "Japan",
-      "is_new": false
-    },
-    {
-      "id": "2fc68f1ac960e8f71895714a",
-      "title": "엑소 콘서트 부정 예매 칼 빼든 SM, 암표와의 전쟁은 현재진행형 - Billboard Korea",
-      "url": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxPN1JHS2RRZDZqYTBjY21mSUtMX1NjM3d0YXk1VUl2Yi1La09FTWc1eUd0eHBfSUxLaVh1T2EzcDZpZFR5bkhRYU5ObjNsWjNMcHNUdkJnbC12OUZVM2NLV0E4WDd3dEhXeFpnQ0R4cm1HNEphLTNhSWotVWsyVk5LQnhaSlRCUUZHN1ZaOEM0RXoya1ZmTWRxWC0tdkpKWDIzTDM1X0dqUkNrenE2dlJOOXk1OHVybUdhM1lrdVB0OUdvU3ZiRDVLVmtfWF9PY1ZxLThCdFJsZnhSc0JrbE9GVGg5QXhCT3FaNTVYYTFLSVpnSEozNzFVYjc0ZkpYQzI5TXA2NU80NTM3LXAzaWx1WTVoLTU1a1dHXzJ6NWtvaWJoYnl2WkdROEo0QUpudXluaFRRWlpLWGNiZlA2V1VFT2ZRbXBiSDctOVMtdkluRjY3YkJoVUoyb095QnZxbDE5MVJoWXVWazFMa0xxV1UtVFB5Z1JTREFfRXhVOG5COXZJTHBVWkEzWXRtSXRsRWVMUm9BMm5WeEVyT012aUZOb3VGb2FCWC1LNno0X3JDNVlucDJ6V3JmaEZmY0pkdi1Kb29XTk9xTXFwUFlTOUh1V19KMG4xbnVuZkxDc3BoN2xjS2Uza3poM1hyUjA4bUZRVG56VkJrRUpDWFE?oc=5",
-      "summary": "엑소 콘서트 부정 예매 칼 빼든 SM, 암표와의 전쟁은 현재진행형 Billboard Korea",
-      "published_at": "2026-09-08T10:01:27Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
-      "first_seen_at": "2026-09-08T10:27:28Z",
-      "source": "Billboard Korea",
-      "category": "Южная Корея",
-      "language": "ko",
-      "region": "South Korea",
-      "is_new": false
-    },
-    {
-      "id": "a42d35e31bfa478e274fc327",
-      "title": "『RIOT』第2弾ラインナップ発表でBillyrromが決定",
-      "url": "https://spincoaster.com/news/riot-2026-line-up-vol-02",
-      "summary": "10月18日（日）に東京・恵比寿LIQUIDROOMにて開催される『RIOT 2026』の第2弾ラインナップが発表された。 昨年初開催された『RIOT』は、アーティストマネジメント／音楽レーベルの〈a",
-      "published_at": "2026-09-08T10:00:34Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
-      "first_seen_at": "2026-09-08T10:27:28Z",
-      "source": "Spincoaster",
-      "category": "Япония",
-      "language": "ja",
-      "region": "Japan",
-      "is_new": false
-    },
-    {
-      "id": "499084602c38bd95cb58021e",
-      "title": "소연 (SOYEON) - 퇴사할게여 (Narr. 기안84)｜야외녹음실｜Beyond the Studio｜LIVE - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3SGxIR3B6Y2ZpZFQxWVA5dHVpOHhXNTJvb0lGZzMyOGdVTy04UjZJYTBFN2VfZzJ1NXN4blphbnRTQU9aRDhyT0hiY3Z5bmsydjIzdTdn?oc=5",
-      "summary": "소연 (SOYEON) - 퇴사할게여 (Narr. 기안84)｜야외녹음실｜Beyond the Studio｜LIVE YouTube",
-      "published_at": "2026-09-08T10:00:03Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
-      "first_seen_at": "2026-09-08T14:29:03Z",
-      "source": "1theK",
-      "category": "Южная Корея",
-      "language": "ko",
-      "region": "South Korea",
-      "is_new": false
-    },
-    {
-      "id": "c59b81ad501d210de2a78f48",
-      "title": "Ado、『今日、好きになりました。』新シリーズ挿入歌「好きでいて」配信スタート - OTOTOY",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE14YTVsQVA2aU9felB4cWVXdzl2SlZKcjM0eXplZENLLWhGXzQ4bjV1UmNfYXRZTlBaYkhuVFdnRmlkbU0?oc=5",
-      "summary": "Ado、『今日、好きになりました。』新シリーズ挿入歌「好きでいて」配信スタート OTOTOY",
-      "published_at": "2026-09-08T10:00:00Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
-      "first_seen_at": "2026-09-08T10:27:28Z",
-      "source": "OTOTOY",
-      "category": "Япония",
-      "language": "ja",
-      "region": "Japan",
-      "is_new": false
-    },
-    {
-      "id": "ed67c3bf21543f5b34f8b43a",
-      "title": "伝説のレコード「ウルトラマン大百科」CD復刻発売記念！──ウルトラ音楽を「空想科学読本」でおなじみの柳田理科雄が語る!！ - OTOTOY",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1kWDRqc1MxSVN6OG5IR0xPa2xiMjVhbTIwbFZlZEVDNFNRY0dTY19JLVIwMEhGMTZaZjFTQ2FMbmpVNHBYQ1dDVGhWNGk?oc=5",
-      "summary": "伝説のレコード「ウルトラマン大百科」CD復刻発売記念！──ウルトラ音楽を「空想科学読本」でおなじみの柳田理科雄が語る!！ OTOTOY",
-      "published_at": "2026-09-08T10:00:00Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
-      "first_seen_at": "2026-09-08T11:26:10Z",
-      "source": "OTOTOY",
-      "category": "Япония",
-      "language": "ja",
-      "region": "Japan",
-      "is_new": false
-    },
-    {
-      "id": "1b5f6a1b14d187e0ac163306",
-      "title": "堂本剛、自身のクリエイティブ・プロジェクト.ENDRECHERI.で3都市ビルボードライブ・ツアー開催 - Billboard JAPAN",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1DSXJuQldQRy1aTGY0YnNhZ2x1ak90OFdEMFE5cDZxc1ZUNzVJeTItUVpQM0tEU1pKNWhhRHd5RXg2Y3dsNGh2Y1pIYm1OZi1Vd3dwMmRjbVpDVlZRWTRfRVpR?oc=5",
-      "summary": "堂本剛、自身のクリエイティブ・プロジェクト.ENDRECHERI.で3都市ビルボードライブ・ツアー開催 Billboard JAPAN",
-      "published_at": "2026-09-08T10:00:00Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
-      "first_seen_at": "2026-09-08T10:27:28Z",
-      "source": "Billboard Japan",
-      "category": "Япония",
-      "language": "ja",
-      "region": "Japan",
-      "is_new": false
-    },
-    {
-      "id": "11a163ecf0474cfde6e7c587",
-      "title": "黒夢が“クロの日”に繰り広げた100%のステージ「皆さんが僕らのDNAを殺さずにいてくれた」（ライブレポート / 写真10枚） - ナタリー",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5aX0VLN0dTbmpNRTlVb0o1VVlHdE5HRHM5QUVFZU53MnV6ZnNSRHJucXZWMGFqWl9ZUldJeG91ZUhqN1pUUlBzWWZnanA?oc=5",
-      "summary": "黒夢が“クロの日”に繰り広げた100%のステージ「皆さんが僕らのDNAを殺さずにいてくれた」（ライブレポート / 写真10枚） ナタリー",
-      "published_at": "2026-09-08T10:00:00Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
-      "first_seen_at": "2026-09-08T12:32:58Z",
-      "source": "Natalie Music",
-      "category": "Япония",
-      "language": "ja",
-      "region": "Japan",
-      "is_new": false
-    },
-    {
-      "id": "26f10a1e1f8ce39bed0b2cc1",
-      "title": "Jungle Smile、デビュー30周年記念ALリリース決定 - OTOTOY",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5BSnhiQU9jNjJhSFZqdXpkMkVLWkxEUFRtSE00TnZUdjhiVzROM2VtVU16Q015UGZqdWg1dVdXSFhLaU0?oc=5",
-      "summary": "Jungle Smile、デビュー30周年記念ALリリース決定 OTOTOY",
-      "published_at": "2026-09-08T10:00:00Z",
-      "fetched_at": "2026-09-08T14:29:03Z",
-      "first_seen_at": "2026-09-08T10:27:28Z",
-      "source": "OTOTOY",
-      "category": "Япония",
-      "language": "ja",
-      "region": "Japan",
-      "is_new": false
-    },
-    {
-      "id": "e850058fe0460cba59a9918d",
-      "title": "Music Industry Therapist Collective UK Launches Fund For Small & Mid-Sized Tours, Backed By AEG, Live Nation, The Team & Others - Pollstar News",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOSWNFSG13RzllZU9zQWlOaWFjV1V6YkRUSzRsVFlPSUV2SUlDeXQzY0RmSGN5NXpoSmdiRlNQTENUR1RRSXRwdFNHc0lVQTRaNXpFbENFaUQxQ2FlQnNtV05fQW9qbDNmZjYwRzhXZHpsX18wTWpPWEVQeWhxdnE3OVlqVC1qM1M0eThhbjFNc0gxSExKRVNrWlhVQjNKOFVac05sVTU4Mlh6T1VfNUJjcWZOaXFXWTNqQmFJamVQVVBHcnZ2eTFRUGUzbXR0U1JhR3pyZ1ZBMEVqNmFZdGxZb1J3RDBLMUljeFdZMG11TQ?oc=5",
-      "summary": "Music Industry Therapist Collective UK Launches Fund For Small & Mid-Sized Tours, Backed By AEG, Live Nation, The Team & Others Pollstar News",
-      "published_at": "2026-09-08T09:58:30Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
-      "first_seen_at": "2026-09-08T10:27:28Z",
-      "source": "Pollstar",
-      "category": "Концертная индустрия, туры и технический продакшн",
-      "language": "en",
-      "region": "Global",
-      "is_new": false
-    },
-    {
-      "id": "a90cb1bf45db2a2e34545a38",
-      "title": "AEG Presents opens Berlin office, hires Sina Hall to build its country music business in Germany",
-      "url": "https://www.musicbusinessworldwide.com/aeg-presents-opens-berlin-office-hires-sina-hall-to-build-its-country-music-business-in-germany/",
-      "summary": "Sina Hall joins as Senior Promoter from Semmel Concerts, and will report to Adam Wilkes, President and CEO, AEG Presents Europe and Asia-Pacific. Source",
-      "published_at": "2026-09-08T09:56:16Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
-      "first_seen_at": "2026-09-08T10:27:28Z",
-      "source": "Music Business Worldwide",
-      "category": "Музыкальный бизнес, маркетинг и данные",
-      "language": "en",
-      "region": "Global",
-      "is_new": false
-    },
-    {
-      "id": "242290b36588113f4bf83bbb",
-      "title": "Apple Music週間ソング8/31〜9/6、EBiDAN（恵比寿学園男子部）, 超特急, M!LK & 原因は自分にある。の「Yes! 東京（feat. SUPER★DRAGON, Sakurashimeji, ONE N’ ONLY, BUDDiiS, ICEx & Lienel）」が3週連続で1位にランクイン - musicman.co.jp",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4yR1lJRU0wRFBzTGR6dUNoQXBoTXd2aWlhemIyMW1Jd0FzNjZTTHlYdmNxODVVTlpDSXQ4dUExVDRUaVRFVk56a0JYTlhsWS0z?oc=5",
-      "summary": "Apple Music週間ソング8/31〜9/6、EBiDAN（恵比寿学園男子部）, 超特急, M!LK & 原因は自分にある。の「Yes! 東京（feat. SUPER★DRAGON, Sakurashimeji, ONE N’ ONLY, BUDDiiS, ICEx & Lienel）」が3週連続で1位にランクイン musicman.co.jp",
-      "published_at": "2026-09-08T09:52:15Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
-      "first_seen_at": "2026-09-08T15:29:06Z",
-      "source": "Musicman",
-      "category": "Япония",
-      "language": "ja",
-      "region": "Japan",
-      "is_new": false
-    },
-    {
-      "id": "cac2811106fe7dfc8caadd66",
-      "title": "Xils Lab MemoryTone: the year of the Memorymoog emulations isn’t yet over - synth anatomy",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV1JmVWVsY3JZWGs3X0loV0Nfb3dvVkhlbHE1cGNZY0RGaWYyaldGZW9xZWNvZWJRMzY3NF9oZlpQS1JXYTIxUWdtRDk3Q3lzTzhQZ0l6TFdiQ0o3eEhIeG1WdWx3MjB5Sm0wbjhtTXQxYS1wZy1ZV0pHLV8xcUZVbVFfNm1mYXF0UFYtSi1BamdHYXJBNFpGZk1GWm5RNHBlTFlUdDNtcHZTVExRT3Bz?oc=5",
-      "summary": "Xils Lab MemoryTone: the year of the Memorymoog emulations isn’t yet over synth anatomy",
-      "published_at": "2026-09-08T09:48:34Z",
-      "fetched_at": "2026-09-08T12:32:58Z",
-      "first_seen_at": "2026-09-08T11:26:10Z",
-      "source": "Synth Anatomy",
-      "category": "Продакшн, звукозапись и технологии",
-      "language": "en",
-      "region": "Global",
-      "is_new": false
-    },
-    {
-      "id": "ffad8eb49f15c1cb07741d57",
-      "title": "Album review: Movements – Happier Now - Kerrang!",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFYkZPN2xvcFB1M1ZjNU5YS3UxSE1XZkJZeUdZZUNNQUthcHpPUGtTdEJFOVhyTmtaNnVfUUVTZnBESHlSdGlHeExRSjlVRnVKRnZoNlNsUFNReFZoNUtJUm56S1BBZzduNVE?oc=5",
-      "summary": "Album review: Movements – Happier Now Kerrang!",
-      "published_at": "2026-09-08T09:48:00Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
-      "first_seen_at": "2026-09-08T11:26:10Z",
-      "source": "Kerrang!",
-      "category": "Музыка, критика и новая музыка",
-      "language": "en",
-      "region": "Global",
-      "is_new": false
-    },
-    {
-      "id": "1403d4d575daca6af641647e",
-      "title": "Korn drummer Ray Luzier has tracked his parts for their new album - Kerrang!",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNWpQRVZiOGhHZUtBMHJDNWpka2RUWWltRWkzWlVYcEhlWUNhWk96djI5RG9kOTlYTVF3ejB0dFgwbUhRTzRTY3hsRDNlMmZ3ck9CSVFnOHRhdlVGcUJEWUV2SldHeWxDcS03bVNVeUhWbHV0ZVBOMS02NHRNek1hWEVNc1IyTWZWYnVsX0U4ODF6cFU?oc=5",
-      "summary": "Korn drummer Ray Luzier has tracked his parts for their new album Kerrang!",
-      "published_at": "2026-09-08T09:43:00Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
-      "first_seen_at": "2026-09-08T11:26:10Z",
-      "source": "Kerrang!",
-      "category": "Музыка, критика и новая музыка",
-      "language": "en",
-      "region": "Global",
-      "is_new": false
-    },
-    {
-      "id": "992ed2007340095b4f810409",
-      "title": "&TEAM、新曲「Mark on Me」MV公開「これまで見たことのない&TEAMをお見せします」 - オリコンニュース",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1DREVhVUNSMkJnRVVoNW5lMnZnX0ZaZXpaVnI1MlViWm9LUXYxVFlPdkY1ZHI2VHNwa21CeEpjVllSUFF2SGhkVGl6V1pWcm8?oc=5",
-      "summary": "&TEAM、新曲「Mark on Me」MV公開「これまで見たことのない&TEAMをお見せします」 オリコンニュース",
-      "published_at": "2026-09-08T09:40:00Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
-      "first_seen_at": "2026-09-08T10:27:28Z",
-      "source": "Oricon",
-      "category": "Япония",
-      "language": "ja",
-      "region": "Japan",
-      "is_new": false
-    },
-    {
-      "id": "ab0ac3909518d51ef232de54",
-      "title": "Macklemore defends Pro-Palestine statements and shares full speech from Ed Sheeran gig after criticism from P!NK, Boy George and more",
-      "url": "https://www.nme.com/news/music/macklemore-defends-pro-palestine-statements-and-shares-full-speech-from-ed-sheeran-gig-after-criticism-from-pnk-boy-george-and-more-3967496?utm_source=rss&utm_medium=rss&utm_campaign=macklemore-defends-pro-palestine-statements-and-shares-full-speech-from-ed-sheeran-gig-after-criticism-from-pnk-boy-george-and-more",
-      "summary": "\"Wanting all humans to be treated equal should never be controversial\" The post Macklemore defends Pro-Palestine statements and shares full speech from Ed Sheeran gig after criticism from P!NK, Boy George and more appeared first on NME .",
-      "published_at": "2026-09-08T09:39:51Z",
-      "fetched_at": "2026-09-08T11:26:10Z",
-      "first_seen_at": "2026-09-08T10:27:28Z",
-      "source": "NME",
-      "category": "Музыка, критика и новая музыка",
-      "language": "en",
-      "region": "Global",
-      "is_new": false
-    },
-    {
-      "id": "198e42f6f085ca08fb3a7dcf",
-      "title": "オランダから一時帰国中の幾何学模様Ryu Kurosawa、ヨシダダイキチが群馬でライブ - ナタリー",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9hU2VhbzdQbzJUdDR2NXJUejBYR09DRWwtbkVfMndsQmxtVlhHLUY0WEdXdkhHU0pGNjhrVllLeGpvcDh4VFJMZmxSbkk?oc=5",
-      "summary": "オランダから一時帰国中の幾何学模様Ryu Kurosawa、ヨシダダイキチが群馬でライブ ナタリー",
-      "published_at": "2026-09-08T09:32:00Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
-      "first_seen_at": "2026-09-08T10:27:28Z",
-      "source": "Natalie Music",
-      "category": "Япония",
-      "language": "ja",
-      "region": "Japan",
-      "is_new": false
-    },
-    {
-      "id": "d3551e7401da2b15f5d0924d",
-      "title": "TAPE - System of a Down - Watch the full programme | ARTE Concert - Arte.tv",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9kVkR2V1JEWUpGYmVZQWR1TWp6cHZIUk9ZcFN2V2RLZWdvV29UaDRtY0I3bG1LZjZiMkpXMWtvNlJTSnVUNE1NSGgzcWdEN2JGVWc2Mk9QYVN5ZHNY?oc=5",
-      "summary": "TAPE - System of a Down - Watch the full programme | ARTE Concert Arte.tv",
-      "published_at": "2026-09-08T09:31:08Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
-      "first_seen_at": "2026-09-08T10:27:28Z",
-      "source": "ARTE Concert",
-      "category": "Живые выступления и видеосессии",
-      "language": "en",
-      "region": "Global",
-      "is_new": false
-    },
-    {
-      "id": "7e94c118fb1ca97b46e02e9b",
-      "title": "M!LK、『LOVE ENG!NE』より「時空超えてユニバース」先行配信がスタート 新アーティスト写真も公開 - Billboard JAPAN",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9BSEp3MlNXTTNSMUVtdmZXR0tsTElLaTJIeEl4R1FZYXpnMy0zZFVLVWlfOHZWNlU5REJHck92UkJ0YUxrek5zZWdNYlluSHZqUmpMVnBjSFRnYkUyNnE3bm5B?oc=5",
-      "summary": "M!LK、『LOVE ENG!NE』より「時空超えてユニバース」先行配信がスタート 新アーティスト写真も公開 Billboard JAPAN",
-      "published_at": "2026-09-08T09:30:00Z",
-      "fetched_at": "2026-09-08T15:29:06Z",
-      "first_seen_at": "2026-09-08T10:27:28Z",
-      "source": "Billboard Japan",
-      "category": "Япония",
-      "language": "ja",
-      "region": "Japan",
       "is_new": false
     }
   ]

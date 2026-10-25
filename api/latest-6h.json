@@ -1,25 +1,53 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-25T16:16:49Z",
+  "generated_at": "2026-10-25T19:06:04Z",
   "window_hours": 6,
   "source_count": 262,
   "feeds_ok": 259,
   "feeds_failed": 3,
-  "item_count": 21,
+  "item_count": 12,
   "items": [
+    {
+      "id": "8e5990bf282bd8cfda52f80a",
+      "title": "Texicity! What happened when System Of A Down headlined Sick New World Texas - Kerrang!",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNWpJSjFlZ3NMbTFPQzl5dGVLQ1M4VTFxVWdrRW9uWFdaMU9sNDg1ODE0akVwcFgxQ1dNMmswWEZFWmZxYTA4Y0RFVFlGVUtDNGhSWE9Rb1VRYzRwbk16eGZ3NzNjSnJYV19FcVpBeVRlcTN2b2VpTVhheHVITlBONnlIN0s1cmI5d3c?oc=5",
+      "summary": "Texicity! What happened when System Of A Down headlined Sick New World Texas Kerrang!",
+      "published_at": "2026-10-25T17:32:30Z",
+      "fetched_at": "2026-10-25T19:06:04Z",
+      "first_seen_at": "2026-10-25T19:06:04Z",
+      "source": "Kerrang!",
+      "category": "Музыка, критика и новая музыка",
+      "language": "en",
+      "region": "Global",
+      "is_new": true
+    },
+    {
+      "id": "c08eee3649d6e1772c06be8f",
+      "title": "Harry Styles Quietly Reveals He’s Releasing a New Music Video for a Fan-Favorite Song - Billboard",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcVI2cDJDVDFsVXNnVEYzTlJWY3JURmM2UGxaRTROTmE2TlpscUpVYXdmVWszOG1WYy1RQ0w2UDMzSmw4NTQtQmhxQkt6X0U4OWZLbjkyRE1fLVBVdXRRV2ktTE5GNW1TMDduZTBGU0RacC1MY2NodHNlX09yOWdIbFZETmFXX0dHZURlNHdILUpDaS1oOFpVVFQ5bw?oc=5",
+      "summary": "Harry Styles Quietly Reveals He’s Releasing a New Music Video for a Fan-Favorite Song Billboard",
+      "published_at": "2026-10-25T16:22:34Z",
+      "fetched_at": "2026-10-25T19:06:04Z",
+      "first_seen_at": "2026-10-25T19:06:04Z",
+      "source": "Billboard",
+      "category": "Музыкальный бизнес, маркетинг и данные",
+      "language": "en",
+      "region": "Global",
+      "is_new": true
+    },
     {
       "id": "56fbf8a446bbb43568227e78",
       "title": "Pulp on their full circle moment with the Mercury Prize and Brian Eno nearly throwing their prize money away",
       "url": "https://www.nme.com/news/music/pulp-interview-mercury-prize-war-child-help-2-brian-eno-different-class-3974140?utm_source=rss&utm_medium=rss&utm_campaign=pulp-interview-mercury-prize-war-child-help-2-brian-eno-different-class",
       "summary": "Jarvis Cocker tells us about what he spent his wages on back when he was a paper boy as the indie veterans also share the secret to a great album and what it was like to work on 'Help(2)' The post Pulp on their full circle moment with the Mercury Prize and Brian Eno nearly throwing their prize money away appeared first on NME .",
       "published_at": "2026-10-25T14:24:20Z",
-      "fetched_at": "2026-10-25T16:16:49Z",
+      "fetched_at": "2026-10-25T19:06:04Z",
       "first_seen_at": "2026-10-25T16:16:49Z",
       "source": "NME",
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "2564bf9e3728a23f9da620bc",
@@ -27,13 +55,13 @@
       "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE9RYWttV1dCdEVMWG0xbW10ZU5pNTJnU3FnMHlQNjR2TnhyZGZaRW1MaHE2eS1IcUFmNDBsMQ?oc=5",
       "summary": "Nastia cancels US shows over Trump administration's Ukraine policy · News ⟋ RA Resident Advisor",
       "published_at": "2026-10-25T14:05:04Z",
-      "fetched_at": "2026-10-25T16:16:49Z",
+      "fetched_at": "2026-10-25T19:06:04Z",
       "first_seen_at": "2026-10-25T16:16:49Z",
       "source": "Resident Advisor",
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "2e33d3fc32c76f652d1d804f",
@@ -41,13 +69,13 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE15aHF0SUpicHJZZXdQbTlSNnpHcHdLNkd3YnFRdk5oVm5ZZ25pbWVpSUJWRndIZ1VlOEhkN0dULUI5YmR5ZWxxd05Sck5FR3JrWG1KMDh1dHZyendrU0pCWW13?oc=5",
       "summary": "KEY TO LIT、奇天烈で奇抜な「KEY TERUYA2 ～キテルヤツ～」MVテーマは“日の出” Billboard JAPAN",
       "published_at": "2026-10-25T14:05:00Z",
-      "fetched_at": "2026-10-25T16:16:49Z",
+      "fetched_at": "2026-10-25T19:06:04Z",
       "first_seen_at": "2026-10-25T16:16:49Z",
       "source": "Billboard Japan",
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "9a7a5e8316f8a69bc084c271",
@@ -55,13 +83,13 @@
       "url": "https://www.theguardian.com/lifeandstyle/2026/oct/25/natasha-bedingfield-singer-songwriter-looks-back-interview-new-single-dot-dot-dot",
       "summary": "The singer-songwriter on her unconventional education, her brother Daniel, and her quest to write a classic like Purple Rain Born in London in 1981, Natasha Bedingfield is a singer and songwriter. Her 2004 debut album, Unwritten, sold more than 2.3m copies and featured the No 1 single These Words. She has released three further albums, scoring UK Top 10 hits and success in the US with Pocketful of Sunshine. Nearly two decades after it was released, her single Unwritten became a viral TikTok hit in 2021. Her new single, Dot Dot Dot, is out now. This was taken at Hilly Fields park in south -east",
       "published_at": "2026-10-25T14:00:05Z",
-      "fetched_at": "2026-10-25T16:16:49Z",
+      "fetched_at": "2026-10-25T19:06:04Z",
       "first_seen_at": "2026-10-25T16:16:49Z",
       "source": "The Guardian Music",
       "category": "Музыка, критика и новая музыка",
       "language": "en",
       "region": "Global",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "8e028a858b144a4def5464b8",
@@ -69,13 +97,13 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE91eXJMRmRtOE1GemVuQ0RXNEpyYXVCSFF3Rk9zX2FjVFJkelp5X01DZHJ4cW1qSWFXRjcyaHFaNWJ4V2hELS1aQS1jRHg5dVFoMVNicnNFNG1zeHNJemF1WFpn?oc=5",
       "summary": "Travis Japan、ニューアルバム『Jewelry Basket』初回T盤の特典映像ダイジェストを公開 Billboard JAPAN",
       "published_at": "2026-10-25T13:50:00Z",
-      "fetched_at": "2026-10-25T16:16:49Z",
+      "fetched_at": "2026-10-25T19:06:04Z",
       "first_seen_at": "2026-10-25T16:16:49Z",
       "source": "Billboard Japan",
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "d8d8689dee2cb01a849707fd",
@@ -83,13 +111,13 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1kVkQ4QjNGaVl4RXNPeWhTX18xTjNjN1VYaTVfcktlVm5mWENUOTFxNjNJdWtITXVTVWJRWTVvbmRtc1QxdWZrcXNhS1ZXNUFqRjBlWFNaR3ZiUkt0dUlVRFV3?oc=5",
       "summary": "Da-iCE、新曲「うららか」ダンスパフォーマンス映像のビハインド公開 Billboard JAPAN",
       "published_at": "2026-10-25T13:45:00Z",
-      "fetched_at": "2026-10-25T16:16:49Z",
+      "fetched_at": "2026-10-25T19:06:04Z",
       "first_seen_at": "2026-10-25T16:16:49Z",
       "source": "Billboard Japan",
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "db62c97cc359abc34e552233",
@@ -97,13 +125,13 @@
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE41ekdURjc2RU9EamllUTNTb2hQREIzTlVJR3dUb0xiZmgtSHhwbmR5YVhfcG1PdGxpMjJ5d1hEYmg4RXkwT1BRQmpoZTA?oc=5",
       "summary": "moon drop、ワンマンツアーで全国11都市巡る ナタリー",
       "published_at": "2026-10-25T13:45:00Z",
-      "fetched_at": "2026-10-25T16:16:49Z",
+      "fetched_at": "2026-10-25T19:06:04Z",
       "first_seen_at": "2026-10-25T16:16:49Z",
       "source": "Natalie Music",
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "e09f13f3f467227cbb5406f0",
@@ -111,13 +139,13 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nZjhuelhVNGJxSklVVng4QlY3QmRpUlctbGhTRnJwYkJuUnFwQnIzZVl1eDloV3dCWl9Jc3ZBanVZYjFPRUprSGZxRlRoLVptZTBoMGZ5Y3k0TEJkc0poN3h3?oc=5",
       "summary": "BE:FIRST、ニューアルバム『BE:4U』楽曲制作ビハインド映像のダイジェスト公開 ドームツアー追加公演を発表 Billboard JAPAN",
       "published_at": "2026-10-25T13:25:00Z",
-      "fetched_at": "2026-10-25T16:16:49Z",
+      "fetched_at": "2026-10-25T19:06:04Z",
       "first_seen_at": "2026-10-25T16:16:49Z",
       "source": "Billboard Japan",
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "4d88c808507960ec455f5ba7",
@@ -125,13 +153,13 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE16QmZUZElNbmVDS1IyMXRRY2JFaFJkRUM4eDZsWUh3S2gzblpjRXJvYXl3TmlrYmNKaTlpZUhRN0tlX01Od2RHUVJjcUlyQjlPRDZmVF8zTVkyMEtmTHRscVV3?oc=5",
       "summary": "STARGLOW、新曲「Slam Dunk」MVティザー＆HEARTSTEEL「Live My Life」カバー映像を公開 Billboard JAPAN",
       "published_at": "2026-10-25T13:20:00Z",
-      "fetched_at": "2026-10-25T16:16:49Z",
+      "fetched_at": "2026-10-25T19:06:04Z",
       "first_seen_at": "2026-10-25T16:16:49Z",
       "source": "Billboard Japan",
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "103e6a7db0c1e0baec6036dd",
@@ -139,167 +167,13 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5HZHk1a1U5eUZvT3FLc1h5OWNmT09sZ3BoeFVZZFRBMHU3akd1SUlrelhXdkVnaE1HWGlwQjQxWnFtdW5jUEJXYXJadnpEcEtQNFppX280VXlnWEJkWWFIMVZR?oc=5",
       "summary": "川西拓実（JO1）、自身が作詞・作曲を手掛けたEP『tomorrow』配信リリース Billboard JAPAN",
       "published_at": "2026-10-25T13:10:00Z",
-      "fetched_at": "2026-10-25T16:16:49Z",
+      "fetched_at": "2026-10-25T19:06:04Z",
       "first_seen_at": "2026-10-25T16:16:49Z",
       "source": "Billboard Japan",
       "category": "Япония",
       "language": "ja",
       "region": "Japan",
-      "is_new": true
-    },
-    {
-      "id": "0cec9fa6ae4fc96cff19cdda",
-      "title": "Mrs. GREEN APPLE、大森元貴が監督・企画・脚本を担当した「シンデレラ」MVは自己肯定の物語 - Billboard JAPAN",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE16REVtWFN6anc1S0ZGMDExcU1GWW1zOUtVM3BwX1kweFFIX0ZnUUs5Yzd2R19lUFJBcWJ1LVktai12YlJPaGI3dWZqbWNhRkhBQWdPZ1pvQlFjMWszTWU0V05B?oc=5",
-      "summary": "Mrs. GREEN APPLE、大森元貴が監督・企画・脚本を担当した「シンデレラ」MVは自己肯定の物語 Billboard JAPAN",
-      "published_at": "2026-10-25T13:05:00Z",
-      "fetched_at": "2026-10-25T16:16:49Z",
-      "first_seen_at": "2026-10-25T16:16:49Z",
-      "source": "Billboard Japan",
-      "category": "Япония",
-      "language": "ja",
-      "region": "Japan",
-      "is_new": true
-    },
-    {
-      "id": "40b32b4199621f2f084b9d4c",
-      "title": "Jazzy、洗練されたダンサブルな新ALリリース - OTOTOY",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE0zSXVrVzJIMUZHbW1pcHFvV1J4RFRwRjU3eDY3UWdOLTRCc2JCTWFpd21fUmRwTndIM2VTX3h4Smo0VzA?oc=5",
-      "summary": "Jazzy、洗練されたダンサブルな新ALリリース OTOTOY",
-      "published_at": "2026-10-25T13:00:00Z",
-      "fetched_at": "2026-10-25T16:16:49Z",
-      "first_seen_at": "2026-10-25T16:16:49Z",
-      "source": "OTOTOY",
-      "category": "Япония",
-      "language": "ja",
-      "region": "Japan",
-      "is_new": true
-    },
-    {
-      "id": "6a8ed917798978d767e0b496",
-      "title": "BATTLE GAREGGA 30th ANNIV. REMIX - CDJournal.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0tN21fQnd2a2hyMVV3c2FnS0pyOFRJNHlKOFBzMHhQZlFZNl8tQUIwZG51aEVnVHlKTzlVNnpjYU5Tblh3TnFocEdORU5GSDZVM1VtNDMwYXZZSGp2UmFUX25UODZqcG43S0VycVIwelF6UUxMSERPUTFRVmoyZw?oc=5",
-      "summary": "BATTLE GAREGGA 30th ANNIV. REMIX CDJournal.com",
-      "published_at": "2026-10-25T12:52:37Z",
-      "fetched_at": "2026-10-25T16:16:49Z",
-      "first_seen_at": "2026-10-25T16:16:49Z",
-      "source": "CDJournal",
-      "category": "Япония",
-      "language": "ja",
-      "region": "Japan",
-      "is_new": true
-    },
-    {
-      "id": "ce94eb6972fe7988dd4871a8",
-      "title": "「ゴスペラーズ坂ツアー」通算公演数1000回達成！ゴスペラーズが大漁旗と法被でお祝い - ナタリー",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBHUGFSY1o0dWl6UkFhOWo1MnlkaXoxRlhOcm9xRGNxMnRYMzhBZmhSODZUNXVZLV9JQXNFVlNlZUk2dXpoODNBUkh2NC0?oc=5",
-      "summary": "「ゴスペラーズ坂ツアー」通算公演数1000回達成！ゴスペラーズが大漁旗と法被でお祝い ナタリー",
-      "published_at": "2026-10-25T12:47:00Z",
-      "fetched_at": "2026-10-25T16:16:49Z",
-      "first_seen_at": "2026-10-25T16:16:49Z",
-      "source": "Natalie Music",
-      "category": "Япония",
-      "language": "ja",
-      "region": "Japan",
-      "is_new": true
-    },
-    {
-      "id": "cafce5dedada021f9a6ab323",
-      "title": "OddRe:、実写×アニメーションを融合した「黄泉還」MV公開 - Billboard JAPAN",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE45S05FbWZxeUdLbmlMWHhmY042RE02WjBMQWZUNmdjbm5DY1RYd0R6bmdDVmptVmxUckxYaFNYWUdncFVoWWJOSTBQV2gyR3hTSUpSQndCejAwOHdRa0lFVmJ3?oc=5",
-      "summary": "OddRe:、実写×アニメーションを融合した「黄泉還」MV公開 Billboard JAPAN",
-      "published_at": "2026-10-25T12:00:00Z",
-      "fetched_at": "2026-10-25T16:16:49Z",
-      "first_seen_at": "2026-10-25T16:16:49Z",
-      "source": "Billboard Japan",
-      "category": "Япония",
-      "language": "ja",
-      "region": "Japan",
-      "is_new": true
-    },
-    {
-      "id": "1aaf31ede52ff4cb560eea80",
-      "title": "HEY-SMITH主催フェス「ハジマザ」2027年も開催決定 - ナタリー",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE03enRvdEJEdFR3VDNRZWNnRU05c2pKTWN3bkJuRnpWN1lfNWREU2pjMUNTaXlmQ2l6R2dpOVEwN2NIOXNlM08weEdZNzI?oc=5",
-      "summary": "HEY-SMITH主催フェス「ハジマザ」2027年も開催決定 ナタリー",
-      "published_at": "2026-10-25T12:00:00Z",
-      "fetched_at": "2026-10-25T16:16:49Z",
-      "first_seen_at": "2026-10-25T16:16:49Z",
-      "source": "Natalie Music",
-      "category": "Япония",
-      "language": "ja",
-      "region": "Japan",
-      "is_new": true
-    },
-    {
-      "id": "2a6058d5436ee920b59e6e11",
-      "title": "Elvis Presley rightsholders sue AI company Anthropic over alleged copyright infringement of 274 songs",
-      "url": "https://www.nme.com/news/music/elvis-presley-rightsholders-sue-anthropic-copyright-infringement-274-songs-3974178?utm_source=rss&utm_medium=rss&utm_campaign=elvis-presley-rightsholders-sue-anthropic-copyright-infringement-274-songs",
-      "summary": "The company behind Claude could face more than $40million in damages over the alleged unauthorised use of the singer's catalogue The post Elvis Presley rightsholders sue AI company Anthropic over alleged copyright infringement of 274 songs appeared first on NME .",
-      "published_at": "2026-10-25T11:44:17Z",
-      "fetched_at": "2026-10-25T16:16:49Z",
-      "first_seen_at": "2026-10-25T16:16:49Z",
-      "source": "NME",
-      "category": "Музыка, критика и новая музыка",
-      "language": "en",
-      "region": "Global",
-      "is_new": true
-    },
-    {
-      "id": "25309276060ebc405161fd90",
-      "title": "STARGLOW新曲「Slam Dunk」ミュージックビデオ公開、1stアルバムから明日配信（動画あり） - ナタリー",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5wT1BwOHpMTXg2Wk5wbE5tUnNvNnVjNmFEcXpYWml5dzAtVzJzTlJmRlRLYW84dE5adVlpdFRDdTdlSVQ2SHRfbGZSYWw?oc=5",
-      "summary": "STARGLOW新曲「Slam Dunk」ミュージックビデオ公開、1stアルバムから明日配信（動画あり） ナタリー",
-      "published_at": "2026-10-25T11:00:00Z",
-      "fetched_at": "2026-10-25T16:16:49Z",
-      "first_seen_at": "2026-10-25T16:16:49Z",
-      "source": "Natalie Music",
-      "category": "Япония",
-      "language": "ja",
-      "region": "Japan",
-      "is_new": true
-    },
-    {
-      "id": "c375d3bfa0f2bb56d3fcdf3a",
-      "title": "kurayamisaka、過去最大キャパシティのワンマンライブで鳴らした純真な音（ライブレポート / 写真60枚） - ナタリー",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBCY3ZpWUdzdE0tVzdXbGdDRENiZzk5RERjTUtBQTUxS2poREs4OTh0RFRsYVY1bzJlSm5RNTNaVGFhbDhqOUpjN3haQTY?oc=5",
-      "summary": "kurayamisaka、過去最大キャパシティのワンマンライブで鳴らした純真な音（ライブレポート / 写真60枚） ナタリー",
-      "published_at": "2026-10-25T11:00:00Z",
-      "fetched_at": "2026-10-25T16:16:49Z",
-      "first_seen_at": "2026-10-25T16:16:49Z",
-      "source": "Natalie Music",
-      "category": "Япония",
-      "language": "ja",
-      "region": "Japan",
-      "is_new": true
-    },
-    {
-      "id": "cffcf67f7b7119300e41bf9f",
-      "title": "ひとひら、来年2月より東名阪クアトロツアー - ナタリー",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1TWTgyVFVtTFpyOVl0c19jMXVwYWhxVzZjMTRMYWRCMmZRYXdQUHltVUt4Vk5UYm1zVW0takZEbk9YRWlWcGxWdzNlNnA?oc=5",
-      "summary": "ひとひら、来年2月より東名阪クアトロツアー ナタリー",
-      "published_at": "2026-10-25T11:00:00Z",
-      "fetched_at": "2026-10-25T16:16:49Z",
-      "first_seen_at": "2026-10-25T16:16:49Z",
-      "source": "Natalie Music",
-      "category": "Япония",
-      "language": "ja",
-      "region": "Japan",
-      "is_new": true
-    },
-    {
-      "id": "cbed5800062fc7fe8c5388c3",
-      "title": "Cardi B Attends KATSEYE’s New York Concert With Daughters - Billboard",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTF9oN0hQcWdmNDVQbzlGMWd6dVdrZEVSa0ZwY3E4azFsWHhvVjNEUnJYZVk4V3lIeU16TjUzajhsS1F4Tk5qLU53VU1UcHdyeVNCMlNvSm9jX0p1RmJDUXUyc2FlMVJ5cHZJWUhxVFB0cEhrNUtzWm8xWktmNmp2d09LSHJSRlBGZWdRbWJJSWt5eXFwR0tzS2x0Z1FtWjU3Smg2UTVUNA?oc=5",
-      "summary": "Cardi B Attends KATSEYE’s New York Concert With Daughters Billboard",
-      "published_at": "2026-10-25T10:36:22Z",
-      "fetched_at": "2026-10-25T16:16:49Z",
-      "first_seen_at": "2026-10-25T16:16:49Z",
-      "source": "Billboard",
-      "category": "Музыкальный бизнес, маркетинг и данные",
-      "language": "en",
-      "region": "Global",
-      "is_new": true
+      "is_new": false
     }
   ]
 }
